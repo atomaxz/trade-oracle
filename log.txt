@@ -3001,3 +3001,4 @@
 48307. refactor: split large controller into smaller functions #48307
 1360. style: remove trailing whitespace #1360
 22795. fix: fix null pointer exception on login #22795
+84266. fix: fix null pointer exception on login #84266
