@@ -4,3 +4,4 @@
 48786. fix: prevent crash on empty input #48786
 63759. test: mock database connection in test suite #63759
 78580. docs: write FAQ section #78580
+23880. refactor: organize models into subfolders #23880
