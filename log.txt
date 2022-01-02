@@ -1,3 +1,4 @@
 12021. feat: create admin dashboard #12021
 37307. chore: clean up unused files #37307
 4474. test: test user registration edge cases #4474
+48786. fix: prevent crash on empty input #48786
