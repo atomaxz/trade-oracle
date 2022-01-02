@@ -3003,3 +3003,4 @@
 22795. fix: fix null pointer exception on login #22795
 84266. fix: fix null pointer exception on login #84266
 42479. fix: fix broken CSS in mobile view #42479
+90511. docs: document token refresh logic #90511
