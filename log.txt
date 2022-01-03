@@ -998,3 +998,4 @@
 15232. test: mock database connection in test suite #15232
 29247. refactor: remove redundant code blocks #29247
 25042. fix: resolve issue with date parsing #25042
+68065. test: test user registration edge cases #68065
