@@ -1000,3 +1000,4 @@
 25042. fix: resolve issue with date parsing #25042
 68065. test: test user registration edge cases #68065
 26169. style: apply consistent indentation #26169
+73639. fix: fix null pointer exception on login #73639
