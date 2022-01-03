@@ -6,3 +6,4 @@
 78580. docs: write FAQ section #78580
 23880. refactor: organize models into subfolders #23880
 65606. style: standardize quote style #65606
+45344. chore: bump dependencies #45344
