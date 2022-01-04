@@ -1002,3 +1002,4 @@
 26169. style: apply consistent indentation #26169
 73639. fix: fix null pointer exception on login #73639
 83759. style: reformat files with black #83759
+13032. fix: fix broken CSS in mobile view #13032
