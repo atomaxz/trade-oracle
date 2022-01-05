@@ -1003,3 +1003,4 @@
 73639. fix: fix null pointer exception on login #73639
 83759. style: reformat files with black #83759
 13032. fix: fix broken CSS in mobile view #13032
+95965. feat: add export to CSV option #95965
