@@ -8,3 +8,4 @@
 65606. style: standardize quote style #65606
 45344. chore: bump dependencies #45344
 24968. perf: optimize database query for quiz results #24968
+6424. feat: add export to CSV option #6424
