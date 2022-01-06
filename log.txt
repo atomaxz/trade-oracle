@@ -15,3 +15,4 @@
 11268. perf: reduce image load time #11268
 53445. chore: clean up unused files #53445
 91363. chore: add GitHub actions badge #91363
+1158. refactor: split large controller into smaller functions #1158
