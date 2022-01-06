@@ -17,3 +17,4 @@
 91363. chore: add GitHub actions badge #91363
 1158. refactor: split large controller into smaller functions #1158
 48673. fix: prevent crash on empty input #48673
+70831. feat: create admin dashboard #70831
