@@ -23,3 +23,4 @@
 51285. test: add integration test for /submit endpoint #51285
 42567. test: increase coverage on auth module #42567
 46150. chore: update .gitignore #46150
+10147. fix: fix null pointer exception on login #10147
