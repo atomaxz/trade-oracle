@@ -21,3 +21,4 @@
 63147. perf: optimize database query for quiz results #63147
 43047. chore: clean up unused files #43047
 51285. test: add integration test for /submit endpoint #51285
+42567. test: increase coverage on auth module #42567
