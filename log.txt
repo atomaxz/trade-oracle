@@ -24,3 +24,4 @@
 42567. test: increase coverage on auth module #42567
 46150. chore: update .gitignore #46150
 10147. fix: fix null pointer exception on login #10147
+38567. test: mock database connection in test suite #38567
