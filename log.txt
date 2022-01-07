@@ -1011,3 +1011,4 @@
 34548. style: standardize quote style #34548
 1377. style: remove trailing whitespace #1377
 89481. test: test user registration edge cases #89481
+70959. docs: write FAQ section #70959
