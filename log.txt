@@ -1010,3 +1010,4 @@
 29418. docs: update README with setup steps #29418
 34548. style: standardize quote style #34548
 1377. style: remove trailing whitespace #1377
+89481. test: test user registration edge cases #89481
