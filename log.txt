@@ -28,3 +28,4 @@
 29302. chore: update .gitignore #29302
 66618. docs: update README with setup steps #66618
 54083. perf: cache repeated calculations #54083
+34818. fix: handle 500 error in quiz API #34818
