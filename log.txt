@@ -1019,3 +1019,4 @@
 50756. feat: add user authentication #50756
 89177. feat: implement quiz timer feature #89177
 12425. chore: bump dependencies #12425
+7262. feat: add user authentication #7262
