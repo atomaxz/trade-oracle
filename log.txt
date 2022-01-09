@@ -2021,3 +2021,4 @@
 70485. docs: clarify environment setup #70485
 2780. fix: fix broken CSS in mobile view #2780
 24962. fix: resolve issue with date parsing #24962
+50546. perf: reduce image load time #50546
