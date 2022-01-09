@@ -2019,3 +2019,4 @@
 18660. refactor: organize models into subfolders #18660
 29049. chore: clean up unused files #29049
 70485. docs: clarify environment setup #70485
+2780. fix: fix broken CSS in mobile view #2780
