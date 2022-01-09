@@ -1016,3 +1016,4 @@
 86283. test: add unit test for quiz service #86283
 94419. docs: document token refresh logic #94419
 54188. feat: add export to CSV option #54188
+50756. feat: add user authentication #50756
