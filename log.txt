@@ -3016,3 +3016,4 @@
 33230. style: remove trailing whitespace #33230
 86214. test: test user registration edge cases #86214
 33457. perf: lazy-load components #33457
+59714. docs: write FAQ section #59714
