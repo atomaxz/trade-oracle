@@ -2024,3 +2024,4 @@
 50546. perf: reduce image load time #50546
 8617. perf: optimize database query for quiz results #8617
 19020. style: apply consistent indentation #19020
+11850. perf: lazy-load components #11850
