@@ -1022,3 +1022,4 @@
 7262. feat: add user authentication #7262
 95831. test: test user registration edge cases #95831
 20178. test: increase coverage on auth module #20178
+65534. chore: clean up unused files #65534
