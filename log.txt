@@ -3017,3 +3017,4 @@
 86214. test: test user registration edge cases #86214
 33457. perf: lazy-load components #33457
 59714. docs: write FAQ section #59714
+55869. docs: update README with setup steps #55869
