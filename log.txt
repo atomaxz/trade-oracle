@@ -31,3 +31,4 @@
 34818. fix: handle 500 error in quiz API #34818
 27136. fix: fix null pointer exception on login #27136
 79980. perf: optimize database query for quiz results #79980
+40251. fix: fix null pointer exception on login #40251
