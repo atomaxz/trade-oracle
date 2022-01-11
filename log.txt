@@ -2026,3 +2026,4 @@
 19020. style: apply consistent indentation #19020
 11850. perf: lazy-load components #11850
 60020. perf: lazy-load components #60020
+88995. perf: lazy-load components #88995
