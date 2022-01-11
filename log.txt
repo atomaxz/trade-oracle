@@ -35,3 +35,4 @@
 88768. feat: add user authentication #88768
 72339. fix: correct typo in registration form #72339
 38864. test: add integration test for /submit endpoint #38864
+43687. feat: add user authentication #43687
