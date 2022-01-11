@@ -33,3 +33,4 @@
 79980. perf: optimize database query for quiz results #79980
 40251. fix: fix null pointer exception on login #40251
 88768. feat: add user authentication #88768
+72339. fix: correct typo in registration form #72339
