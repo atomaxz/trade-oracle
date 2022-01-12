@@ -2032,3 +2032,4 @@
 61869. docs: clarify environment setup #61869
 82532. style: apply consistent indentation #82532
 13374. docs: clarify environment setup #13374
+34876. fix: prevent crash on empty input #34876
