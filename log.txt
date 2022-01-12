@@ -3019,3 +3019,4 @@
 59714. docs: write FAQ section #59714
 55869. docs: update README with setup steps #55869
 94110. docs: add API usage examples #94110
+13264. fix: fix broken CSS in mobile view #13264
