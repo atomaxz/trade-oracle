@@ -39,3 +39,4 @@
 1708. test: test user registration edge cases #1708
 64903. refactor: organize models into subfolders #64903
 58827. style: rename variables for clarity #58827
+97824. refactor: remove redundant code blocks #97824
