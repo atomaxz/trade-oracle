@@ -1029,3 +1029,4 @@
 36166. refactor: remove redundant code blocks #36166
 19235. test: test user registration edge cases #19235
 37651. style: remove trailing whitespace #37651
+90504. refactor: remove redundant code blocks #90504
