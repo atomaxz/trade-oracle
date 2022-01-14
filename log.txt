@@ -2038,3 +2038,4 @@
 6720. test: mock database connection in test suite #6720
 25018. style: rename variables for clarity #25018
 77128. fix: fix null pointer exception on login #77128
+66481. chore: bump dependencies #66481
