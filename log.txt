@@ -49,3 +49,4 @@
 68344. chore: bump dependencies #68344
 65342. style: reformat files with black #65342
 39754. test: increase coverage on auth module #39754
+95098. test: mock database connection in test suite #95098
