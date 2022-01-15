@@ -3031,3 +3031,4 @@
 64392. fix: fix null pointer exception on login #64392
 85363. refactor: clean up auth middleware #85363
 70546. docs: clarify environment setup #70546
+4837. perf: optimize database query for quiz results #4837
