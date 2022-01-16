@@ -51,3 +51,4 @@
 39754. test: increase coverage on auth module #39754
 95098. test: mock database connection in test suite #95098
 7934. refactor: remove redundant code blocks #7934
+22980. style: remove trailing whitespace #22980
