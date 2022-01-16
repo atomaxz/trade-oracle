@@ -1040,3 +1040,4 @@
 88250. fix: prevent crash on empty input #88250
 5014. test: add integration test for /submit endpoint #5014
 8232. docs: add API usage examples #8232
+44402. chore: add GitHub actions badge #44402
