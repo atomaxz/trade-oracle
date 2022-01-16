@@ -2045,3 +2045,4 @@
 62322. docs: add API usage examples #62322
 71844. perf: lazy-load components #71844
 29057. perf: reduce image load time #29057
+3869. feat: add export to CSV option #3869
