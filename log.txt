@@ -52,3 +52,4 @@
 95098. test: mock database connection in test suite #95098
 7934. refactor: remove redundant code blocks #7934
 22980. style: remove trailing whitespace #22980
+50460. fix: resolve issue with date parsing #50460
