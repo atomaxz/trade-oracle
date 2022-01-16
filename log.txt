@@ -2046,3 +2046,4 @@
 71844. perf: lazy-load components #71844
 29057. perf: reduce image load time #29057
 3869. feat: add export to CSV option #3869
+73855. test: mock database connection in test suite #73855
