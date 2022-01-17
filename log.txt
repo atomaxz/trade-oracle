@@ -2047,3 +2047,4 @@
 29057. perf: reduce image load time #29057
 3869. feat: add export to CSV option #3869
 73855. test: mock database connection in test suite #73855
+9550. style: apply consistent indentation #9550
