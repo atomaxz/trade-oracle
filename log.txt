@@ -2049,3 +2049,4 @@
 73855. test: mock database connection in test suite #73855
 9550. style: apply consistent indentation #9550
 6925. test: increase coverage on auth module #6925
+32331. fix: resolve issue with date parsing #32331
