@@ -3041,3 +3041,4 @@
 39022. fix: fix broken CSS in mobile view #39022
 86674. chore: bump dependencies #86674
 96330. fix: prevent crash on empty input #96330
+73876. test: mock database connection in test suite #73876
