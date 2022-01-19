@@ -60,3 +60,4 @@
 71594. chore: add GitHub actions badge #71594
 5027. fix: fix null pointer exception on login #5027
 3424. chore: rename env.example #3424
+74037. style: standardize quote style #74037
