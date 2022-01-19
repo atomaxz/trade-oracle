@@ -58,3 +58,4 @@
 44108. chore: update .gitignore #44108
 60177. refactor: remove redundant code blocks #60177
 71594. chore: add GitHub actions badge #71594
+5027. fix: fix null pointer exception on login #5027
