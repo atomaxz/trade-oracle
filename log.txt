@@ -59,3 +59,4 @@
 60177. refactor: remove redundant code blocks #60177
 71594. chore: add GitHub actions badge #71594
 5027. fix: fix null pointer exception on login #5027
+3424. chore: rename env.example #3424
