@@ -2052,3 +2052,4 @@
 32331. fix: resolve issue with date parsing #32331
 83948. refactor: remove redundant code blocks #83948
 73379. chore: rename env.example #73379
+76073. perf: lazy-load components #76073
