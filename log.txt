@@ -64,3 +64,4 @@
 60088. docs: write FAQ section #60088
 9996. test: add integration test for /submit endpoint #9996
 75760. test: add integration test for /submit endpoint #75760
+27068. fix: resolve issue with date parsing #27068
