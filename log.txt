@@ -2053,3 +2053,4 @@
 83948. refactor: remove redundant code blocks #83948
 73379. chore: rename env.example #73379
 76073. perf: lazy-load components #76073
+24528. feat: support email verification #24528
