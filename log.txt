@@ -2056,3 +2056,4 @@
 24528. feat: support email verification #24528
 90625. docs: write FAQ section #90625
 3582. docs: improve code comments in utils #3582
+61283. test: test user registration edge cases #61283
