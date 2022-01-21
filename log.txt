@@ -2058,3 +2058,4 @@
 3582. docs: improve code comments in utils #3582
 61283. test: test user registration edge cases #61283
 24530. perf: cache repeated calculations #24530
+4008. docs: add API usage examples #4008
