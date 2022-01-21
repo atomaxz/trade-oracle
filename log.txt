@@ -3048,3 +3048,4 @@
 13570. docs: document token refresh logic #13570
 7289. refactor: organize models into subfolders #7289
 78108. perf: reduce image load time #78108
+42768. test: test user registration edge cases #42768
