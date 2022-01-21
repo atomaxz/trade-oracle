@@ -68,3 +68,4 @@
 56479. test: increase coverage on auth module #56479
 37949. test: increase coverage on auth module #37949
 57194. feat: support email verification #57194
+95672. docs: document token refresh logic #95672
