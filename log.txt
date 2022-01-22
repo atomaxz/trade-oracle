@@ -3052,3 +3052,4 @@
 70576. test: mock database connection in test suite #70576
 2299. style: reformat files with black #2299
 65946. test: test user registration edge cases #65946
+0841. fix: resolve issue with date parsing #841
