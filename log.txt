@@ -2060,3 +2060,4 @@
 24530. perf: cache repeated calculations #24530
 4008. docs: add API usage examples #4008
 81813. perf: cache repeated calculations #81813
+69619. docs: document token refresh logic #69619
