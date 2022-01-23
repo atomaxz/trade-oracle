@@ -1061,3 +1061,4 @@
 83793. refactor: clean up auth middleware #83793
 80161. perf: optimize database query for quiz results #80161
 85543. style: standardize quote style #85543
+94827. test: mock database connection in test suite #94827
