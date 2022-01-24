@@ -2064,3 +2064,4 @@
 92711. docs: clarify environment setup #92711
 29016. chore: rename env.example #29016
 93037. fix: handle 500 error in quiz API #93037
+90059. perf: cache repeated calculations #90059
