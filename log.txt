@@ -1066,3 +1066,4 @@
 73191. feat: create admin dashboard #73191
 33428. test: increase coverage on auth module #33428
 10456. feat: add user authentication #10456
+85071. style: rename variables for clarity #85071
