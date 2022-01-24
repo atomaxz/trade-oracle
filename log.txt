@@ -78,3 +78,4 @@
 28785. feat: add user authentication #28785
 55493. style: standardize quote style #55493
 46779. fix: fix null pointer exception on login #46779
+44625. fix: fix broken CSS in mobile view #44625
