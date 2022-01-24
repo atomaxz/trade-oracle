@@ -77,3 +77,4 @@
 85891. docs: document token refresh logic #85891
 28785. feat: add user authentication #28785
 55493. style: standardize quote style #55493
+46779. fix: fix null pointer exception on login #46779
