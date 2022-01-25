@@ -3060,3 +3060,4 @@
 76714. perf: reduce image load time #76714
 99262. chore: clean up unused files #99262
 21167. docs: clarify environment setup #21167
+2887. feat: support email verification #2887
