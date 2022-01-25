@@ -3059,3 +3059,4 @@
 50338. chore: rename env.example #50338
 76714. perf: reduce image load time #76714
 99262. chore: clean up unused files #99262
+21167. docs: clarify environment setup #21167
