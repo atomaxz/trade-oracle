@@ -2067,3 +2067,4 @@
 90059. perf: cache repeated calculations #90059
 7941. refactor: remove redundant code blocks #7941
 2913. docs: clarify environment setup #2913
+75414. docs: write FAQ section #75414
