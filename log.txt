@@ -2072,3 +2072,4 @@
 67086. chore: bump dependencies #67086
 18853. feat: create admin dashboard #18853
 26857. test: increase coverage on auth module #26857
+4121. feat: add user authentication #4121
