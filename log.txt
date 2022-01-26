@@ -3065,3 +3065,4 @@
 83032. feat: create admin dashboard #83032
 19648. feat: implement quiz timer feature #19648
 4249. perf: reduce image load time #4249
+95070. feat: enable dark mode toggle #95070
