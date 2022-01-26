@@ -83,3 +83,4 @@
 0234. docs: write FAQ section #234
 58056. style: standardize quote style #58056
 23479. refactor: remove redundant code blocks #23479
+7001. test: increase coverage on auth module #7001
