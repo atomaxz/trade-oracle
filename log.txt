@@ -1070,3 +1070,4 @@
 10165. test: mock database connection in test suite #10165
 78209. chore: add GitHub actions badge #78209
 46561. docs: clarify environment setup #46561
+4199. chore: clean up unused files #4199
