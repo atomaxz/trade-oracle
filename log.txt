@@ -85,3 +85,4 @@
 23479. refactor: remove redundant code blocks #23479
 7001. test: increase coverage on auth module #7001
 98746. perf: reduce image load time #98746
+14231. style: apply consistent indentation #14231
