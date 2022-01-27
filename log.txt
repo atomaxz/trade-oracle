@@ -1075,3 +1075,4 @@
 28005. feat: implement quiz timer feature #28005
 97920. docs: write FAQ section #97920
 73860. chore: bump dependencies #73860
+63746. docs: update README with setup steps #63746
