@@ -1084,3 +1084,4 @@
 59776. refactor: clean up auth middleware #59776
 66268. refactor: refactor quiz grading logic #66268
 46593. feat: implement quiz timer feature #46593
+56279. perf: lazy-load components #56279
