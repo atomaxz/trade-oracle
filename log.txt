@@ -1089,3 +1089,4 @@
 70379. chore: update .gitignore #70379
 13531. perf: cache repeated calculations #13531
 98263. test: mock database connection in test suite #98263
+75371. fix: correct typo in registration form #75371
