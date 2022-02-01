@@ -2084,3 +2084,4 @@
 35652. fix: fix broken CSS in mobile view #35652
 49492. test: mock database connection in test suite #49492
 63094. test: add unit test for quiz service #63094
+72051. style: standardize quote style #72051
