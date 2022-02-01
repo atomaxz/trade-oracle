@@ -2085,3 +2085,4 @@
 49492. test: mock database connection in test suite #49492
 63094. test: add unit test for quiz service #63094
 72051. style: standardize quote style #72051
+52840. fix: fix null pointer exception on login #52840
