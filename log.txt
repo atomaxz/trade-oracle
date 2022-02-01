@@ -1096,3 +1096,4 @@
 42203. style: rename variables for clarity #42203
 96486. refactor: split large controller into smaller functions #96486
 23917. chore: add GitHub actions badge #23917
+79515. docs: document token refresh logic #79515
