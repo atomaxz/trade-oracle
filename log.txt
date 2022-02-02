@@ -97,3 +97,4 @@
 1905. feat: support email verification #1905
 91384. fix: fix broken CSS in mobile view #91384
 41951. feat: implement quiz timer feature #41951
+14323. fix: prevent crash on empty input #14323
