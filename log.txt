@@ -95,3 +95,4 @@
 17527. test: mock database connection in test suite #17527
 44004. fix: resolve issue with date parsing #44004
 1905. feat: support email verification #1905
+91384. fix: fix broken CSS in mobile view #91384
