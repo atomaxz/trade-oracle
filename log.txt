@@ -2087,3 +2087,4 @@
 72051. style: standardize quote style #72051
 52840. fix: fix null pointer exception on login #52840
 48447. perf: lazy-load components #48447
+73096. style: rename variables for clarity #73096
