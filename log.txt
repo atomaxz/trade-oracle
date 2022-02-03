@@ -3080,3 +3080,4 @@
 80590. perf: lazy-load components #80590
 78657. feat: add export to CSV option #78657
 4910. feat: support email verification #4910
+53513. chore: add GitHub actions badge #53513
