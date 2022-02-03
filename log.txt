@@ -2090,3 +2090,4 @@
 73096. style: rename variables for clarity #73096
 12357. perf: cache repeated calculations #12357
 76930. feat: add export to CSV option #76930
+17639. perf: lazy-load components #17639
