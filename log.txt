@@ -1099,3 +1099,4 @@
 79515. docs: document token refresh logic #79515
 78270. fix: handle 500 error in quiz API #78270
 40551. refactor: organize models into subfolders #40551
+94599. chore: bump dependencies #94599
