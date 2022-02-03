@@ -100,3 +100,4 @@
 14323. fix: prevent crash on empty input #14323
 26864. style: remove trailing whitespace #26864
 84917. perf: lazy-load components #84917
+43471. style: rename variables for clarity #43471
