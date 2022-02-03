@@ -101,3 +101,4 @@
 26864. style: remove trailing whitespace #26864
 84917. perf: lazy-load components #84917
 43471. style: rename variables for clarity #43471
+5963. perf: optimize database query for quiz results #5963
