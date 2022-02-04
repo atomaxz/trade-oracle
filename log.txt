@@ -107,3 +107,4 @@
 51391. feat: implement quiz timer feature #51391
 46776. perf: lazy-load components #46776
 33442. fix: prevent crash on empty input #33442
+29634. feat: enable dark mode toggle #29634
