@@ -109,3 +109,4 @@
 33442. fix: prevent crash on empty input #33442
 29634. feat: enable dark mode toggle #29634
 6889. feat: support email verification #6889
+48395. test: add integration test for /submit endpoint #48395
