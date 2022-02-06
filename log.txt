@@ -1103,3 +1103,4 @@
 69093. test: add integration test for /submit endpoint #69093
 34039. perf: optimize database query for quiz results #34039
 15720. style: remove trailing whitespace #15720
+69586. feat: enable dark mode toggle #69586
