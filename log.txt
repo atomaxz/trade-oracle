@@ -1105,3 +1105,4 @@
 15720. style: remove trailing whitespace #15720
 69586. feat: enable dark mode toggle #69586
 77820. feat: add export to CSV option #77820
+84467. refactor: clean up auth middleware #84467
