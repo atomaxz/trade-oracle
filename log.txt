@@ -117,3 +117,4 @@
 71129. chore: clean up unused files #71129
 6110. style: apply consistent indentation #6110
 20493. fix: correct typo in registration form #20493
+79807. chore: bump dependencies #79807
