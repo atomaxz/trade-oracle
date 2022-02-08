@@ -120,3 +120,4 @@
 79807. chore: bump dependencies #79807
 66950. fix: resolve issue with date parsing #66950
 3873. style: reformat files with black #3873
+44320. test: increase coverage on auth module #44320
