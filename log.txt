@@ -3095,3 +3095,4 @@
 68330. feat: add export to CSV option #68330
 8290. feat: add user authentication #8290
 34593. docs: clarify environment setup #34593
+23536. perf: optimize database query for quiz results #23536
