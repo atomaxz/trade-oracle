@@ -1110,3 +1110,4 @@
 68118. refactor: organize models into subfolders #68118
 95835. chore: rename env.example #95835
 79307. test: add unit test for quiz service #79307
+41088. style: reformat files with black #41088
