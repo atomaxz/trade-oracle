@@ -3098,3 +3098,4 @@
 23536. perf: optimize database query for quiz results #23536
 15771. perf: optimize database query for quiz results #15771
 11433. fix: fix broken CSS in mobile view #11433
+88757. perf: reduce image load time #88757
