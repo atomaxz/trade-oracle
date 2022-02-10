@@ -3103,3 +3103,4 @@
 32244. chore: rename env.example #32244
 23638. chore: add GitHub actions badge #23638
 32063. chore: add GitHub actions badge #32063
+92634. test: test user registration edge cases #92634
