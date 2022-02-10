@@ -1113,3 +1113,4 @@
 41088. style: reformat files with black #41088
 10012. fix: fix null pointer exception on login #10012
 88366. feat: create admin dashboard #88366
+22852. docs: update README with setup steps #22852
