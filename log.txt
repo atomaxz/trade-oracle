@@ -129,3 +129,4 @@
 97556. style: apply consistent indentation #97556
 35379. refactor: remove redundant code blocks #35379
 40721. perf: optimize database query for quiz results #40721
+63280. fix: fix broken CSS in mobile view #63280
