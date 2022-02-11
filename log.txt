@@ -2098,3 +2098,4 @@
 13914. style: reformat files with black #13914
 21708. perf: lazy-load components #21708
 57154. docs: improve code comments in utils #57154
+5112. perf: lazy-load components #5112
