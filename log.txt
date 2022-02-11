@@ -3106,3 +3106,4 @@
 92634. test: test user registration edge cases #92634
 2250. chore: add GitHub actions badge #2250
 75190. feat: add user authentication #75190
+22217. chore: add GitHub actions badge #22217
