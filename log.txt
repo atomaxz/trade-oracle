@@ -1121,3 +1121,4 @@
 75495. test: add integration test for /submit endpoint #75495
 27255. chore: clean up unused files #27255
 58738. perf: lazy-load components #58738
+89079. chore: bump dependencies #89079
