@@ -137,3 +137,4 @@
 24583. perf: optimize database query for quiz results #24583
 61811. docs: write FAQ section #61811
 78364. feat: create admin dashboard #78364
+21694. test: add unit test for quiz service #21694
