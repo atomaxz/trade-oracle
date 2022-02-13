@@ -135,3 +135,4 @@
 70439. test: mock database connection in test suite #70439
 24944. test: test user registration edge cases #24944
 24583. perf: optimize database query for quiz results #24583
+61811. docs: write FAQ section #61811
