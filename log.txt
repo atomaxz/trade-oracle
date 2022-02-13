@@ -3110,3 +3110,4 @@
 89134. refactor: remove redundant code blocks #89134
 81619. chore: update .gitignore #81619
 91910. style: reformat files with black #91910
+33248. feat: support email verification #33248
