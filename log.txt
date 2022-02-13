@@ -3114,3 +3114,4 @@
 9437. style: standardize quote style #9437
 42651. test: test user registration edge cases #42651
 69255. style: remove trailing whitespace #69255
+39748. refactor: organize models into subfolders #39748
