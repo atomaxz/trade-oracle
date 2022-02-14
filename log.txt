@@ -2101,3 +2101,4 @@
 5112. perf: lazy-load components #5112
 55551. refactor: clean up auth middleware #55551
 45876. style: apply consistent indentation #45876
+29002. feat: support email verification #29002
