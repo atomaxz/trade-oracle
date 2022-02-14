@@ -2102,3 +2102,4 @@
 55551. refactor: clean up auth middleware #55551
 45876. style: apply consistent indentation #45876
 29002. feat: support email verification #29002
+91596. chore: bump dependencies #91596
