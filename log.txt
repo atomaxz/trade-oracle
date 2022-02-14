@@ -140,3 +140,4 @@
 21694. test: add unit test for quiz service #21694
 40156. test: test user registration edge cases #40156
 61518. fix: handle 500 error in quiz API #61518
+62850. feat: add user authentication #62850
