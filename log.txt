@@ -1126,3 +1126,4 @@
 25988. refactor: refactor quiz grading logic #25988
 17212. style: remove trailing whitespace #17212
 52701. style: remove trailing whitespace #52701
+0298. style: apply consistent indentation #298
