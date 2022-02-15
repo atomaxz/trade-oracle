@@ -141,3 +141,4 @@
 40156. test: test user registration edge cases #40156
 61518. fix: handle 500 error in quiz API #61518
 62850. feat: add user authentication #62850
+79608. feat: add user authentication #79608
