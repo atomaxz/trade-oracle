@@ -1127,3 +1127,4 @@
 17212. style: remove trailing whitespace #17212
 52701. style: remove trailing whitespace #52701
 0298. style: apply consistent indentation #298
+70466. test: mock database connection in test suite #70466
