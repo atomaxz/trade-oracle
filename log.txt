@@ -2107,3 +2107,4 @@
 16435. style: remove trailing whitespace #16435
 22823. perf: reduce image load time #22823
 26539. test: mock database connection in test suite #26539
+88895. docs: clarify environment setup #88895
