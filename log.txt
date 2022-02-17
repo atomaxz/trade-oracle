@@ -145,3 +145,4 @@
 60442. fix: prevent crash on empty input #60442
 9844. fix: fix broken CSS in mobile view #9844
 82809. style: remove trailing whitespace #82809
+57906. refactor: refactor quiz grading logic #57906
