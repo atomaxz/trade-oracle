@@ -144,3 +144,4 @@
 79608. feat: add user authentication #79608
 60442. fix: prevent crash on empty input #60442
 9844. fix: fix broken CSS in mobile view #9844
+82809. style: remove trailing whitespace #82809
