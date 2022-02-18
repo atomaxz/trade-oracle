@@ -151,3 +151,4 @@
 72190. test: mock database connection in test suite #72190
 34830. refactor: split large controller into smaller functions #34830
 31623. test: test user registration edge cases #31623
+51178. style: remove trailing whitespace #51178
