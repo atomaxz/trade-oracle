@@ -148,3 +148,4 @@
 57906. refactor: refactor quiz grading logic #57906
 55878. docs: document token refresh logic #55878
 1822. fix: prevent crash on empty input #1822
+72190. test: mock database connection in test suite #72190
