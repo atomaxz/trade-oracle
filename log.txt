@@ -1144,3 +1144,4 @@
 25160. feat: enable dark mode toggle #25160
 59636. test: test user registration edge cases #59636
 21552. chore: rename env.example #21552
+1705. refactor: clean up auth middleware #1705
