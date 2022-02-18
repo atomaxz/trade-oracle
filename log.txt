@@ -1146,3 +1146,4 @@
 21552. chore: rename env.example #21552
 1705. refactor: clean up auth middleware #1705
 23207. perf: lazy-load components #23207
+25230. refactor: clean up auth middleware #25230
