@@ -153,3 +153,4 @@
 31623. test: test user registration edge cases #31623
 51178. style: remove trailing whitespace #51178
 48660. docs: update README with setup steps #48660
+64117. test: add unit test for quiz service #64117
