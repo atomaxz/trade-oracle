@@ -1149,3 +1149,4 @@
 25230. refactor: clean up auth middleware #25230
 28758. docs: add API usage examples #28758
 45469. refactor: remove redundant code blocks #45469
+42378. chore: add GitHub actions badge #42378
