@@ -159,3 +159,4 @@
 17913. chore: rename env.example #17913
 22537. test: increase coverage on auth module #22537
 65253. perf: lazy-load components #65253
+89928. style: reformat files with black #89928
