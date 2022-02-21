@@ -157,3 +157,4 @@
 59122. chore: bump dependencies #59122
 24988. chore: rename env.example #24988
 17913. chore: rename env.example #17913
+22537. test: increase coverage on auth module #22537
