@@ -165,3 +165,4 @@
 59526. fix: handle 500 error in quiz API #59526
 91146. fix: fix null pointer exception on login #91146
 9295. docs: improve code comments in utils #9295
+31826. fix: correct typo in registration form #31826
