@@ -3141,3 +3141,4 @@
 82190. refactor: split large controller into smaller functions #82190
 54696. perf: lazy-load components #54696
 5644. feat: enable dark mode toggle #5644
+65430. fix: handle 500 error in quiz API #65430
