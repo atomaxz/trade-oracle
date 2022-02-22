@@ -3145,3 +3145,4 @@
 19360. refactor: clean up auth middleware #19360
 48353. chore: bump dependencies #48353
 25733. style: reformat files with black #25733
+37708. refactor: organize models into subfolders #37708
