@@ -161,3 +161,4 @@
 65253. perf: lazy-load components #65253
 89928. style: reformat files with black #89928
 54808. docs: improve code comments in utils #54808
+76544. docs: write FAQ section #76544
