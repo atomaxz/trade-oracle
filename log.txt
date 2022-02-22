@@ -2122,3 +2122,4 @@
 3465. chore: rename env.example #3465
 8848. feat: implement quiz timer feature #8848
 91866. style: standardize quote style #91866
+8900. test: increase coverage on auth module #8900
