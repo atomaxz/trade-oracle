@@ -3142,3 +3142,4 @@
 54696. perf: lazy-load components #54696
 5644. feat: enable dark mode toggle #5644
 65430. fix: handle 500 error in quiz API #65430
+19360. refactor: clean up auth middleware #19360
