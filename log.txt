@@ -166,3 +166,4 @@
 91146. fix: fix null pointer exception on login #91146
 9295. docs: improve code comments in utils #9295
 31826. fix: correct typo in registration form #31826
+10193. docs: clarify environment setup #10193
