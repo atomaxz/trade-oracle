@@ -2132,3 +2132,4 @@
 56846. fix: handle 500 error in quiz API #56846
 71148. refactor: organize models into subfolders #71148
 18610. feat: enable dark mode toggle #18610
+44911. fix: fix broken CSS in mobile view #44911
