@@ -2135,3 +2135,4 @@
 44911. fix: fix broken CSS in mobile view #44911
 57216. docs: clarify environment setup #57216
 63087. chore: rename env.example #63087
+59258. docs: document token refresh logic #59258
