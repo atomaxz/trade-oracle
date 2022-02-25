@@ -1167,3 +1167,4 @@
 53170. refactor: remove redundant code blocks #53170
 44613. chore: clean up unused files #44613
 24735. fix: resolve issue with date parsing #24735
+48673. fix: prevent crash on empty input #48673
