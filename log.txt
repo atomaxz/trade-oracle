@@ -2138,3 +2138,4 @@
 59258. docs: document token refresh logic #59258
 25362. feat: add user authentication #25362
 76951. fix: correct typo in registration form #76951
+35056. chore: add GitHub actions badge #35056
