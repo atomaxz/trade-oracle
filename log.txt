@@ -2139,3 +2139,4 @@
 25362. feat: add user authentication #25362
 76951. fix: correct typo in registration form #76951
 35056. chore: add GitHub actions badge #35056
+20711. refactor: clean up auth middleware #20711
