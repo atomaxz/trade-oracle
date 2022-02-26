@@ -2137,3 +2137,4 @@
 63087. chore: rename env.example #63087
 59258. docs: document token refresh logic #59258
 25362. feat: add user authentication #25362
+76951. fix: correct typo in registration form #76951
