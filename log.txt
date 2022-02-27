@@ -169,3 +169,4 @@
 10193. docs: clarify environment setup #10193
 68143. test: increase coverage on auth module #68143
 19786. chore: update .gitignore #19786
+34440. test: add unit test for quiz service #34440
