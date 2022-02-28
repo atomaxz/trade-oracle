@@ -1176,3 +1176,4 @@
 99607. docs: improve code comments in utils #99607
 16639. refactor: refactor quiz grading logic #16639
 5739. chore: add GitHub actions badge #5739
+14688. test: increase coverage on auth module #14688
