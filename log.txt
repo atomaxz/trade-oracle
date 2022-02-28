@@ -3161,3 +3161,4 @@
 22132. perf: reduce image load time #22132
 98261. feat: add user authentication #98261
 80450. feat: implement quiz timer feature #80450
+85799. test: test user registration edge cases #85799
