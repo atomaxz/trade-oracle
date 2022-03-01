@@ -3162,3 +3162,4 @@
 98261. feat: add user authentication #98261
 80450. feat: implement quiz timer feature #80450
 85799. test: test user registration edge cases #85799
+32928. docs: write FAQ section #32928
