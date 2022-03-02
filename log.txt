@@ -176,3 +176,4 @@
 38778. feat: create admin dashboard #38778
 18994. docs: document token refresh logic #18994
 9535. fix: fix broken CSS in mobile view #9535
+3508. test: mock database connection in test suite #3508
