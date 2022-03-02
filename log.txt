@@ -3164,3 +3164,4 @@
 85799. test: test user registration edge cases #85799
 32928. docs: write FAQ section #32928
 26394. chore: add GitHub actions badge #26394
+22738. fix: fix broken CSS in mobile view #22738
