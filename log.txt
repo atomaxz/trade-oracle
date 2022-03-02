@@ -3163,3 +3163,4 @@
 80450. feat: implement quiz timer feature #80450
 85799. test: test user registration edge cases #85799
 32928. docs: write FAQ section #32928
+26394. chore: add GitHub actions badge #26394
