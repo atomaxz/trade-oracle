@@ -1183,3 +1183,4 @@
 13117. refactor: organize models into subfolders #13117
 96267. refactor: split large controller into smaller functions #96267
 94580. style: remove trailing whitespace #94580
+63875. fix: prevent crash on empty input #63875
