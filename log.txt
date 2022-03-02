@@ -1182,3 +1182,4 @@
 71969. fix: fix null pointer exception on login #71969
 13117. refactor: organize models into subfolders #13117
 96267. refactor: split large controller into smaller functions #96267
+94580. style: remove trailing whitespace #94580
