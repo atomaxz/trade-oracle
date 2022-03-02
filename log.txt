@@ -174,3 +174,4 @@
 55160. test: add unit test for quiz service #55160
 65209. perf: reduce image load time #65209
 38778. feat: create admin dashboard #38778
+18994. docs: document token refresh logic #18994
