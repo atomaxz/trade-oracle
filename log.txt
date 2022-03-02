@@ -178,3 +178,4 @@
 9535. fix: fix broken CSS in mobile view #9535
 3508. test: mock database connection in test suite #3508
 95058. fix: correct typo in registration form #95058
+74481. perf: reduce image load time #74481
