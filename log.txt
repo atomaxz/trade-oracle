@@ -3169,3 +3169,4 @@
 4018. docs: clarify environment setup #4018
 3834. test: increase coverage on auth module #3834
 29789. style: apply consistent indentation #29789
+25082. fix: resolve issue with date parsing #25082
