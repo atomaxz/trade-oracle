@@ -2150,3 +2150,4 @@
 60121. chore: clean up unused files #60121
 89685. chore: rename env.example #89685
 36511. style: standardize quote style #36511
+76266. test: test user registration edge cases #76266
