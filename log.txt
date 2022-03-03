@@ -179,3 +179,4 @@
 3508. test: mock database connection in test suite #3508
 95058. fix: correct typo in registration form #95058
 74481. perf: reduce image load time #74481
+69337. refactor: organize models into subfolders #69337
