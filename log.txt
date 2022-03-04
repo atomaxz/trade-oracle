@@ -3171,3 +3171,4 @@
 29789. style: apply consistent indentation #29789
 25082. fix: resolve issue with date parsing #25082
 45105. docs: write FAQ section #45105
+3908. fix: fix broken CSS in mobile view #3908
