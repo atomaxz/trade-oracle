@@ -2151,3 +2151,4 @@
 89685. chore: rename env.example #89685
 36511. style: standardize quote style #36511
 76266. test: test user registration edge cases #76266
+3125. test: add unit test for quiz service #3125
