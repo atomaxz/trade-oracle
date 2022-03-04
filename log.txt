@@ -181,3 +181,4 @@
 74481. perf: reduce image load time #74481
 69337. refactor: organize models into subfolders #69337
 73371. style: reformat files with black #73371
+99742. perf: optimize database query for quiz results #99742
