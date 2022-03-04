@@ -187,3 +187,4 @@
 32902. docs: update README with setup steps #32902
 80939. chore: bump dependencies #80939
 34517. style: apply consistent indentation #34517
+2373. fix: correct typo in registration form #2373
