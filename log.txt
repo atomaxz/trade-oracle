@@ -1190,3 +1190,4 @@
 60731. perf: cache repeated calculations #60731
 13634. refactor: split large controller into smaller functions #13634
 90612. feat: support email verification #90612
+26247. docs: update README with setup steps #26247
