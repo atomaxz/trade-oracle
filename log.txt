@@ -3172,3 +3172,4 @@
 25082. fix: resolve issue with date parsing #25082
 45105. docs: write FAQ section #45105
 3908. fix: fix broken CSS in mobile view #3908
+86553. docs: document token refresh logic #86553
