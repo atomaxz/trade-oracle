@@ -3177,3 +3177,4 @@
 32438. refactor: refactor quiz grading logic #32438
 33711. style: reformat files with black #33711
 35663. test: add integration test for /submit endpoint #35663
+62221. fix: prevent crash on empty input #62221
