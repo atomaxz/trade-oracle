@@ -188,3 +188,4 @@
 80939. chore: bump dependencies #80939
 34517. style: apply consistent indentation #34517
 2373. fix: correct typo in registration form #2373
+80539. style: apply consistent indentation #80539
