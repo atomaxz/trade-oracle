@@ -1193,3 +1193,4 @@
 26247. docs: update README with setup steps #26247
 32796. refactor: organize models into subfolders #32796
 55401. fix: resolve issue with date parsing #55401
+83626. perf: optimize database query for quiz results #83626
