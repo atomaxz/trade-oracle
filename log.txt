@@ -2161,3 +2161,4 @@
 87433. docs: update README with setup steps #87433
 93654. test: mock database connection in test suite #93654
 58924. feat: create admin dashboard #58924
+60018. refactor: clean up auth middleware #60018
