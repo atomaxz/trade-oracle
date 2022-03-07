@@ -3179,3 +3179,4 @@
 35663. test: add integration test for /submit endpoint #35663
 62221. fix: prevent crash on empty input #62221
 4121. feat: add user authentication #4121
+83540. fix: prevent crash on empty input #83540
