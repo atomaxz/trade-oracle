@@ -195,3 +195,4 @@
 18344. perf: cache repeated calculations #18344
 16985. test: test user registration edge cases #16985
 34952. chore: rename env.example #34952
+52853. chore: add GitHub actions badge #52853
