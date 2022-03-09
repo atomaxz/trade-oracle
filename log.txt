@@ -1198,3 +1198,4 @@
 77904. fix: resolve issue with date parsing #77904
 11203. feat: implement quiz timer feature #11203
 62271. style: reformat files with black #62271
+22596. feat: support email verification #22596
