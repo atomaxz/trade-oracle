@@ -3182,3 +3182,4 @@
 83540. fix: prevent crash on empty input #83540
 31860. feat: implement quiz timer feature #31860
 86367. perf: lazy-load components #86367
+63529. docs: write FAQ section #63529
