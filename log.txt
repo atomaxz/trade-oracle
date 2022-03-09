@@ -3183,3 +3183,4 @@
 31860. feat: implement quiz timer feature #31860
 86367. perf: lazy-load components #86367
 63529. docs: write FAQ section #63529
+71619. fix: handle 500 error in quiz API #71619
