@@ -197,3 +197,4 @@
 34952. chore: rename env.example #34952
 52853. chore: add GitHub actions badge #52853
 30068. chore: add GitHub actions badge #30068
+33107. test: increase coverage on auth module #33107
