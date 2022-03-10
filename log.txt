@@ -199,3 +199,4 @@
 30068. chore: add GitHub actions badge #30068
 33107. test: increase coverage on auth module #33107
 73427. docs: write FAQ section #73427
+77537. docs: add API usage examples #77537
