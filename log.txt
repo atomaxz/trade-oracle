@@ -200,3 +200,4 @@
 33107. test: increase coverage on auth module #33107
 73427. docs: write FAQ section #73427
 77537. docs: add API usage examples #77537
+50531. docs: add API usage examples #50531
