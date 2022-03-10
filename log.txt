@@ -2169,3 +2169,4 @@
 99648. refactor: organize models into subfolders #99648
 22175. style: rename variables for clarity #22175
 33721. fix: resolve issue with date parsing #33721
+2220. perf: lazy-load components #2220
