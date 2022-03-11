@@ -3187,3 +3187,4 @@
 98978. docs: document token refresh logic #98978
 90067. refactor: split large controller into smaller functions #90067
 87473. chore: rename env.example #87473
+98413. docs: update README with setup steps #98413
