@@ -2174,3 +2174,4 @@
 48765. fix: fix broken CSS in mobile view #48765
 66713. style: standardize quote style #66713
 77647. chore: rename env.example #77647
+15957. perf: optimize database query for quiz results #15957
