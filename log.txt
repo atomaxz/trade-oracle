@@ -3188,3 +3188,4 @@
 90067. refactor: split large controller into smaller functions #90067
 87473. chore: rename env.example #87473
 98413. docs: update README with setup steps #98413
+59341. test: increase coverage on auth module #59341
