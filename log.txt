@@ -3191,3 +3191,4 @@
 59341. test: increase coverage on auth module #59341
 21284. docs: write FAQ section #21284
 82442. style: apply consistent indentation #82442
+87939. docs: document token refresh logic #87939
