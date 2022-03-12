@@ -202,3 +202,4 @@
 77537. docs: add API usage examples #77537
 50531. docs: add API usage examples #50531
 73473. chore: add GitHub actions badge #73473
+32118. style: remove trailing whitespace #32118
