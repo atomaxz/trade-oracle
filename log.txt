@@ -2181,3 +2181,4 @@
 76636. feat: implement quiz timer feature #76636
 25803. refactor: organize models into subfolders #25803
 75876. style: remove trailing whitespace #75876
+8035. chore: add GitHub actions badge #8035
