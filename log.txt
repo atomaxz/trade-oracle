@@ -1205,3 +1205,4 @@
 13627. docs: write FAQ section #13627
 24260. perf: lazy-load components #24260
 2597. perf: cache repeated calculations #2597
+67889. refactor: clean up auth middleware #67889
