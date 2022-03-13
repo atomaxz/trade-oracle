@@ -3195,3 +3195,4 @@
 82907. style: remove trailing whitespace #82907
 49335. docs: document token refresh logic #49335
 87128. chore: rename env.example #87128
+27780. test: test user registration edge cases #27780
