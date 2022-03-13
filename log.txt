@@ -1204,3 +1204,4 @@
 22835. chore: add GitHub actions badge #22835
 13627. docs: write FAQ section #13627
 24260. perf: lazy-load components #24260
+2597. perf: cache repeated calculations #2597
