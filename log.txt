@@ -2187,3 +2187,4 @@
 8262. fix: prevent crash on empty input #8262
 48864. feat: add user authentication #48864
 25648. test: add integration test for /submit endpoint #25648
+1924. perf: optimize database query for quiz results #1924
