@@ -2184,3 +2184,4 @@
 8035. chore: add GitHub actions badge #8035
 6493. docs: update README with setup steps #6493
 86463. style: rename variables for clarity #86463
+8262. fix: prevent crash on empty input #8262
