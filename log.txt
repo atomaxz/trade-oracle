@@ -214,3 +214,4 @@
 35788. perf: lazy-load components #35788
 1370. perf: cache repeated calculations #1370
 81797. refactor: split large controller into smaller functions #81797
+73729. test: add unit test for quiz service #73729
