@@ -216,3 +216,4 @@
 81797. refactor: split large controller into smaller functions #81797
 73729. test: add unit test for quiz service #73729
 43991. feat: create admin dashboard #43991
+80875. test: mock database connection in test suite #80875
