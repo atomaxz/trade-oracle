@@ -219,3 +219,4 @@
 80875. test: mock database connection in test suite #80875
 90754. feat: create admin dashboard #90754
 80478. perf: reduce image load time #80478
+96280. chore: bump dependencies #96280
