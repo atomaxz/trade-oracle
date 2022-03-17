@@ -1210,3 +1210,4 @@
 58866. feat: support email verification #58866
 20128. chore: clean up unused files #20128
 93628. refactor: split large controller into smaller functions #93628
+1366. test: test user registration edge cases #1366
