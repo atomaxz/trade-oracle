@@ -3210,3 +3210,4 @@
 41126. test: test user registration edge cases #41126
 47863. chore: rename env.example #47863
 38776. test: add unit test for quiz service #38776
+70435. chore: bump dependencies #70435
