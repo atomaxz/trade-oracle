@@ -2194,3 +2194,4 @@
 86783. docs: improve code comments in utils #86783
 70642. test: increase coverage on auth module #70642
 16322. feat: enable dark mode toggle #16322
+32523. feat: enable dark mode toggle #32523
