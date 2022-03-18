@@ -3208,3 +3208,4 @@
 64674. test: test user registration edge cases #64674
 7797. test: mock database connection in test suite #7797
 41126. test: test user registration edge cases #41126
+47863. chore: rename env.example #47863
