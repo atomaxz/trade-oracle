@@ -220,3 +220,4 @@
 90754. feat: create admin dashboard #90754
 80478. perf: reduce image load time #80478
 96280. chore: bump dependencies #96280
+39349. test: test user registration edge cases #39349
