@@ -2196,3 +2196,4 @@
 16322. feat: enable dark mode toggle #16322
 32523. feat: enable dark mode toggle #32523
 10179. fix: fix null pointer exception on login #10179
+72738. perf: optimize database query for quiz results #72738
