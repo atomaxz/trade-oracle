@@ -221,3 +221,4 @@
 80478. perf: reduce image load time #80478
 96280. chore: bump dependencies #96280
 39349. test: test user registration edge cases #39349
+60656. refactor: clean up auth middleware #60656
