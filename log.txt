@@ -1216,3 +1216,4 @@
 25839. test: test user registration edge cases #25839
 41679. style: apply consistent indentation #41679
 60939. fix: correct typo in registration form #60939
+52857. fix: fix null pointer exception on login #52857
