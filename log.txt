@@ -1221,3 +1221,4 @@
 37454. style: rename variables for clarity #37454
 31111. style: apply consistent indentation #31111
 83226. style: reformat files with black #83226
+72773. refactor: organize models into subfolders #72773
