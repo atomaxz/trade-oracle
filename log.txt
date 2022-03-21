@@ -3219,3 +3219,4 @@
 36886. style: rename variables for clarity #36886
 61067. chore: clean up unused files #61067
 75385. chore: update .gitignore #75385
+64809. feat: support email verification #64809
