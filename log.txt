@@ -2200,3 +2200,4 @@
 64250. refactor: refactor quiz grading logic #64250
 97209. refactor: split large controller into smaller functions #97209
 4414. test: increase coverage on auth module #4414
+9707. perf: reduce image load time #9707
