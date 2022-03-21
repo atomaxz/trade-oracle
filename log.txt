@@ -2202,3 +2202,4 @@
 4414. test: increase coverage on auth module #4414
 9707. perf: reduce image load time #9707
 2817. chore: update .gitignore #2817
+28482. chore: rename env.example #28482
