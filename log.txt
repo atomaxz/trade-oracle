@@ -3221,3 +3221,4 @@
 75385. chore: update .gitignore #75385
 64809. feat: support email verification #64809
 75210. docs: add API usage examples #75210
+13500. chore: bump dependencies #13500
