@@ -229,3 +229,4 @@
 79162. refactor: split large controller into smaller functions #79162
 47295. style: rename variables for clarity #47295
 85960. style: standardize quote style #85960
+65535. feat: support email verification #65535
