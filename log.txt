@@ -2207,3 +2207,4 @@
 92548. test: test user registration edge cases #92548
 86997. test: increase coverage on auth module #86997
 93571. style: reformat files with black #93571
+84069. style: remove trailing whitespace #84069
