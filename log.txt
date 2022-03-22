@@ -2204,3 +2204,4 @@
 2817. chore: update .gitignore #2817
 28482. chore: rename env.example #28482
 57191. style: reformat files with black #57191
+92548. test: test user registration edge cases #92548
