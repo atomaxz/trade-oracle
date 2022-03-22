@@ -1222,3 +1222,4 @@
 31111. style: apply consistent indentation #31111
 83226. style: reformat files with black #83226
 72773. refactor: organize models into subfolders #72773
+66092. style: standardize quote style #66092
