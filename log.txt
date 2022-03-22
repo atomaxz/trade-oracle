@@ -230,3 +230,4 @@
 47295. style: rename variables for clarity #47295
 85960. style: standardize quote style #85960
 65535. feat: support email verification #65535
+83518. refactor: remove redundant code blocks #83518
