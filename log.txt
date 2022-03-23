@@ -231,3 +231,4 @@
 85960. style: standardize quote style #85960
 65535. feat: support email verification #65535
 83518. refactor: remove redundant code blocks #83518
+76304. fix: fix broken CSS in mobile view #76304
