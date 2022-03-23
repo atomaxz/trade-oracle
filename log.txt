@@ -2209,3 +2209,4 @@
 93571. style: reformat files with black #93571
 84069. style: remove trailing whitespace #84069
 38972. test: increase coverage on auth module #38972
+95930. style: remove trailing whitespace #95930
