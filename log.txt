@@ -236,3 +236,4 @@
 25695. refactor: clean up auth middleware #25695
 71003. docs: document token refresh logic #71003
 55454. test: increase coverage on auth module #55454
+80002. refactor: remove redundant code blocks #80002
