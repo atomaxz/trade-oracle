@@ -3228,3 +3228,4 @@
 99524. chore: update .gitignore #99524
 35738. docs: write FAQ section #35738
 31581. perf: optimize database query for quiz results #31581
+47207. fix: resolve issue with date parsing #47207
