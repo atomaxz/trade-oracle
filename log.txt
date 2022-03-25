@@ -2215,3 +2215,4 @@
 33013. chore: add GitHub actions badge #33013
 77658. style: remove trailing whitespace #77658
 26358. feat: implement quiz timer feature #26358
+81280. fix: prevent crash on empty input #81280
