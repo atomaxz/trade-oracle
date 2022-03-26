@@ -242,3 +242,4 @@
 72670. docs: document token refresh logic #72670
 85726. feat: support email verification #85726
 1127. fix: handle 500 error in quiz API #1127
+98642. fix: correct typo in registration form #98642
