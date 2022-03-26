@@ -241,3 +241,4 @@
 91459. perf: lazy-load components #91459
 72670. docs: document token refresh logic #72670
 85726. feat: support email verification #85726
+1127. fix: handle 500 error in quiz API #1127
