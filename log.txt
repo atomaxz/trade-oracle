@@ -239,3 +239,4 @@
 80002. refactor: remove redundant code blocks #80002
 20533. style: rename variables for clarity #20533
 91459. perf: lazy-load components #91459
+72670. docs: document token refresh logic #72670
