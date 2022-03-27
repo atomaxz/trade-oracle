@@ -3229,3 +3229,4 @@
 35738. docs: write FAQ section #35738
 31581. perf: optimize database query for quiz results #31581
 47207. fix: resolve issue with date parsing #47207
+87082. test: increase coverage on auth module #87082
