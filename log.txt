@@ -244,3 +244,4 @@
 1127. fix: handle 500 error in quiz API #1127
 98642. fix: correct typo in registration form #98642
 2026. chore: bump dependencies #2026
+78182. feat: create admin dashboard #78182
