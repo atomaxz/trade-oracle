@@ -2226,3 +2226,4 @@
 81934. chore: add GitHub actions badge #81934
 65157. test: add unit test for quiz service #65157
 46836. refactor: organize models into subfolders #46836
+68437. style: reformat files with black #68437
