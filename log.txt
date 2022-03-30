@@ -1244,3 +1244,4 @@
 19031. fix: prevent crash on empty input #19031
 83109. style: remove trailing whitespace #83109
 75427. docs: update README with setup steps #75427
+69702. style: apply consistent indentation #69702
