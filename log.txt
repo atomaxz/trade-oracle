@@ -2233,3 +2233,4 @@
 92211. feat: create admin dashboard #92211
 8410. refactor: remove redundant code blocks #8410
 92364. chore: bump dependencies #92364
+71426. perf: reduce image load time #71426
