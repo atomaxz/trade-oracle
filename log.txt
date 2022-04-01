@@ -3240,3 +3240,4 @@
 13554. refactor: refactor quiz grading logic #13554
 56605. feat: create admin dashboard #56605
 93547. refactor: refactor quiz grading logic #93547
+11263. chore: bump dependencies #11263
