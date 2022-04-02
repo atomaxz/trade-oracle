@@ -256,3 +256,4 @@
 24616. docs: document token refresh logic #24616
 52368. test: add integration test for /submit endpoint #52368
 44701. feat: enable dark mode toggle #44701
+50414. test: mock database connection in test suite #50414
