@@ -261,3 +261,4 @@
 46131. style: remove trailing whitespace #46131
 87472. fix: correct typo in registration form #87472
 98816. test: add integration test for /submit endpoint #98816
+17436. perf: reduce image load time #17436
