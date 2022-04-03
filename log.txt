@@ -2237,3 +2237,4 @@
 81247. chore: bump dependencies #81247
 43800. style: reformat files with black #43800
 40651. refactor: organize models into subfolders #40651
+63632. fix: fix null pointer exception on login #63632
