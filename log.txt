@@ -3244,3 +3244,4 @@
 8882. refactor: clean up auth middleware #8882
 35892. feat: implement quiz timer feature #35892
 71487. style: apply consistent indentation #71487
+21374. test: add unit test for quiz service #21374
