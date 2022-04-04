@@ -2240,3 +2240,4 @@
 63632. fix: fix null pointer exception on login #63632
 82440. test: test user registration edge cases #82440
 8427. feat: support email verification #8427
+47522. chore: add GitHub actions badge #47522
