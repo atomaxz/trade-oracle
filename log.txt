@@ -3248,3 +3248,4 @@
 12125. style: rename variables for clarity #12125
 46347. style: apply consistent indentation #46347
 33241. feat: enable dark mode toggle #33241
+20508. feat: support email verification #20508
