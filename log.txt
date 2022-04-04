@@ -263,3 +263,4 @@
 98816. test: add integration test for /submit endpoint #98816
 17436. perf: reduce image load time #17436
 83197. feat: enable dark mode toggle #83197
+69526. test: add unit test for quiz service #69526
