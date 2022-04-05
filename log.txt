@@ -1253,3 +1253,4 @@
 48950. perf: cache repeated calculations #48950
 24729. refactor: split large controller into smaller functions #24729
 69003. perf: reduce image load time #69003
+12965. refactor: clean up auth middleware #12965
