@@ -2243,3 +2243,4 @@
 47522. chore: add GitHub actions badge #47522
 75240. feat: enable dark mode toggle #75240
 55753. refactor: refactor quiz grading logic #55753
+57114. feat: enable dark mode toggle #57114
