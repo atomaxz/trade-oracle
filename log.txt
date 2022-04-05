@@ -3251,3 +3251,4 @@
 20508. feat: support email verification #20508
 14087. fix: resolve issue with date parsing #14087
 81457. test: increase coverage on auth module #81457
+31623. test: test user registration edge cases #31623
