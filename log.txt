@@ -1255,3 +1255,4 @@
 69003. perf: reduce image load time #69003
 12965. refactor: clean up auth middleware #12965
 83996. test: add unit test for quiz service #83996
+27405. docs: document token refresh logic #27405
