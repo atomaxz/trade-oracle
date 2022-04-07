@@ -2247,3 +2247,4 @@
 59950. test: test user registration edge cases #59950
 52737. refactor: refactor quiz grading logic #52737
 17067. feat: enable dark mode toggle #17067
+95939. perf: reduce image load time #95939
