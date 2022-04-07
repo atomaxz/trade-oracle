@@ -1256,3 +1256,4 @@
 12965. refactor: clean up auth middleware #12965
 83996. test: add unit test for quiz service #83996
 27405. docs: document token refresh logic #27405
+19944. docs: write FAQ section #19944
