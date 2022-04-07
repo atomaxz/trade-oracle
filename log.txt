@@ -3255,3 +3255,4 @@
 60112. test: test user registration edge cases #60112
 81640. chore: clean up unused files #81640
 86226. docs: clarify environment setup #86226
+26428. docs: update README with setup steps #26428
