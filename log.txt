@@ -1259,3 +1259,4 @@
 19944. docs: write FAQ section #19944
 18095. perf: reduce image load time #18095
 20555. chore: bump dependencies #20555
+41360. style: remove trailing whitespace #41360
