@@ -2251,3 +2251,4 @@
 56215. style: remove trailing whitespace #56215
 53061. perf: cache repeated calculations #53061
 13522. style: apply consistent indentation #13522
+9408. fix: fix null pointer exception on login #9408
