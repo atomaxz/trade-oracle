@@ -1263,3 +1263,4 @@
 79416. feat: add export to CSV option #79416
 79490. chore: bump dependencies #79490
 41919. refactor: split large controller into smaller functions #41919
+3842. test: increase coverage on auth module #3842
