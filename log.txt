@@ -277,3 +277,4 @@
 9951. perf: optimize database query for quiz results #9951
 73975. docs: update README with setup steps #73975
 95219. perf: lazy-load components #95219
+49514. fix: resolve issue with date parsing #49514
