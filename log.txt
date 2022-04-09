@@ -3265,3 +3265,4 @@
 53544. chore: rename env.example #53544
 11684. chore: update .gitignore #11684
 25149. feat: implement quiz timer feature #25149
+20090. fix: fix null pointer exception on login #20090
