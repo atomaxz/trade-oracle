@@ -275,3 +275,4 @@
 57399. style: standardize quote style #57399
 53865. feat: implement quiz timer feature #53865
 9951. perf: optimize database query for quiz results #9951
+73975. docs: update README with setup steps #73975
