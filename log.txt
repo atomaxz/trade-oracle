@@ -279,3 +279,4 @@
 95219. perf: lazy-load components #95219
 49514. fix: resolve issue with date parsing #49514
 0897. style: remove trailing whitespace #897
+7172. fix: correct typo in registration form #7172
