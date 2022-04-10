@@ -3268,3 +3268,4 @@
 20090. fix: fix null pointer exception on login #20090
 38018. fix: fix null pointer exception on login #38018
 69504. refactor: clean up auth middleware #69504
+59542. fix: handle 500 error in quiz API #59542
