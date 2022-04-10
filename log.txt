@@ -2257,3 +2257,4 @@
 24645. refactor: clean up auth middleware #24645
 65277. docs: write FAQ section #65277
 31686. perf: cache repeated calculations #31686
+78975. perf: reduce image load time #78975
