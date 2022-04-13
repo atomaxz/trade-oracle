@@ -3275,3 +3275,4 @@
 84575. chore: update .gitignore #84575
 23026. chore: clean up unused files #23026
 64460. perf: reduce image load time #64460
+89554. fix: fix null pointer exception on login #89554
