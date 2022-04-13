@@ -284,3 +284,4 @@
 65186. perf: lazy-load components #65186
 50646. test: test user registration edge cases #50646
 79680. test: increase coverage on auth module #79680
+97582. style: rename variables for clarity #97582
