@@ -1270,3 +1270,4 @@
 83648. refactor: organize models into subfolders #83648
 31994. fix: fix broken CSS in mobile view #31994
 29760. docs: write FAQ section #29760
+41285. test: mock database connection in test suite #41285
