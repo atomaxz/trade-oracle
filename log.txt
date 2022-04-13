@@ -286,3 +286,4 @@
 79680. test: increase coverage on auth module #79680
 97582. style: rename variables for clarity #97582
 51122. fix: correct typo in registration form #51122
+50326. chore: update .gitignore #50326
