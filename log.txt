@@ -1271,3 +1271,4 @@
 31994. fix: fix broken CSS in mobile view #31994
 29760. docs: write FAQ section #29760
 41285. test: mock database connection in test suite #41285
+18631. style: remove trailing whitespace #18631
