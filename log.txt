@@ -288,3 +288,4 @@
 51122. fix: correct typo in registration form #51122
 50326. chore: update .gitignore #50326
 96472. chore: rename env.example #96472
+0330. chore: rename env.example #330
