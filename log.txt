@@ -1275,3 +1275,4 @@
 55018. feat: support email verification #55018
 40531. fix: correct typo in registration form #40531
 76676. refactor: split large controller into smaller functions #76676
+90134. test: mock database connection in test suite #90134
