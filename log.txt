@@ -3281,3 +3281,4 @@
 0337. test: add integration test for /submit endpoint #337
 73482. chore: update .gitignore #73482
 8780. test: add unit test for quiz service #8780
+89293. fix: resolve issue with date parsing #89293
