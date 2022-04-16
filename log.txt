@@ -3284,3 +3284,4 @@
 89293. fix: resolve issue with date parsing #89293
 92799. perf: reduce image load time #92799
 23799. refactor: clean up auth middleware #23799
+81259. fix: fix broken CSS in mobile view #81259
