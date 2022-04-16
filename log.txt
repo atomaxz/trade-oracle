@@ -1280,3 +1280,4 @@
 75237. refactor: remove redundant code blocks #75237
 53551. refactor: refactor quiz grading logic #53551
 79534. style: apply consistent indentation #79534
+40450. docs: write FAQ section #40450
