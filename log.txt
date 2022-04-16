@@ -291,3 +291,4 @@
 0330. chore: rename env.example #330
 18739. refactor: remove redundant code blocks #18739
 56205. perf: cache repeated calculations #56205
+66589. fix: resolve issue with date parsing #66589
