@@ -3289,3 +3289,4 @@
 69021. refactor: remove redundant code blocks #69021
 78561. refactor: refactor quiz grading logic #78561
 38818. refactor: clean up auth middleware #38818
+51455. test: increase coverage on auth module #51455
