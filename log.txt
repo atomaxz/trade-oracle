@@ -292,3 +292,4 @@
 18739. refactor: remove redundant code blocks #18739
 56205. perf: cache repeated calculations #56205
 66589. fix: resolve issue with date parsing #66589
+98707. perf: reduce image load time #98707
