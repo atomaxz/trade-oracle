@@ -1283,3 +1283,4 @@
 40450. docs: write FAQ section #40450
 67602. style: reformat files with black #67602
 26972. refactor: refactor quiz grading logic #26972
+74191. refactor: clean up auth middleware #74191
