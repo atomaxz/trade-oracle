@@ -3287,3 +3287,4 @@
 81259. fix: fix broken CSS in mobile view #81259
 49950. perf: reduce image load time #49950
 69021. refactor: remove redundant code blocks #69021
+78561. refactor: refactor quiz grading logic #78561
