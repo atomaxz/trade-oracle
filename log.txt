@@ -293,3 +293,4 @@
 56205. perf: cache repeated calculations #56205
 66589. fix: resolve issue with date parsing #66589
 98707. perf: reduce image load time #98707
+10026. docs: write FAQ section #10026
