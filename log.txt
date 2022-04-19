@@ -295,3 +295,4 @@
 98707. perf: reduce image load time #98707
 10026. docs: write FAQ section #10026
 64164. feat: add export to CSV option #64164
+81491. fix: fix null pointer exception on login #81491
