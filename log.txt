@@ -2272,3 +2272,4 @@
 82175. perf: cache repeated calculations #82175
 59921. test: test user registration edge cases #59921
 68798. refactor: organize models into subfolders #68798
+13970. chore: update .gitignore #13970
