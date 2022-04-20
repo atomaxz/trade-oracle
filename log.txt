@@ -299,3 +299,4 @@
 59310. chore: add GitHub actions badge #59310
 42519. test: mock database connection in test suite #42519
 16208. docs: add API usage examples #16208
+74203. perf: optimize database query for quiz results #74203
