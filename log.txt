@@ -2277,3 +2277,4 @@
 67485. feat: add user authentication #67485
 23650. feat: create admin dashboard #23650
 6551. chore: bump dependencies #6551
+36524. fix: fix null pointer exception on login #36524
