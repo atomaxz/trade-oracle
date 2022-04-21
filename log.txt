@@ -1294,3 +1294,4 @@
 85266. feat: create admin dashboard #85266
 3084. chore: add GitHub actions badge #3084
 59139. perf: optimize database query for quiz results #59139
+48433. chore: update .gitignore #48433
