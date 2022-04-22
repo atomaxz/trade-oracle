@@ -3299,3 +3299,4 @@
 68729. refactor: clean up auth middleware #68729
 56693. feat: enable dark mode toggle #56693
 75767. docs: write FAQ section #75767
+45825. test: add integration test for /submit endpoint #45825
