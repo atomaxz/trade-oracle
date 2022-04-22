@@ -3301,3 +3301,4 @@
 75767. docs: write FAQ section #75767
 45825. test: add integration test for /submit endpoint #45825
 93806. perf: reduce image load time #93806
+17747. docs: clarify environment setup #17747
