@@ -2284,3 +2284,4 @@
 28042. style: apply consistent indentation #28042
 66006. test: add integration test for /submit endpoint #66006
 43733. feat: support email verification #43733
+12504. refactor: split large controller into smaller functions #12504
