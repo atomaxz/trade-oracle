@@ -1301,3 +1301,4 @@
 35821. chore: bump dependencies #35821
 31461. docs: clarify environment setup #31461
 98214. style: reformat files with black #98214
+40341. feat: enable dark mode toggle #40341
