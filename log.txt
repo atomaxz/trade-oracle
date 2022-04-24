@@ -305,3 +305,4 @@
 57808. style: rename variables for clarity #57808
 24837. perf: lazy-load components #24837
 48425. style: rename variables for clarity #48425
+2755. docs: document token refresh logic #2755
