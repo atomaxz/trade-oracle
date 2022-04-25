@@ -310,3 +310,4 @@
 59742. test: test user registration edge cases #59742
 46959. docs: document token refresh logic #46959
 48477. refactor: split large controller into smaller functions #48477
+21347. test: add integration test for /submit endpoint #21347
