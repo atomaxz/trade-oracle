@@ -2287,3 +2287,4 @@
 12504. refactor: split large controller into smaller functions #12504
 1179. perf: lazy-load components #1179
 90200. chore: bump dependencies #90200
+74787. test: increase coverage on auth module #74787
