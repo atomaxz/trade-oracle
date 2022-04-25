@@ -1306,3 +1306,4 @@
 31923. perf: lazy-load components #31923
 81765. test: test user registration edge cases #81765
 45758. chore: add GitHub actions badge #45758
+81104. perf: reduce image load time #81104
