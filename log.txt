@@ -1303,3 +1303,4 @@
 98214. style: reformat files with black #98214
 40341. feat: enable dark mode toggle #40341
 17709. refactor: refactor quiz grading logic #17709
+31923. perf: lazy-load components #31923
