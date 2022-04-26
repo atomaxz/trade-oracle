@@ -313,3 +313,4 @@
 21347. test: add integration test for /submit endpoint #21347
 76183. style: remove trailing whitespace #76183
 74226. feat: add export to CSV option #74226
+10494. feat: support email verification #10494
