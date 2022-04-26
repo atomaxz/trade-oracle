@@ -2290,3 +2290,4 @@
 74787. test: increase coverage on auth module #74787
 2877. chore: add GitHub actions badge #2877
 4514. test: add integration test for /submit endpoint #4514
+42293. fix: correct typo in registration form #42293
