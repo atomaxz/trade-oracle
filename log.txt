@@ -314,3 +314,4 @@
 76183. style: remove trailing whitespace #76183
 74226. feat: add export to CSV option #74226
 10494. feat: support email verification #10494
+25454. perf: cache repeated calculations #25454
