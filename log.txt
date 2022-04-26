@@ -3309,3 +3309,4 @@
 40180. feat: add user authentication #40180
 67412. style: remove trailing whitespace #67412
 9711. test: increase coverage on auth module #9711
+24564. fix: fix broken CSS in mobile view #24564
