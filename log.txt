@@ -3312,3 +3312,4 @@
 24564. fix: fix broken CSS in mobile view #24564
 19267. fix: fix null pointer exception on login #19267
 30948. feat: create admin dashboard #30948
+34837. chore: rename env.example #34837
