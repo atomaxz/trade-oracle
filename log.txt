@@ -1311,3 +1311,4 @@
 65833. docs: document token refresh logic #65833
 60894. chore: rename env.example #60894
 58964. refactor: split large controller into smaller functions #58964
+20738. test: test user registration edge cases #20738
