@@ -2292,3 +2292,4 @@
 4514. test: add integration test for /submit endpoint #4514
 42293. fix: correct typo in registration form #42293
 68974. refactor: clean up auth middleware #68974
+98678. style: remove trailing whitespace #98678
