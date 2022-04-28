@@ -1316,3 +1316,4 @@
 16052. perf: cache repeated calculations #16052
 15391. test: test user registration edge cases #15391
 99201. chore: clean up unused files #99201
+48108. feat: support email verification #48108
