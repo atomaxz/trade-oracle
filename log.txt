@@ -318,3 +318,4 @@
 75901. refactor: clean up auth middleware #75901
 65905. docs: improve code comments in utils #65905
 2068. docs: write FAQ section #2068
+10610. refactor: remove redundant code blocks #10610
