@@ -3322,3 +3322,4 @@
 65830. feat: implement quiz timer feature #65830
 70942. refactor: split large controller into smaller functions #70942
 78563. test: increase coverage on auth module #78563
+97779. chore: update .gitignore #97779
