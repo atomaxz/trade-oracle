@@ -2300,3 +2300,4 @@
 90407. perf: reduce image load time #90407
 70517. fix: resolve issue with date parsing #70517
 90704. feat: create admin dashboard #90704
+42731. test: increase coverage on auth module #42731
