@@ -1325,3 +1325,4 @@
 30285. refactor: organize models into subfolders #30285
 10053. style: apply consistent indentation #10053
 19447. perf: reduce image load time #19447
+17105. fix: handle 500 error in quiz API #17105
