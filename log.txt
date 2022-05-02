@@ -1326,3 +1326,4 @@
 10053. style: apply consistent indentation #10053
 19447. perf: reduce image load time #19447
 17105. fix: handle 500 error in quiz API #17105
+43769. test: add unit test for quiz service #43769
