@@ -2303,3 +2303,4 @@
 42731. test: increase coverage on auth module #42731
 27777. fix: resolve issue with date parsing #27777
 44866. feat: enable dark mode toggle #44866
+58637. feat: add export to CSV option #58637
