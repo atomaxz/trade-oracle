@@ -3329,3 +3329,4 @@
 65565. test: test user registration edge cases #65565
 15391. test: test user registration edge cases #15391
 40526. refactor: organize models into subfolders #40526
+48024. fix: handle 500 error in quiz API #48024
