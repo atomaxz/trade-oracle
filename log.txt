@@ -2308,3 +2308,4 @@
 36599. docs: update README with setup steps #36599
 27075. docs: write FAQ section #27075
 26006. docs: update README with setup steps #26006
+68453. perf: lazy-load components #68453
