@@ -2307,3 +2307,4 @@
 41003. refactor: split large controller into smaller functions #41003
 36599. docs: update README with setup steps #36599
 27075. docs: write FAQ section #27075
+26006. docs: update README with setup steps #26006
