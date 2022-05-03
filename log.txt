@@ -3333,3 +3333,4 @@
 9386. feat: create admin dashboard #9386
 0344. docs: document token refresh logic #344
 99465. refactor: clean up auth middleware #99465
+6974. feat: support email verification #6974
