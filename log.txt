@@ -1331,3 +1331,4 @@
 24689. refactor: split large controller into smaller functions #24689
 15633. style: remove trailing whitespace #15633
 12674. refactor: clean up auth middleware #12674
+31362. refactor: refactor quiz grading logic #31362
