@@ -2314,3 +2314,4 @@
 56013. feat: add user authentication #56013
 47154. refactor: split large controller into smaller functions #47154
 29697. refactor: refactor quiz grading logic #29697
+0312. fix: handle 500 error in quiz API #312
