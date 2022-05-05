@@ -2317,3 +2317,4 @@
 0312. fix: handle 500 error in quiz API #312
 12201. chore: clean up unused files #12201
 37730. fix: prevent crash on empty input #37730
+41127. style: standardize quote style #41127
