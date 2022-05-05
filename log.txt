@@ -1332,3 +1332,4 @@
 15633. style: remove trailing whitespace #15633
 12674. refactor: clean up auth middleware #12674
 31362. refactor: refactor quiz grading logic #31362
+39726. test: test user registration edge cases #39726
