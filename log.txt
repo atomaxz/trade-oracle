@@ -1335,3 +1335,4 @@
 39726. test: test user registration edge cases #39726
 94196. feat: add export to CSV option #94196
 74911. perf: lazy-load components #74911
+95101. fix: prevent crash on empty input #95101
