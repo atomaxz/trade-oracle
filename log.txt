@@ -2318,3 +2318,4 @@
 12201. chore: clean up unused files #12201
 37730. fix: prevent crash on empty input #37730
 41127. style: standardize quote style #41127
+24805. test: mock database connection in test suite #24805
