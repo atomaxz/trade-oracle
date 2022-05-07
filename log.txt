@@ -338,3 +338,4 @@
 91920. feat: add export to CSV option #91920
 74339. feat: create admin dashboard #74339
 6810. chore: add GitHub actions badge #6810
+6553. perf: lazy-load components #6553
