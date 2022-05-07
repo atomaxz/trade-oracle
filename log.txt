@@ -1337,3 +1337,4 @@
 74911. perf: lazy-load components #74911
 95101. fix: prevent crash on empty input #95101
 57140. chore: rename env.example #57140
+40988. fix: fix broken CSS in mobile view #40988
