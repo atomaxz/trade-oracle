@@ -2323,3 +2323,4 @@
 21646. chore: rename env.example #21646
 5731. chore: update .gitignore #5731
 66014. style: apply consistent indentation #66014
+14160. fix: handle 500 error in quiz API #14160
