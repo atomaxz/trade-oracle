@@ -1346,3 +1346,4 @@
 24086. fix: resolve issue with date parsing #24086
 99092. perf: optimize database query for quiz results #99092
 98261. feat: add user authentication #98261
+34476. refactor: refactor quiz grading logic #34476
