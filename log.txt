@@ -3352,3 +3352,4 @@
 30198. test: increase coverage on auth module #30198
 14837. test: test user registration edge cases #14837
 59681. style: apply consistent indentation #59681
+24749. refactor: refactor quiz grading logic #24749
