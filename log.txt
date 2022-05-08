@@ -1343,3 +1343,4 @@
 10352. fix: correct typo in registration form #10352
 53374. style: apply consistent indentation #53374
 74361. feat: enable dark mode toggle #74361
+24086. fix: resolve issue with date parsing #24086
