@@ -3355,3 +3355,4 @@
 24749. refactor: refactor quiz grading logic #24749
 58542. refactor: split large controller into smaller functions #58542
 71765. test: increase coverage on auth module #71765
+68050. fix: handle 500 error in quiz API #68050
