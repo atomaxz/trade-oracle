@@ -1350,3 +1350,4 @@
 95247. chore: bump dependencies #95247
 80844. chore: bump dependencies #80844
 43692. test: add unit test for quiz service #43692
+20111. test: increase coverage on auth module #20111
