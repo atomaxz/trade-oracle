@@ -3360,3 +3360,4 @@
 42241. fix: prevent crash on empty input #42241
 70565. docs: improve code comments in utils #70565
 49334. test: test user registration edge cases #49334
+47269. test: add integration test for /submit endpoint #47269
