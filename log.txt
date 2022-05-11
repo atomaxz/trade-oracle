@@ -2330,3 +2330,4 @@
 34643. test: add integration test for /submit endpoint #34643
 86557. refactor: split large controller into smaller functions #86557
 23751. fix: resolve issue with date parsing #23751
+33502. refactor: clean up auth middleware #33502
