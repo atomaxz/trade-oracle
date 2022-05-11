@@ -3363,3 +3363,4 @@
 47269. test: add integration test for /submit endpoint #47269
 32205. chore: clean up unused files #32205
 75618. docs: document token refresh logic #75618
+37287. docs: write FAQ section #37287
