@@ -1358,3 +1358,4 @@
 96824. fix: prevent crash on empty input #96824
 84210. perf: lazy-load components #84210
 74423. feat: support email verification #74423
+77231. chore: add GitHub actions badge #77231
