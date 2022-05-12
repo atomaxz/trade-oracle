@@ -343,3 +343,4 @@
 24058. perf: cache repeated calculations #24058
 26074. refactor: split large controller into smaller functions #26074
 88769. style: reformat files with black #88769
+53321. perf: reduce image load time #53321
