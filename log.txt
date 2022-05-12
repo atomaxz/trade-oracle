@@ -1360,3 +1360,4 @@
 74423. feat: support email verification #74423
 77231. chore: add GitHub actions badge #77231
 95789. fix: fix broken CSS in mobile view #95789
+62221. fix: prevent crash on empty input #62221
