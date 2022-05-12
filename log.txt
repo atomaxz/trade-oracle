@@ -3365,3 +3365,4 @@
 75618. docs: document token refresh logic #75618
 37287. docs: write FAQ section #37287
 63307. docs: improve code comments in utils #63307
+32634. test: test user registration edge cases #32634
