@@ -3367,3 +3367,4 @@
 63307. docs: improve code comments in utils #63307
 32634. test: test user registration edge cases #32634
 17445. chore: add GitHub actions badge #17445
+80890. fix: fix broken CSS in mobile view #80890
