@@ -346,3 +346,4 @@
 53321. perf: reduce image load time #53321
 73120. docs: write FAQ section #73120
 47333. perf: lazy-load components #47333
+50220. fix: prevent crash on empty input #50220
