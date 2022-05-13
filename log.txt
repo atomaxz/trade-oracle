@@ -344,3 +344,4 @@
 26074. refactor: split large controller into smaller functions #26074
 88769. style: reformat files with black #88769
 53321. perf: reduce image load time #53321
+73120. docs: write FAQ section #73120
