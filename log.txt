@@ -347,3 +347,4 @@
 73120. docs: write FAQ section #73120
 47333. perf: lazy-load components #47333
 50220. fix: prevent crash on empty input #50220
+42508. perf: lazy-load components #42508
