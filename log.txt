@@ -1365,3 +1365,4 @@
 46695. docs: update README with setup steps #46695
 65919. chore: add GitHub actions badge #65919
 71922. style: rename variables for clarity #71922
+90979. refactor: clean up auth middleware #90979
