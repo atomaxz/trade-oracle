@@ -349,3 +349,4 @@
 50220. fix: prevent crash on empty input #50220
 42508. perf: lazy-load components #42508
 84644. fix: correct typo in registration form #84644
+90265. style: rename variables for clarity #90265
