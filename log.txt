@@ -3370,3 +3370,4 @@
 80890. fix: fix broken CSS in mobile view #80890
 83485. docs: update README with setup steps #83485
 82825. chore: add GitHub actions badge #82825
+1010. style: remove trailing whitespace #1010
