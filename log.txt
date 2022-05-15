@@ -2338,3 +2338,4 @@
 22000. perf: reduce image load time #22000
 12557. perf: cache repeated calculations #12557
 85042. test: test user registration edge cases #85042
+71786. feat: create admin dashboard #71786
