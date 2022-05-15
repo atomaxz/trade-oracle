@@ -3371,3 +3371,4 @@
 83485. docs: update README with setup steps #83485
 82825. chore: add GitHub actions badge #82825
 1010. style: remove trailing whitespace #1010
+22357. feat: enable dark mode toggle #22357
