@@ -351,3 +351,4 @@
 84644. fix: correct typo in registration form #84644
 90265. style: rename variables for clarity #90265
 9341. fix: fix broken CSS in mobile view #9341
+8852. perf: cache repeated calculations #8852
