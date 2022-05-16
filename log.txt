@@ -353,3 +353,4 @@
 9341. fix: fix broken CSS in mobile view #9341
 8852. perf: cache repeated calculations #8852
 25726. style: standardize quote style #25726
+6383. style: remove trailing whitespace #6383
