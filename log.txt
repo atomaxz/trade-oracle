@@ -3375,3 +3375,4 @@
 68558. test: add unit test for quiz service #68558
 88554. test: add integration test for /submit endpoint #88554
 65400. chore: clean up unused files #65400
+52148. perf: optimize database query for quiz results #52148
