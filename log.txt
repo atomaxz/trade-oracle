@@ -356,3 +356,4 @@
 6383. style: remove trailing whitespace #6383
 66176. perf: optimize database query for quiz results #66176
 86561. chore: rename env.example #86561
+62913. fix: correct typo in registration form #62913
