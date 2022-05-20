@@ -3381,3 +3381,4 @@
 35153. chore: add GitHub actions badge #35153
 58299. perf: reduce image load time #58299
 71587. refactor: refactor quiz grading logic #71587
+83264. docs: update README with setup steps #83264
