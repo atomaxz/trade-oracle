@@ -3379,3 +3379,4 @@
 43651. fix: resolve issue with date parsing #43651
 32828. chore: bump dependencies #32828
 35153. chore: add GitHub actions badge #35153
+58299. perf: reduce image load time #58299
