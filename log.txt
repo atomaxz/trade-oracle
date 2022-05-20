@@ -1370,3 +1370,4 @@
 38400. refactor: remove redundant code blocks #38400
 2015. refactor: remove redundant code blocks #2015
 9426. docs: write FAQ section #9426
+90043. fix: handle 500 error in quiz API #90043
