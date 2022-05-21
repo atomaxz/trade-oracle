@@ -1372,3 +1372,4 @@
 9426. docs: write FAQ section #9426
 90043. fix: handle 500 error in quiz API #90043
 48333. fix: fix broken CSS in mobile view #48333
+49665. feat: create admin dashboard #49665
