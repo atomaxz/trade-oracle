@@ -1374,3 +1374,4 @@
 48333. fix: fix broken CSS in mobile view #48333
 49665. feat: create admin dashboard #49665
 22157. chore: add GitHub actions badge #22157
+0992. docs: update README with setup steps #992
