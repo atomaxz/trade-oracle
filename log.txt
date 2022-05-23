@@ -359,3 +359,4 @@
 62913. fix: correct typo in registration form #62913
 15072. chore: update .gitignore #15072
 25419. refactor: organize models into subfolders #25419
+39863. chore: rename env.example #39863
