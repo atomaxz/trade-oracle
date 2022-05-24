@@ -2362,3 +2362,4 @@
 83680. chore: update .gitignore #83680
 95411. refactor: organize models into subfolders #95411
 4082. fix: prevent crash on empty input #4082
+12250. test: add integration test for /submit endpoint #12250
