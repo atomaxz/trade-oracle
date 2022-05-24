@@ -365,3 +365,4 @@
 79986. style: remove trailing whitespace #79986
 35509. refactor: split large controller into smaller functions #35509
 24981. style: reformat files with black #24981
+96317. docs: document token refresh logic #96317
