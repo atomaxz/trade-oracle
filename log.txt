@@ -1382,3 +1382,4 @@
 24376. feat: enable dark mode toggle #24376
 10535. style: reformat files with black #10535
 75776. chore: update .gitignore #75776
+86393. docs: write FAQ section #86393
