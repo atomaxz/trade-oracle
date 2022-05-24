@@ -366,3 +366,4 @@
 35509. refactor: split large controller into smaller functions #35509
 24981. style: reformat files with black #24981
 96317. docs: document token refresh logic #96317
+5348. test: mock database connection in test suite #5348
