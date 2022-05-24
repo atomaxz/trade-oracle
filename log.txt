@@ -2359,3 +2359,4 @@
 13885. docs: update README with setup steps #13885
 76536. test: increase coverage on auth module #76536
 50930. feat: enable dark mode toggle #50930
+83680. chore: update .gitignore #83680
