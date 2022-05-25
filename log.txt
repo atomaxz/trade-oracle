@@ -1384,3 +1384,4 @@
 75776. chore: update .gitignore #75776
 86393. docs: write FAQ section #86393
 83269. style: standardize quote style #83269
+97269. chore: add GitHub actions badge #97269
