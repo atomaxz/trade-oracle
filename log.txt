@@ -1387,3 +1387,4 @@
 97269. chore: add GitHub actions badge #97269
 47634. docs: update README with setup steps #47634
 43979. chore: clean up unused files #43979
+8216. perf: reduce image load time #8216
