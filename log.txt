@@ -372,3 +372,4 @@
 86878. style: rename variables for clarity #86878
 82963. style: apply consistent indentation #82963
 62135. feat: add user authentication #62135
+53920. perf: optimize database query for quiz results #53920
