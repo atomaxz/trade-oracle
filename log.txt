@@ -2372,3 +2372,4 @@
 5605. fix: handle 500 error in quiz API #5605
 3014. chore: add GitHub actions badge #3014
 3127. refactor: refactor quiz grading logic #3127
+38892. fix: fix broken CSS in mobile view #38892
