@@ -3389,3 +3389,4 @@
 38065. docs: write FAQ section #38065
 9219. style: reformat files with black #9219
 23548. docs: add API usage examples #23548
+36630. style: apply consistent indentation #36630
