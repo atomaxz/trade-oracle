@@ -1395,3 +1395,4 @@
 21698. perf: lazy-load components #21698
 38280. refactor: remove redundant code blocks #38280
 94824. fix: fix broken CSS in mobile view #94824
+61879. chore: bump dependencies #61879
