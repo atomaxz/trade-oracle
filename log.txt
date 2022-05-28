@@ -1392,3 +1392,4 @@
 50933. chore: clean up unused files #50933
 97786. fix: resolve issue with date parsing #97786
 53173. perf: reduce image load time #53173
+21698. perf: lazy-load components #21698
