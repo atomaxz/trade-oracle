@@ -3393,3 +3393,4 @@
 63217. test: add unit test for quiz service #63217
 45189. feat: enable dark mode toggle #45189
 83827. test: add integration test for /submit endpoint #83827
+91098. feat: support email verification #91098
