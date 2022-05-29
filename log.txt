@@ -375,3 +375,4 @@
 53920. perf: optimize database query for quiz results #53920
 95157. docs: clarify environment setup #95157
 76174. style: standardize quote style #76174
+76300. test: test user registration edge cases #76300
