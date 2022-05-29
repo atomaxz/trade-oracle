@@ -3400,3 +3400,4 @@
 43749. chore: clean up unused files #43749
 9898. chore: bump dependencies #9898
 95227. perf: cache repeated calculations #95227
+81081. fix: fix null pointer exception on login #81081
