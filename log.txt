@@ -1397,3 +1397,4 @@
 94824. fix: fix broken CSS in mobile view #94824
 61879. chore: bump dependencies #61879
 60836. test: mock database connection in test suite #60836
+32340. docs: document token refresh logic #32340
