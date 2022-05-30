@@ -2381,3 +2381,4 @@
 85172. perf: lazy-load components #85172
 84025. test: increase coverage on auth module #84025
 23916. test: mock database connection in test suite #23916
+70708. feat: add user authentication #70708
