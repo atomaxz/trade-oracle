@@ -2379,3 +2379,4 @@
 40771. docs: update README with setup steps #40771
 78627. fix: prevent crash on empty input #78627
 85172. perf: lazy-load components #85172
+84025. test: increase coverage on auth module #84025
