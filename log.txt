@@ -1408,3 +1408,4 @@
 92642. docs: update README with setup steps #92642
 47877. fix: resolve issue with date parsing #47877
 24732. style: apply consistent indentation #24732
+10977. fix: fix null pointer exception on login #10977
