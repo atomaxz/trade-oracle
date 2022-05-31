@@ -2385,3 +2385,4 @@
 80755. fix: fix null pointer exception on login #80755
 13351. fix: resolve issue with date parsing #13351
 86315. refactor: split large controller into smaller functions #86315
+95995. fix: handle 500 error in quiz API #95995
