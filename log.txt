@@ -378,3 +378,4 @@
 76300. test: test user registration edge cases #76300
 18802. docs: improve code comments in utils #18802
 67166. chore: rename env.example #67166
+33614. style: remove trailing whitespace #33614
