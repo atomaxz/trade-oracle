@@ -1410,3 +1410,4 @@
 24732. style: apply consistent indentation #24732
 10977. fix: fix null pointer exception on login #10977
 58124. chore: clean up unused files #58124
+9775. refactor: refactor quiz grading logic #9775
