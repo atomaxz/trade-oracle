@@ -1413,3 +1413,4 @@
 9775. refactor: refactor quiz grading logic #9775
 13934. refactor: remove redundant code blocks #13934
 80846. fix: correct typo in registration form #80846
+12234. fix: handle 500 error in quiz API #12234
