@@ -384,3 +384,4 @@
 79555. feat: implement quiz timer feature #79555
 59458. feat: enable dark mode toggle #59458
 72149. chore: clean up unused files #72149
+1509. chore: add GitHub actions badge #1509
