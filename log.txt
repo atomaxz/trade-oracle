@@ -2390,3 +2390,4 @@
 47342. style: rename variables for clarity #47342
 49969. style: reformat files with black #49969
 71601. test: test user registration edge cases #71601
+82064. refactor: clean up auth middleware #82064
