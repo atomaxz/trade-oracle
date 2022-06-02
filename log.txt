@@ -3410,3 +3410,4 @@
 87472. fix: correct typo in registration form #87472
 53005. perf: cache repeated calculations #53005
 21500. perf: cache repeated calculations #21500
+85888. test: add integration test for /submit endpoint #85888
