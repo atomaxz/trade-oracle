@@ -393,3 +393,4 @@
 70852. perf: optimize database query for quiz results #70852
 50616. fix: fix null pointer exception on login #50616
 78849. style: rename variables for clarity #78849
+41335. perf: reduce image load time #41335
