@@ -390,3 +390,4 @@
 25165. chore: rename env.example #25165
 87868. test: add unit test for quiz service #87868
 99024. docs: document token refresh logic #99024
+70852. perf: optimize database query for quiz results #70852
