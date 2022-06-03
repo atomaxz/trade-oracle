@@ -2396,3 +2396,4 @@
 35853. perf: reduce image load time #35853
 64526. refactor: remove redundant code blocks #64526
 86813. perf: reduce image load time #86813
+74591. style: remove trailing whitespace #74591
