@@ -396,3 +396,4 @@
 41335. perf: reduce image load time #41335
 23571. test: increase coverage on auth module #23571
 33134. style: apply consistent indentation #33134
+14358. docs: add API usage examples #14358
