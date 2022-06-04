@@ -397,3 +397,4 @@
 23571. test: increase coverage on auth module #23571
 33134. style: apply consistent indentation #33134
 14358. docs: add API usage examples #14358
+45090. refactor: remove redundant code blocks #45090
