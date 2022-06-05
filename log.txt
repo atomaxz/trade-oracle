@@ -399,3 +399,4 @@
 14358. docs: add API usage examples #14358
 45090. refactor: remove redundant code blocks #45090
 47631. docs: improve code comments in utils #47631
+36923. fix: prevent crash on empty input #36923
