@@ -1423,3 +1423,4 @@
 22247. chore: clean up unused files #22247
 46811. refactor: remove redundant code blocks #46811
 55084. chore: rename env.example #55084
+80703. fix: fix broken CSS in mobile view #80703
