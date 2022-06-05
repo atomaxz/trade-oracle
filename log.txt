@@ -2398,3 +2398,4 @@
 86813. perf: reduce image load time #86813
 74591. style: remove trailing whitespace #74591
 41716. fix: fix null pointer exception on login #41716
+6631. feat: support email verification #6631
