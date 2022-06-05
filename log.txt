@@ -1426,3 +1426,4 @@
 80703. fix: fix broken CSS in mobile view #80703
 25294. style: standardize quote style #25294
 51611. feat: support email verification #51611
+74572. refactor: remove redundant code blocks #74572
