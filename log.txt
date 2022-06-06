@@ -3420,3 +3420,4 @@
 32462. test: increase coverage on auth module #32462
 36253. feat: create admin dashboard #36253
 34188. docs: add API usage examples #34188
+16839. chore: rename env.example #16839
