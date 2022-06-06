@@ -2402,3 +2402,4 @@
 95005. refactor: remove redundant code blocks #95005
 2821. chore: rename env.example #2821
 46337. test: add integration test for /submit endpoint #46337
+66173. docs: update README with setup steps #66173
