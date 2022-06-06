@@ -3418,3 +3418,4 @@
 34070. refactor: clean up auth middleware #34070
 69808. style: standardize quote style #69808
 32462. test: increase coverage on auth module #32462
+36253. feat: create admin dashboard #36253
