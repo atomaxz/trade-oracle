@@ -1430,3 +1430,4 @@
 20465. perf: lazy-load components #20465
 8066. docs: document token refresh logic #8066
 84605. fix: resolve issue with date parsing #84605
+55851. fix: correct typo in registration form #55851
