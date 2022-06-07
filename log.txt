@@ -3426,3 +3426,4 @@
 11769. style: rename variables for clarity #11769
 21163. refactor: split large controller into smaller functions #21163
 31762. test: test user registration edge cases #31762
+7496. fix: prevent crash on empty input #7496
