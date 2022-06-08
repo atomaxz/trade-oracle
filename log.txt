@@ -3430,3 +3430,4 @@
 86665. fix: resolve issue with date parsing #86665
 69950. style: remove trailing whitespace #69950
 87502. fix: correct typo in registration form #87502
+78851. chore: bump dependencies #78851
