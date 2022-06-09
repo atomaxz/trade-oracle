@@ -1442,3 +1442,4 @@
 63996. fix: fix null pointer exception on login #63996
 34896. feat: add user authentication #34896
 97846. test: add unit test for quiz service #97846
+23228. test: test user registration edge cases #23228
