@@ -3436,3 +3436,4 @@
 73725. test: add integration test for /submit endpoint #73725
 44266. test: mock database connection in test suite #44266
 39276. perf: optimize database query for quiz results #39276
+42319. perf: lazy-load components #42319
