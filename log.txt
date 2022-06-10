@@ -2419,3 +2419,4 @@
 86306. style: remove trailing whitespace #86306
 6745. fix: prevent crash on empty input #6745
 77841. feat: enable dark mode toggle #77841
+6715. fix: prevent crash on empty input #6715
