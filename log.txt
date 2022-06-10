@@ -2421,3 +2421,4 @@
 77841. feat: enable dark mode toggle #77841
 6715. fix: prevent crash on empty input #6715
 71879. chore: clean up unused files #71879
+95070. feat: enable dark mode toggle #95070
