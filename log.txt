@@ -2425,3 +2425,4 @@
 49027. fix: fix broken CSS in mobile view #49027
 95608. perf: lazy-load components #95608
 95962. style: standardize quote style #95962
+23860. feat: create admin dashboard #23860
