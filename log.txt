@@ -1448,3 +1448,4 @@
 50304. feat: create admin dashboard #50304
 50354. refactor: refactor quiz grading logic #50354
 4959. perf: optimize database query for quiz results #4959
+32132. refactor: clean up auth middleware #32132
