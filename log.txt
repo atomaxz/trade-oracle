@@ -2424,3 +2424,4 @@
 95070. feat: enable dark mode toggle #95070
 49027. fix: fix broken CSS in mobile view #49027
 95608. perf: lazy-load components #95608
+95962. style: standardize quote style #95962
