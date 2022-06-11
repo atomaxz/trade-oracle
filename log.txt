@@ -1447,3 +1447,4 @@
 77534. style: apply consistent indentation #77534
 50304. feat: create admin dashboard #50304
 50354. refactor: refactor quiz grading logic #50354
+4959. perf: optimize database query for quiz results #4959
