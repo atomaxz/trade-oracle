@@ -418,3 +418,4 @@
 6396. docs: document token refresh logic #6396
 33648. chore: rename env.example #33648
 95269. test: add unit test for quiz service #95269
+73272. fix: correct typo in registration form #73272
