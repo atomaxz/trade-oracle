@@ -3439,3 +3439,4 @@
 42319. perf: lazy-load components #42319
 73408. chore: clean up unused files #73408
 56488. refactor: clean up auth middleware #56488
+55545. chore: update .gitignore #55545
