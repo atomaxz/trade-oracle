@@ -1453,3 +1453,4 @@
 71695. test: increase coverage on auth module #71695
 57966. feat: add export to CSV option #57966
 50632. test: add unit test for quiz service #50632
+67075. docs: document token refresh logic #67075
