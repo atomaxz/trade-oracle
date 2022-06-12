@@ -421,3 +421,4 @@
 73272. fix: correct typo in registration form #73272
 37450. chore: update .gitignore #37450
 56676. fix: prevent crash on empty input #56676
+67436. docs: document token refresh logic #67436
