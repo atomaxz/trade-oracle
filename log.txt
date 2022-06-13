@@ -2433,3 +2433,4 @@
 71343. perf: reduce image load time #71343
 33625. style: apply consistent indentation #33625
 93834. chore: update .gitignore #93834
+81546. docs: write FAQ section #81546
