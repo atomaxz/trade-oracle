@@ -2434,3 +2434,4 @@
 33625. style: apply consistent indentation #33625
 93834. chore: update .gitignore #93834
 81546. docs: write FAQ section #81546
+14657. feat: support email verification #14657
