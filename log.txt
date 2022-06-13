@@ -2431,3 +2431,4 @@
 66228. refactor: remove redundant code blocks #66228
 17899. feat: create admin dashboard #17899
 71343. perf: reduce image load time #71343
+33625. style: apply consistent indentation #33625
