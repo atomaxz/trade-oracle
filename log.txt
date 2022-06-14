@@ -424,3 +424,4 @@
 67436. docs: document token refresh logic #67436
 17052. fix: resolve issue with date parsing #17052
 45493. docs: improve code comments in utils #45493
+24151. fix: prevent crash on empty input #24151
