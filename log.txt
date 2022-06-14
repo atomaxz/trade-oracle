@@ -3451,3 +3451,4 @@
 57633. chore: add GitHub actions badge #57633
 11624. docs: write FAQ section #11624
 73386. test: test user registration edge cases #73386
+8752. feat: create admin dashboard #8752
