@@ -426,3 +426,4 @@
 45493. docs: improve code comments in utils #45493
 24151. fix: prevent crash on empty input #24151
 5262. perf: reduce image load time #5262
+18472. fix: resolve issue with date parsing #18472
