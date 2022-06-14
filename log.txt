@@ -3448,3 +3448,4 @@
 55583. chore: clean up unused files #55583
 10551. style: reformat files with black #10551
 43889. perf: cache repeated calculations #43889
+57633. chore: add GitHub actions badge #57633
