@@ -3455,3 +3455,4 @@
 40276. test: mock database connection in test suite #40276
 65198. feat: add export to CSV option #65198
 87731. docs: update README with setup steps #87731
+46728. perf: lazy-load components #46728
