@@ -3454,3 +3454,4 @@
 8752. feat: create admin dashboard #8752
 40276. test: mock database connection in test suite #40276
 65198. feat: add export to CSV option #65198
+87731. docs: update README with setup steps #87731
