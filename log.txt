@@ -2436,3 +2436,4 @@
 81546. docs: write FAQ section #81546
 14657. feat: support email verification #14657
 47208. perf: lazy-load components #47208
+66661. chore: rename env.example #66661
