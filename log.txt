@@ -1460,3 +1460,4 @@
 12966. test: add integration test for /submit endpoint #12966
 60121. chore: clean up unused files #60121
 73278. chore: add GitHub actions badge #73278
+10379. test: increase coverage on auth module #10379
