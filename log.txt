@@ -1462,3 +1462,4 @@
 73278. chore: add GitHub actions badge #73278
 10379. test: increase coverage on auth module #10379
 40669. refactor: remove redundant code blocks #40669
+64701. style: remove trailing whitespace #64701
