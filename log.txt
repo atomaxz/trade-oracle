@@ -1463,3 +1463,4 @@
 10379. test: increase coverage on auth module #10379
 40669. refactor: remove redundant code blocks #40669
 64701. style: remove trailing whitespace #64701
+9504. fix: handle 500 error in quiz API #9504
