@@ -3464,3 +3464,4 @@
 10169. test: add unit test for quiz service #10169
 52610. test: test user registration edge cases #52610
 46935. chore: bump dependencies #46935
+50708. feat: enable dark mode toggle #50708
