@@ -3473,3 +3473,4 @@
 43381. style: remove trailing whitespace #43381
 20475. feat: implement quiz timer feature #20475
 13961. feat: support email verification #13961
+60563. perf: lazy-load components #60563
