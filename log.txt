@@ -443,3 +443,4 @@
 94191. chore: clean up unused files #94191
 54665. fix: prevent crash on empty input #54665
 19705. feat: add user authentication #19705
+3203. chore: add GitHub actions badge #3203
