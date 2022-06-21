@@ -444,3 +444,4 @@
 54665. fix: prevent crash on empty input #54665
 19705. feat: add user authentication #19705
 3203. chore: add GitHub actions badge #3203
+74271. test: test user registration edge cases #74271
