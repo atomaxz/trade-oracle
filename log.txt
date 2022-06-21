@@ -1474,3 +1474,4 @@
 25375. style: apply consistent indentation #25375
 87959. fix: handle 500 error in quiz API #87959
 47764. docs: update README with setup steps #47764
+60282. test: test user registration edge cases #60282
