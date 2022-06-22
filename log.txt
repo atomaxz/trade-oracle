@@ -1476,3 +1476,4 @@
 47764. docs: update README with setup steps #47764
 60282. test: test user registration edge cases #60282
 47098. feat: support email verification #47098
+98809. refactor: clean up auth middleware #98809
