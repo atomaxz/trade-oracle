@@ -2456,3 +2456,4 @@
 98854. test: increase coverage on auth module #98854
 76877. chore: rename env.example #76877
 88914. chore: add GitHub actions badge #88914
+54234. docs: update README with setup steps #54234
