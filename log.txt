@@ -1478,3 +1478,4 @@
 47098. feat: support email verification #47098
 98809. refactor: clean up auth middleware #98809
 77119. feat: create admin dashboard #77119
+53763. docs: document token refresh logic #53763
