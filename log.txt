@@ -2458,3 +2458,4 @@
 88914. chore: add GitHub actions badge #88914
 54234. docs: update README with setup steps #54234
 67163. perf: reduce image load time #67163
+64331. refactor: clean up auth middleware #64331
