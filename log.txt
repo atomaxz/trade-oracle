@@ -450,3 +450,4 @@
 89808. chore: update .gitignore #89808
 87817. chore: rename env.example #87817
 72725. style: rename variables for clarity #72725
+18369. feat: add user authentication #18369
