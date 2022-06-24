@@ -3478,3 +3478,4 @@
 19960. docs: write FAQ section #19960
 36018. perf: reduce image load time #36018
 83274. fix: handle 500 error in quiz API #83274
+20243. perf: reduce image load time #20243
