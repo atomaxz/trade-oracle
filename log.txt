@@ -1479,3 +1479,4 @@
 98809. refactor: clean up auth middleware #98809
 77119. feat: create admin dashboard #77119
 53763. docs: document token refresh logic #53763
+61838. docs: update README with setup steps #61838
