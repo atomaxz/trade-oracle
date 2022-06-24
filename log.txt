@@ -453,3 +453,4 @@
 18369. feat: add user authentication #18369
 51125. docs: add API usage examples #51125
 89036. refactor: refactor quiz grading logic #89036
+41926. test: mock database connection in test suite #41926
