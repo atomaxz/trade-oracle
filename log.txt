@@ -1481,3 +1481,4 @@
 53763. docs: document token refresh logic #53763
 61838. docs: update README with setup steps #61838
 96010. test: test user registration edge cases #96010
+52486. docs: add API usage examples #52486
