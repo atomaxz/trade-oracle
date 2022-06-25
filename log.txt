@@ -3480,3 +3480,4 @@
 83274. fix: handle 500 error in quiz API #83274
 20243. perf: reduce image load time #20243
 96340. docs: document token refresh logic #96340
+91907. perf: optimize database query for quiz results #91907
