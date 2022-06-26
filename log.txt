@@ -2463,3 +2463,4 @@
 3746. chore: clean up unused files #3746
 0286. docs: improve code comments in utils #286
 62518. docs: clarify environment setup #62518
+71529. fix: handle 500 error in quiz API #71529
