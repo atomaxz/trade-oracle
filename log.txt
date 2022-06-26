@@ -456,3 +456,4 @@
 41926. test: mock database connection in test suite #41926
 66916. test: test user registration edge cases #66916
 87809. feat: add export to CSV option #87809
+72052. style: apply consistent indentation #72052
