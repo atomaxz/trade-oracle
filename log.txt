@@ -2465,3 +2465,4 @@
 62518. docs: clarify environment setup #62518
 71529. fix: handle 500 error in quiz API #71529
 96509. docs: clarify environment setup #96509
+48107. perf: reduce image load time #48107
