@@ -2466,3 +2466,4 @@
 71529. fix: handle 500 error in quiz API #71529
 96509. docs: clarify environment setup #96509
 48107. perf: reduce image load time #48107
+30188. refactor: clean up auth middleware #30188
