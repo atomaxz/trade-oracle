@@ -458,3 +458,4 @@
 87809. feat: add export to CSV option #87809
 72052. style: apply consistent indentation #72052
 31585. docs: document token refresh logic #31585
+30585. perf: lazy-load components #30585
