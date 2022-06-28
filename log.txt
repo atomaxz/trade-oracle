@@ -463,3 +463,4 @@
 34463. docs: document token refresh logic #34463
 67737. perf: cache repeated calculations #67737
 75206. refactor: clean up auth middleware #75206
+44264. test: mock database connection in test suite #44264
