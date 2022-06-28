@@ -3490,3 +3490,4 @@
 69744. feat: add export to CSV option #69744
 3916. feat: add export to CSV option #3916
 13026. style: rename variables for clarity #13026
+23345. fix: fix broken CSS in mobile view #23345
