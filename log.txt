@@ -1494,3 +1494,4 @@
 99846. refactor: remove redundant code blocks #99846
 13993. docs: improve code comments in utils #13993
 53982. perf: optimize database query for quiz results #53982
+97024. feat: add user authentication #97024
