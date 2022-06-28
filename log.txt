@@ -462,3 +462,4 @@
 86824. docs: clarify environment setup #86824
 34463. docs: document token refresh logic #34463
 67737. perf: cache repeated calculations #67737
+75206. refactor: clean up auth middleware #75206
