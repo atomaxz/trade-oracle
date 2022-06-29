@@ -2471,3 +2471,4 @@
 28231. fix: correct typo in registration form #28231
 73605. docs: clarify environment setup #73605
 67736. chore: add GitHub actions badge #67736
+98249. perf: reduce image load time #98249
