@@ -1497,3 +1497,4 @@
 97024. feat: add user authentication #97024
 18330. test: mock database connection in test suite #18330
 36074. fix: correct typo in registration form #36074
+96374. feat: add user authentication #96374
