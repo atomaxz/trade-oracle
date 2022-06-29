@@ -466,3 +466,4 @@
 44264. test: mock database connection in test suite #44264
 87447. chore: rename env.example #87447
 10902. fix: fix null pointer exception on login #10902
+95320. feat: add export to CSV option #95320
