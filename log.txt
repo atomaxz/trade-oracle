@@ -3493,3 +3493,4 @@
 23345. fix: fix broken CSS in mobile view #23345
 15989. test: add unit test for quiz service #15989
 36095. perf: optimize database query for quiz results #36095
+75204. test: test user registration edge cases #75204
