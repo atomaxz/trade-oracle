@@ -2474,3 +2474,4 @@
 98249. perf: reduce image load time #98249
 48542. fix: resolve issue with date parsing #48542
 10212. docs: write FAQ section #10212
+50804. fix: correct typo in registration form #50804
