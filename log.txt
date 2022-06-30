@@ -3499,3 +3499,4 @@
 20398. chore: update .gitignore #20398
 63369. style: apply consistent indentation #63369
 61521. test: increase coverage on auth module #61521
+97487. test: increase coverage on auth module #97487
