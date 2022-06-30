@@ -2477,3 +2477,4 @@
 50804. fix: correct typo in registration form #50804
 45666. feat: add export to CSV option #45666
 78470. fix: resolve issue with date parsing #78470
+29458. test: test user registration edge cases #29458
