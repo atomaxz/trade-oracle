@@ -1499,3 +1499,4 @@
 36074. fix: correct typo in registration form #36074
 96374. feat: add user authentication #96374
 59194. feat: implement quiz timer feature #59194
+13007. docs: document token refresh logic #13007
