@@ -2476,3 +2476,4 @@
 10212. docs: write FAQ section #10212
 50804. fix: correct typo in registration form #50804
 45666. feat: add export to CSV option #45666
+78470. fix: resolve issue with date parsing #78470
