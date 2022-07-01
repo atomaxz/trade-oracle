@@ -1502,3 +1502,4 @@
 13007. docs: document token refresh logic #13007
 26966. chore: bump dependencies #26966
 36611. test: add unit test for quiz service #36611
+52047. feat: add user authentication #52047
