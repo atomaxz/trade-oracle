@@ -1504,3 +1504,4 @@
 36611. test: add unit test for quiz service #36611
 52047. feat: add user authentication #52047
 16032. docs: write FAQ section #16032
+35973. refactor: clean up auth middleware #35973
