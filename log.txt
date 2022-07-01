@@ -2480,3 +2480,4 @@
 29458. test: test user registration edge cases #29458
 73143. fix: fix null pointer exception on login #73143
 74037. style: standardize quote style #74037
+83054. feat: add user authentication #83054
