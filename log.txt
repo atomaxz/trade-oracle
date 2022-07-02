@@ -2486,3 +2486,4 @@
 9298. feat: implement quiz timer feature #9298
 14176. perf: cache repeated calculations #14176
 5533. perf: optimize database query for quiz results #5533
+87076. feat: support email verification #87076
