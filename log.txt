@@ -1507,3 +1507,4 @@
 35973. refactor: clean up auth middleware #35973
 91743. test: test user registration edge cases #91743
 63433. feat: support email verification #63433
+20370. fix: fix broken CSS in mobile view #20370
