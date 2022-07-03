@@ -482,3 +482,4 @@
 53596. perf: cache repeated calculations #53596
 12763. chore: rename env.example #12763
 66591. style: reformat files with black #66591
+90486. refactor: organize models into subfolders #90486
