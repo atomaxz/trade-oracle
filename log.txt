@@ -2488,3 +2488,4 @@
 5533. perf: optimize database query for quiz results #5533
 87076. feat: support email verification #87076
 71981. fix: correct typo in registration form #71981
+17694. chore: clean up unused files #17694
