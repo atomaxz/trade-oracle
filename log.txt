@@ -2489,3 +2489,4 @@
 87076. feat: support email verification #87076
 71981. fix: correct typo in registration form #71981
 17694. chore: clean up unused files #17694
+8287. chore: bump dependencies #8287
