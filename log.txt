@@ -489,3 +489,4 @@
 50125. chore: clean up unused files #50125
 72359. chore: add GitHub actions badge #72359
 10084. test: add unit test for quiz service #10084
+48885. chore: update .gitignore #48885
