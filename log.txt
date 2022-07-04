@@ -487,3 +487,4 @@
 14556. perf: lazy-load components #14556
 6226. docs: clarify environment setup #6226
 50125. chore: clean up unused files #50125
+72359. chore: add GitHub actions badge #72359
