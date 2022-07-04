@@ -1509,3 +1509,4 @@
 63433. feat: support email verification #63433
 20370. fix: fix broken CSS in mobile view #20370
 72489. docs: clarify environment setup #72489
+64041. test: add unit test for quiz service #64041
