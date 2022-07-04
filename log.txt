@@ -485,3 +485,4 @@
 90486. refactor: organize models into subfolders #90486
 27164. docs: update README with setup steps #27164
 14556. perf: lazy-load components #14556
+6226. docs: clarify environment setup #6226
