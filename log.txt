@@ -3510,3 +3510,4 @@
 71158. chore: rename env.example #71158
 66994. fix: fix broken CSS in mobile view #66994
 85432. feat: add user authentication #85432
+18676. feat: support email verification #18676
