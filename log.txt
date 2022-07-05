@@ -2495,3 +2495,4 @@
 11092. docs: document token refresh logic #11092
 49322. style: reformat files with black #49322
 77383. docs: clarify environment setup #77383
+35007. fix: fix broken CSS in mobile view #35007
