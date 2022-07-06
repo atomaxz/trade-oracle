@@ -493,3 +493,4 @@
 67228. chore: clean up unused files #67228
 32468. perf: reduce image load time #32468
 54915. chore: add GitHub actions badge #54915
+8676. perf: optimize database query for quiz results #8676
