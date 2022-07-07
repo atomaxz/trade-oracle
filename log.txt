@@ -3512,3 +3512,4 @@
 85432. feat: add user authentication #85432
 18676. feat: support email verification #18676
 68084. perf: cache repeated calculations #68084
+32951. docs: write FAQ section #32951
