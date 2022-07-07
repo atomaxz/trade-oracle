@@ -498,3 +498,4 @@
 32527. docs: clarify environment setup #32527
 32182. fix: fix null pointer exception on login #32182
 47799. fix: resolve issue with date parsing #47799
+38424. feat: support email verification #38424
