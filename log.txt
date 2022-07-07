@@ -1519,3 +1519,4 @@
 21995. test: test user registration edge cases #21995
 50414. test: mock database connection in test suite #50414
 76384. test: mock database connection in test suite #76384
+43681. perf: optimize database query for quiz results #43681
