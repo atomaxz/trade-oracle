@@ -2508,3 +2508,4 @@
 78721. refactor: clean up auth middleware #78721
 48062. perf: optimize database query for quiz results #48062
 21177. fix: fix broken CSS in mobile view #21177
+89765. feat: create admin dashboard #89765
