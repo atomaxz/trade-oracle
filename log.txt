@@ -2506,3 +2506,4 @@
 95965. feat: add export to CSV option #95965
 29047. fix: fix broken CSS in mobile view #29047
 78721. refactor: clean up auth middleware #78721
+48062. perf: optimize database query for quiz results #48062
