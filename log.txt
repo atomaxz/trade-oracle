@@ -1516,3 +1516,4 @@
 87818. feat: create admin dashboard #87818
 75435. chore: update .gitignore #75435
 19943. chore: bump dependencies #19943
+21995. test: test user registration edge cases #21995
