@@ -1515,3 +1515,4 @@
 92461. refactor: refactor quiz grading logic #92461
 87818. feat: create admin dashboard #87818
 75435. chore: update .gitignore #75435
+19943. chore: bump dependencies #19943
