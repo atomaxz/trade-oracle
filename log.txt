@@ -3514,3 +3514,4 @@
 68084. perf: cache repeated calculations #68084
 32951. docs: write FAQ section #32951
 61916. test: add unit test for quiz service #61916
+4426. fix: fix null pointer exception on login #4426
