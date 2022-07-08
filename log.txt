@@ -3516,3 +3516,4 @@
 61916. test: add unit test for quiz service #61916
 4426. fix: fix null pointer exception on login #4426
 45761. fix: resolve issue with date parsing #45761
+65916. test: test user registration edge cases #65916
