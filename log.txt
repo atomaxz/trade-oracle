@@ -3515,3 +3515,4 @@
 32951. docs: write FAQ section #32951
 61916. test: add unit test for quiz service #61916
 4426. fix: fix null pointer exception on login #4426
+45761. fix: resolve issue with date parsing #45761
