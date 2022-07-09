@@ -503,3 +503,4 @@
 15886. style: rename variables for clarity #15886
 78941. style: standardize quote style #78941
 44350. test: test user registration edge cases #44350
+8415. feat: add export to CSV option #8415
