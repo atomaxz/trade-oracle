@@ -1529,3 +1529,4 @@
 84720. feat: implement quiz timer feature #84720
 28142. feat: support email verification #28142
 87467. docs: improve code comments in utils #87467
+69837. perf: optimize database query for quiz results #69837
