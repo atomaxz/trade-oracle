@@ -1527,3 +1527,4 @@
 56825. perf: reduce image load time #56825
 67364. perf: cache repeated calculations #67364
 84720. feat: implement quiz timer feature #84720
+28142. feat: support email verification #28142
