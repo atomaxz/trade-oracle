@@ -505,3 +505,4 @@
 44350. test: test user registration edge cases #44350
 8415. feat: add export to CSV option #8415
 7901. style: apply consistent indentation #7901
+68157. refactor: clean up auth middleware #68157
