@@ -2519,3 +2519,4 @@
 47666. style: apply consistent indentation #47666
 53869. fix: handle 500 error in quiz API #53869
 96116. style: rename variables for clarity #96116
+67465. fix: prevent crash on empty input #67465
