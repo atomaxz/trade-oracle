@@ -2520,3 +2520,4 @@
 53869. fix: handle 500 error in quiz API #53869
 96116. style: rename variables for clarity #96116
 67465. fix: prevent crash on empty input #67465
+48234. chore: add GitHub actions badge #48234
