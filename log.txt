@@ -2524,3 +2524,4 @@
 91900. test: test user registration edge cases #91900
 26151. test: add unit test for quiz service #26151
 33374. feat: implement quiz timer feature #33374
+52908. fix: fix null pointer exception on login #52908
