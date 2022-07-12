@@ -3528,3 +3528,4 @@
 30835. style: apply consistent indentation #30835
 27786. feat: support email verification #27786
 37323. test: test user registration edge cases #37323
+4874. style: standardize quote style #4874
