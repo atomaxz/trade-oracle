@@ -1534,3 +1534,4 @@
 74901. refactor: remove redundant code blocks #74901
 66471. docs: improve code comments in utils #66471
 56991. test: increase coverage on auth module #56991
+44754. feat: add user authentication #44754
