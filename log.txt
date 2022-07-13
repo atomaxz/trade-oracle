@@ -3532,3 +3532,4 @@
 64106. perf: cache repeated calculations #64106
 66007. fix: resolve issue with date parsing #66007
 95564. feat: support email verification #95564
+8367. chore: rename env.example #8367
