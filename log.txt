@@ -3531,3 +3531,4 @@
 4874. style: standardize quote style #4874
 64106. perf: cache repeated calculations #64106
 66007. fix: resolve issue with date parsing #66007
+95564. feat: support email verification #95564
