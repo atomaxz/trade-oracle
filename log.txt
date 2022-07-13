@@ -2529,3 +2529,4 @@
 11340. feat: add export to CSV option #11340
 59403. docs: update README with setup steps #59403
 92987. style: rename variables for clarity #92987
+79615. style: remove trailing whitespace #79615
