@@ -512,3 +512,4 @@
 10378. test: add integration test for /submit endpoint #10378
 83284. chore: rename env.example #83284
 60028. perf: cache repeated calculations #60028
+65830. feat: implement quiz timer feature #65830
