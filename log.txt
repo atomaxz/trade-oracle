@@ -2530,3 +2530,4 @@
 59403. docs: update README with setup steps #59403
 92987. style: rename variables for clarity #92987
 79615. style: remove trailing whitespace #79615
+18491. perf: lazy-load components #18491
