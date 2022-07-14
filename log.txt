@@ -516,3 +516,4 @@
 65655. refactor: clean up auth middleware #65655
 70094. feat: support email verification #70094
 72661. refactor: organize models into subfolders #72661
+38309. test: increase coverage on auth module #38309
