@@ -1540,3 +1540,4 @@
 29837. docs: write FAQ section #29837
 47827. perf: cache repeated calculations #47827
 48956. perf: lazy-load components #48956
+52774. docs: clarify environment setup #52774
