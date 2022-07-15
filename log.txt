@@ -518,3 +518,4 @@
 72661. refactor: organize models into subfolders #72661
 38309. test: increase coverage on auth module #38309
 0468. docs: write FAQ section #468
+26962. fix: correct typo in registration form #26962
