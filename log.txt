@@ -520,3 +520,4 @@
 0468. docs: write FAQ section #468
 26962. fix: correct typo in registration form #26962
 23207. perf: lazy-load components #23207
+15306. docs: document token refresh logic #15306
