@@ -3537,3 +3537,4 @@
 63678. feat: enable dark mode toggle #63678
 6192. docs: add API usage examples #6192
 38267. fix: fix broken CSS in mobile view #38267
+20645. fix: resolve issue with date parsing #20645
