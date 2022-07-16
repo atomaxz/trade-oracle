@@ -522,3 +522,4 @@
 23207. perf: lazy-load components #23207
 15306. docs: document token refresh logic #15306
 12328. refactor: remove redundant code blocks #12328
+1815. style: remove trailing whitespace #1815
