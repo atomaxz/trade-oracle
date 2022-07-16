@@ -1543,3 +1543,4 @@
 52774. docs: clarify environment setup #52774
 97667. chore: add GitHub actions badge #97667
 44568. chore: update .gitignore #44568
+45361. refactor: clean up auth middleware #45361
