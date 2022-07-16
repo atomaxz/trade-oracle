@@ -524,3 +524,4 @@
 12328. refactor: remove redundant code blocks #12328
 1815. style: remove trailing whitespace #1815
 74325. docs: document token refresh logic #74325
+17582. test: test user registration edge cases #17582
