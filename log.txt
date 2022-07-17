@@ -3541,3 +3541,4 @@
 99180. fix: resolve issue with date parsing #99180
 92034. fix: prevent crash on empty input #92034
 54495. perf: optimize database query for quiz results #54495
+93384. refactor: refactor quiz grading logic #93384
