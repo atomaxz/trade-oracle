@@ -526,3 +526,4 @@
 74325. docs: document token refresh logic #74325
 17582. test: test user registration edge cases #17582
 38555. chore: clean up unused files #38555
+71872. perf: reduce image load time #71872
