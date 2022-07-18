@@ -2536,3 +2536,4 @@
 30489. perf: reduce image load time #30489
 24220. feat: enable dark mode toggle #24220
 12612. refactor: remove redundant code blocks #12612
+88739. fix: handle 500 error in quiz API #88739
