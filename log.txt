@@ -1548,3 +1548,4 @@
 33072. perf: reduce image load time #33072
 6921. fix: fix null pointer exception on login #6921
 43908. style: rename variables for clarity #43908
+76678. feat: add user authentication #76678
