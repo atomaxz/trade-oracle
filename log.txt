@@ -1552,3 +1552,4 @@
 83042. docs: improve code comments in utils #83042
 61837. refactor: split large controller into smaller functions #61837
 20419. perf: optimize database query for quiz results #20419
+47393. style: apply consistent indentation #47393
