@@ -533,3 +533,4 @@
 75613. feat: add export to CSV option #75613
 90359. refactor: refactor quiz grading logic #90359
 31088. test: increase coverage on auth module #31088
+94554. chore: rename env.example #94554
