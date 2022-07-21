@@ -535,3 +535,4 @@
 31088. test: increase coverage on auth module #31088
 94554. chore: rename env.example #94554
 76140. docs: add API usage examples #76140
+45562. style: reformat files with black #45562
