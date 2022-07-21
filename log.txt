@@ -3553,3 +3553,4 @@
 58516. perf: cache repeated calculations #58516
 83685. test: test user registration edge cases #83685
 47481. refactor: remove redundant code blocks #47481
+12513. chore: bump dependencies #12513
