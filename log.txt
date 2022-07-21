@@ -2546,3 +2546,4 @@
 88697. docs: clarify environment setup #88697
 78370. chore: rename env.example #78370
 41318. fix: fix broken CSS in mobile view #41318
+68914. docs: write FAQ section #68914
