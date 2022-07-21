@@ -2541,3 +2541,4 @@
 77981. docs: add API usage examples #77981
 95565. feat: enable dark mode toggle #95565
 98613. feat: add user authentication #98613
+2808. perf: lazy-load components #2808
