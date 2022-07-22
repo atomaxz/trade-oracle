@@ -1558,3 +1558,4 @@
 22470. chore: bump dependencies #22470
 62870. chore: update .gitignore #62870
 8381. docs: document token refresh logic #8381
+62402. chore: add GitHub actions badge #62402
