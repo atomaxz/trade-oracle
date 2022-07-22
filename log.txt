@@ -1562,3 +1562,4 @@
 7526. style: remove trailing whitespace #7526
 98659. docs: clarify environment setup #98659
 68843. chore: add GitHub actions badge #68843
+1822. fix: prevent crash on empty input #1822
