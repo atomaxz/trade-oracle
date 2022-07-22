@@ -2548,3 +2548,4 @@
 41318. fix: fix broken CSS in mobile view #41318
 68914. docs: write FAQ section #68914
 42285. style: apply consistent indentation #42285
+81136. chore: add GitHub actions badge #81136
