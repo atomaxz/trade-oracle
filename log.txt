@@ -540,3 +540,4 @@
 62036. feat: add export to CSV option #62036
 0239. style: reformat files with black #239
 75823. test: increase coverage on auth module #75823
+20936. chore: bump dependencies #20936
