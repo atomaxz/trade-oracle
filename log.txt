@@ -2552,3 +2552,4 @@
 7266. fix: prevent crash on empty input #7266
 69975. docs: clarify environment setup #69975
 19581. chore: bump dependencies #19581
+23133. feat: create admin dashboard #23133
