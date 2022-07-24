@@ -1565,3 +1565,4 @@
 1822. fix: prevent crash on empty input #1822
 89233. feat: implement quiz timer feature #89233
 18032. style: apply consistent indentation #18032
+15028. style: standardize quote style #15028
