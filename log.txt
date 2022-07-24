@@ -3555,3 +3555,4 @@
 47481. refactor: remove redundant code blocks #47481
 12513. chore: bump dependencies #12513
 92119. perf: optimize database query for quiz results #92119
+83693. test: increase coverage on auth module #83693
