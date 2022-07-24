@@ -542,3 +542,4 @@
 75823. test: increase coverage on auth module #75823
 20936. chore: bump dependencies #20936
 87163. test: add integration test for /submit endpoint #87163
+2869. feat: create admin dashboard #2869
