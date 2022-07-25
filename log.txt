@@ -2558,3 +2558,4 @@
 51146. feat: implement quiz timer feature #51146
 92368. perf: reduce image load time #92368
 10628. docs: document token refresh logic #10628
+29904. feat: support email verification #29904
