@@ -1567,3 +1567,4 @@
 18032. style: apply consistent indentation #18032
 15028. style: standardize quote style #15028
 91246. fix: prevent crash on empty input #91246
+67573. refactor: clean up auth middleware #67573
