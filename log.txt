@@ -548,3 +548,4 @@
 8490. feat: enable dark mode toggle #8490
 71646. perf: optimize database query for quiz results #71646
 19627. refactor: clean up auth middleware #19627
+98944. feat: support email verification #98944
