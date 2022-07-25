@@ -2559,3 +2559,4 @@
 92368. perf: reduce image load time #92368
 10628. docs: document token refresh logic #10628
 29904. feat: support email verification #29904
+44714. perf: optimize database query for quiz results #44714
