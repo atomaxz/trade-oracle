@@ -3558,3 +3558,4 @@
 83693. test: increase coverage on auth module #83693
 74615. feat: support email verification #74615
 69534. refactor: organize models into subfolders #69534
+18052. perf: lazy-load components #18052
