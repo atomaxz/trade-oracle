@@ -2563,3 +2563,4 @@
 19851. feat: enable dark mode toggle #19851
 92550. feat: add export to CSV option #92550
 40754. perf: reduce image load time #40754
+50621. perf: optimize database query for quiz results #50621
