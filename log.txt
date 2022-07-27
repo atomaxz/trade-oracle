@@ -550,3 +550,4 @@
 19627. refactor: clean up auth middleware #19627
 98944. feat: support email verification #98944
 26400. fix: correct typo in registration form #26400
+37675. feat: enable dark mode toggle #37675
