@@ -554,3 +554,4 @@
 32079. feat: enable dark mode toggle #32079
 81438. docs: write FAQ section #81438
 5751. feat: enable dark mode toggle #5751
+87849. feat: add user authentication #87849
