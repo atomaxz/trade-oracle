@@ -3561,3 +3561,4 @@
 18052. perf: lazy-load components #18052
 58389. chore: bump dependencies #58389
 15561. perf: optimize database query for quiz results #15561
+36897. refactor: clean up auth middleware #36897
