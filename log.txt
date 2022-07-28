@@ -1575,3 +1575,4 @@
 63109. refactor: organize models into subfolders #63109
 17157. docs: improve code comments in utils #17157
 67571. docs: document token refresh logic #67571
+18409. feat: support email verification #18409
