@@ -2565,3 +2565,4 @@
 40754. perf: reduce image load time #40754
 50621. perf: optimize database query for quiz results #50621
 93296. perf: cache repeated calculations #93296
+55523. fix: handle 500 error in quiz API #55523
