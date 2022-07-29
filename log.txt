@@ -2569,3 +2569,4 @@
 16749. test: test user registration edge cases #16749
 24878. docs: add API usage examples #24878
 21826. chore: update .gitignore #21826
+46265. style: remove trailing whitespace #46265
