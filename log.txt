@@ -556,3 +556,4 @@
 5751. feat: enable dark mode toggle #5751
 87849. feat: add user authentication #87849
 73201. chore: bump dependencies #73201
+90081. fix: fix null pointer exception on login #90081
