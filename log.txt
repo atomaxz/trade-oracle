@@ -1578,3 +1578,4 @@
 18409. feat: support email verification #18409
 15857. style: apply consistent indentation #15857
 81442. docs: improve code comments in utils #81442
+92793. fix: handle 500 error in quiz API #92793
