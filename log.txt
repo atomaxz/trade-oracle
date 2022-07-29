@@ -558,3 +558,4 @@
 73201. chore: bump dependencies #73201
 90081. fix: fix null pointer exception on login #90081
 76551. feat: enable dark mode toggle #76551
+36311. style: remove trailing whitespace #36311
