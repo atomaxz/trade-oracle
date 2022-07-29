@@ -2567,3 +2567,4 @@
 93296. perf: cache repeated calculations #93296
 55523. fix: handle 500 error in quiz API #55523
 16749. test: test user registration edge cases #16749
+24878. docs: add API usage examples #24878
