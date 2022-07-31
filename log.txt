@@ -2575,3 +2575,4 @@
 69521. test: increase coverage on auth module #69521
 98894. test: add unit test for quiz service #98894
 8014. style: rename variables for clarity #8014
+53775. feat: create admin dashboard #53775
