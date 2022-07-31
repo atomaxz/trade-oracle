@@ -1582,3 +1582,4 @@
 71650. test: increase coverage on auth module #71650
 96572. feat: add export to CSV option #96572
 47843. refactor: organize models into subfolders #47843
+21480. style: reformat files with black #21480
