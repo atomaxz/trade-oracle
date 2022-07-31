@@ -1584,3 +1584,4 @@
 47843. refactor: organize models into subfolders #47843
 21480. style: reformat files with black #21480
 95641. docs: write FAQ section #95641
+99892. feat: enable dark mode toggle #99892
