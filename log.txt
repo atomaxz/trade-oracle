@@ -566,3 +566,4 @@
 30680. refactor: split large controller into smaller functions #30680
 28453. docs: clarify environment setup #28453
 84536. docs: add API usage examples #84536
+24508. test: increase coverage on auth module #24508
