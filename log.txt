@@ -1586,3 +1586,4 @@
 95641. docs: write FAQ section #95641
 99892. feat: enable dark mode toggle #99892
 43871. style: rename variables for clarity #43871
+61646. feat: create admin dashboard #61646
