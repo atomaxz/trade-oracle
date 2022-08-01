@@ -2581,3 +2581,4 @@
 56402. fix: correct typo in registration form #56402
 94232. style: standardize quote style #94232
 95906. feat: add export to CSV option #95906
+60959. test: mock database connection in test suite #60959
