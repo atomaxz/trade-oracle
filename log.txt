@@ -3575,3 +3575,4 @@
 55176. feat: add user authentication #55176
 16372. test: increase coverage on auth module #16372
 36348. docs: clarify environment setup #36348
+14451. perf: lazy-load components #14451
