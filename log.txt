@@ -569,3 +569,4 @@
 24508. test: increase coverage on auth module #24508
 99472. fix: fix null pointer exception on login #99472
 52728. perf: optimize database query for quiz results #52728
+92379. docs: improve code comments in utils #92379
