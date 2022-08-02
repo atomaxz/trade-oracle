@@ -3576,3 +3576,4 @@
 16372. test: increase coverage on auth module #16372
 36348. docs: clarify environment setup #36348
 14451. perf: lazy-load components #14451
+13413. test: mock database connection in test suite #13413
