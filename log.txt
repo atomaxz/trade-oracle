@@ -570,3 +570,4 @@
 99472. fix: fix null pointer exception on login #99472
 52728. perf: optimize database query for quiz results #52728
 92379. docs: improve code comments in utils #92379
+84154. fix: handle 500 error in quiz API #84154
