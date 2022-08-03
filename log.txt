@@ -2588,3 +2588,4 @@
 7773. perf: optimize database query for quiz results #7773
 88763. perf: optimize database query for quiz results #88763
 50687. docs: add API usage examples #50687
+32269. feat: support email verification #32269
