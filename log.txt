@@ -573,3 +573,4 @@
 84154. fix: handle 500 error in quiz API #84154
 9826. chore: bump dependencies #9826
 8298. feat: add user authentication #8298
+63545. perf: lazy-load components #63545
