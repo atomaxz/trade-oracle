@@ -3578,3 +3578,4 @@
 14451. perf: lazy-load components #14451
 13413. test: mock database connection in test suite #13413
 31669. test: add unit test for quiz service #31669
+32553. chore: bump dependencies #32553
