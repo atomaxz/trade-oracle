@@ -2585,3 +2585,4 @@
 92404. feat: add export to CSV option #92404
 18947. fix: correct typo in registration form #18947
 61444. refactor: split large controller into smaller functions #61444
+7773. perf: optimize database query for quiz results #7773
