@@ -574,3 +574,4 @@
 9826. chore: bump dependencies #9826
 8298. feat: add user authentication #8298
 63545. perf: lazy-load components #63545
+52945. docs: document token refresh logic #52945
