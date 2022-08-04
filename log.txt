@@ -2591,3 +2591,4 @@
 32269. feat: support email verification #32269
 36516. fix: prevent crash on empty input #36516
 70235. feat: support email verification #70235
+40684. refactor: clean up auth middleware #40684
