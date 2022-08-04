@@ -3579,3 +3579,4 @@
 13413. test: mock database connection in test suite #13413
 31669. test: add unit test for quiz service #31669
 32553. chore: bump dependencies #32553
+15280. fix: fix null pointer exception on login #15280
