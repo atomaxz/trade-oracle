@@ -3581,3 +3581,4 @@
 32553. chore: bump dependencies #32553
 15280. fix: fix null pointer exception on login #15280
 44890. fix: handle 500 error in quiz API #44890
+81655. perf: lazy-load components #81655
