@@ -1596,3 +1596,4 @@
 64765. perf: reduce image load time #64765
 84020. feat: add user authentication #84020
 15825. refactor: remove redundant code blocks #15825
+12808. fix: prevent crash on empty input #12808
