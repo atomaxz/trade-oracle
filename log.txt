@@ -2593,3 +2593,4 @@
 70235. feat: support email verification #70235
 40684. refactor: clean up auth middleware #40684
 1917. docs: add API usage examples #1917
+89917. chore: update .gitignore #89917
