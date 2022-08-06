@@ -578,3 +578,4 @@
 98588. docs: add API usage examples #98588
 88106. fix: prevent crash on empty input #88106
 35411. perf: lazy-load components #35411
+32485. refactor: split large controller into smaller functions #32485
