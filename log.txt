@@ -1601,3 +1601,4 @@
 83203. test: increase coverage on auth module #83203
 15118. style: reformat files with black #15118
 52210. feat: support email verification #52210
+37030. feat: create admin dashboard #37030
