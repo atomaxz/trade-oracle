@@ -1603,3 +1603,4 @@
 52210. feat: support email verification #52210
 37030. feat: create admin dashboard #37030
 1152. refactor: remove redundant code blocks #1152
+47287. test: mock database connection in test suite #47287
