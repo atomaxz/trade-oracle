@@ -2599,3 +2599,4 @@
 73986. style: reformat files with black #73986
 37568. chore: bump dependencies #37568
 11961. perf: cache repeated calculations #11961
+77527. docs: document token refresh logic #77527
