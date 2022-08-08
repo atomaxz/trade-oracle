@@ -1611,3 +1611,4 @@
 53356. test: increase coverage on auth module #53356
 43211. test: increase coverage on auth module #43211
 34249. fix: handle 500 error in quiz API #34249
+76331. refactor: split large controller into smaller functions #76331
