@@ -1608,3 +1608,4 @@
 73863. feat: enable dark mode toggle #73863
 86753. docs: update README with setup steps #86753
 84765. style: apply consistent indentation #84765
+53356. test: increase coverage on auth module #53356
