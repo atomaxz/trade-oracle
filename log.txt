@@ -2600,3 +2600,4 @@
 37568. chore: bump dependencies #37568
 11961. perf: cache repeated calculations #11961
 77527. docs: document token refresh logic #77527
+59601. fix: prevent crash on empty input #59601
