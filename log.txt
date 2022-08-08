@@ -584,3 +584,4 @@
 32457. test: add unit test for quiz service #32457
 20507. refactor: organize models into subfolders #20507
 69856. refactor: clean up auth middleware #69856
+12503. chore: add GitHub actions badge #12503
