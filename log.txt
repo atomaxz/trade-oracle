@@ -1610,3 +1610,4 @@
 84765. style: apply consistent indentation #84765
 53356. test: increase coverage on auth module #53356
 43211. test: increase coverage on auth module #43211
+34249. fix: handle 500 error in quiz API #34249
