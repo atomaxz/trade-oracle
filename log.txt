@@ -1607,3 +1607,4 @@
 97342. docs: add API usage examples #97342
 73863. feat: enable dark mode toggle #73863
 86753. docs: update README with setup steps #86753
+84765. style: apply consistent indentation #84765
