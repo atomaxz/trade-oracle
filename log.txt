@@ -586,3 +586,4 @@
 69856. refactor: clean up auth middleware #69856
 12503. chore: add GitHub actions badge #12503
 80399. perf: optimize database query for quiz results #80399
+67593. chore: update .gitignore #67593
