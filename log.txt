@@ -2604,3 +2604,4 @@
 66577. test: increase coverage on auth module #66577
 95640. feat: create admin dashboard #95640
 80234. docs: document token refresh logic #80234
+73965. docs: update README with setup steps #73965
