@@ -3596,3 +3596,4 @@
 28874. docs: clarify environment setup #28874
 14047. style: remove trailing whitespace #14047
 47001. chore: clean up unused files #47001
+72141. test: test user registration edge cases #72141
