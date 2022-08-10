@@ -1617,3 +1617,4 @@
 10971. test: mock database connection in test suite #10971
 5814. feat: create admin dashboard #5814
 49299. refactor: clean up auth middleware #49299
+68914. docs: write FAQ section #68914
