@@ -2609,3 +2609,4 @@
 77726. docs: add API usage examples #77726
 18997. style: apply consistent indentation #18997
 50137. chore: rename env.example #50137
+28350. fix: fix null pointer exception on login #28350
