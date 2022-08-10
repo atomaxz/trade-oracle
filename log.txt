@@ -1615,3 +1615,4 @@
 7336. chore: bump dependencies #7336
 16709. style: rename variables for clarity #16709
 10971. test: mock database connection in test suite #10971
+5814. feat: create admin dashboard #5814
