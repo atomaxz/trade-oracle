@@ -589,3 +589,4 @@
 67593. chore: update .gitignore #67593
 81880. chore: update .gitignore #81880
 97456. perf: reduce image load time #97456
+46865. docs: write FAQ section #46865
