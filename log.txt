@@ -2610,3 +2610,4 @@
 18997. style: apply consistent indentation #18997
 50137. chore: rename env.example #50137
 28350. fix: fix null pointer exception on login #28350
+82339. test: mock database connection in test suite #82339
