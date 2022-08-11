@@ -1621,3 +1621,4 @@
 13345. test: mock database connection in test suite #13345
 99987. fix: fix null pointer exception on login #99987
 97082. fix: resolve issue with date parsing #97082
+95047. test: test user registration edge cases #95047
