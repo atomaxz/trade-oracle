@@ -595,3 +595,4 @@
 6160. chore: update .gitignore #6160
 89506. fix: correct typo in registration form #89506
 72249. style: rename variables for clarity #72249
+49458. fix: correct typo in registration form #49458
