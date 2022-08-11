@@ -2613,3 +2613,4 @@
 82339. test: mock database connection in test suite #82339
 74098. feat: support email verification #74098
 83222. refactor: clean up auth middleware #83222
+80150. perf: optimize database query for quiz results #80150
