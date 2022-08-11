@@ -2612,3 +2612,4 @@
 28350. fix: fix null pointer exception on login #28350
 82339. test: mock database connection in test suite #82339
 74098. feat: support email verification #74098
+83222. refactor: clean up auth middleware #83222
