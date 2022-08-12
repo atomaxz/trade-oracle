@@ -1623,3 +1623,4 @@
 97082. fix: resolve issue with date parsing #97082
 95047. test: test user registration edge cases #95047
 30259. test: mock database connection in test suite #30259
+4377. refactor: split large controller into smaller functions #4377
