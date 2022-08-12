@@ -1626,3 +1626,4 @@
 4377. refactor: split large controller into smaller functions #4377
 37447. style: reformat files with black #37447
 10827. chore: rename env.example #10827
+90162. fix: fix broken CSS in mobile view #90162
