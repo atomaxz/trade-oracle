@@ -3602,3 +3602,4 @@
 54890. docs: improve code comments in utils #54890
 9123. test: mock database connection in test suite #9123
 91810. chore: rename env.example #91810
+4443. fix: handle 500 error in quiz API #4443
