@@ -597,3 +597,4 @@
 72249. style: rename variables for clarity #72249
 49458. fix: correct typo in registration form #49458
 77402. feat: support email verification #77402
+90109. fix: correct typo in registration form #90109
