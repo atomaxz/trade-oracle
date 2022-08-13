@@ -599,3 +599,4 @@
 77402. feat: support email verification #77402
 90109. fix: correct typo in registration form #90109
 34753. chore: update .gitignore #34753
+22335. fix: handle 500 error in quiz API #22335
