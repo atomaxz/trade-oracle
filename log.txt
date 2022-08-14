@@ -607,3 +607,4 @@
 87949. refactor: clean up auth middleware #87949
 39258. test: add integration test for /submit endpoint #39258
 42653. perf: cache repeated calculations #42653
+84756. test: test user registration edge cases #84756
