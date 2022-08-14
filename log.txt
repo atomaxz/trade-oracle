@@ -2615,3 +2615,4 @@
 83222. refactor: clean up auth middleware #83222
 80150. perf: optimize database query for quiz results #80150
 12477. docs: improve code comments in utils #12477
+77439. refactor: split large controller into smaller functions #77439
