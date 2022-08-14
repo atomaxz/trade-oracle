@@ -604,3 +604,4 @@
 17689. chore: rename env.example #17689
 93318. chore: add GitHub actions badge #93318
 94021. docs: improve code comments in utils #94021
+87949. refactor: clean up auth middleware #87949
