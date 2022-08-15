@@ -1631,3 +1631,4 @@
 53344. test: mock database connection in test suite #53344
 11886. perf: cache repeated calculations #11886
 62795. refactor: refactor quiz grading logic #62795
+37944. refactor: clean up auth middleware #37944
