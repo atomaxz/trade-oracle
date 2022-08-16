@@ -609,3 +609,4 @@
 42653. perf: cache repeated calculations #42653
 84756. test: test user registration edge cases #84756
 89668. refactor: remove redundant code blocks #89668
+78388. feat: support email verification #78388
