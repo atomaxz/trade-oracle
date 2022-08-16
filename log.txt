@@ -611,3 +611,4 @@
 89668. refactor: remove redundant code blocks #89668
 78388. feat: support email verification #78388
 42658. feat: create admin dashboard #42658
+72399. perf: lazy-load components #72399
