@@ -1637,3 +1637,4 @@
 22995. style: apply consistent indentation #22995
 11598. chore: add GitHub actions badge #11598
 57518. refactor: split large controller into smaller functions #57518
+5070. fix: correct typo in registration form #5070
