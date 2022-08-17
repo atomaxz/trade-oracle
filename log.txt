@@ -2626,3 +2626,4 @@
 30167. perf: reduce image load time #30167
 76282. chore: clean up unused files #76282
 99043. refactor: refactor quiz grading logic #99043
+74054. chore: bump dependencies #74054
