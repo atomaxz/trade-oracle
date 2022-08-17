@@ -2622,3 +2622,4 @@
 63556. fix: handle 500 error in quiz API #63556
 5315. style: apply consistent indentation #5315
 51643. refactor: clean up auth middleware #51643
+45521. test: add integration test for /submit endpoint #45521
