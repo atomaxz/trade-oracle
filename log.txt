@@ -1640,3 +1640,4 @@
 5070. fix: correct typo in registration form #5070
 83083. test: test user registration edge cases #83083
 67325. fix: correct typo in registration form #67325
+8858. perf: optimize database query for quiz results #8858
