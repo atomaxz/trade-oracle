@@ -1645,3 +1645,4 @@
 35417. refactor: organize models into subfolders #35417
 69947. docs: add API usage examples #69947
 36773. perf: reduce image load time #36773
+13822. feat: support email verification #13822
