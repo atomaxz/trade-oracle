@@ -618,3 +618,4 @@
 87432. feat: enable dark mode toggle #87432
 84571. perf: optimize database query for quiz results #84571
 46985. chore: add GitHub actions badge #46985
+16806. perf: lazy-load components #16806
