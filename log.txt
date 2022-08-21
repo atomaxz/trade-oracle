@@ -2633,3 +2633,4 @@
 12753. perf: reduce image load time #12753
 58357. fix: resolve issue with date parsing #58357
 44865. chore: add GitHub actions badge #44865
+95304. refactor: clean up auth middleware #95304
