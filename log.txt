@@ -3621,3 +3621,4 @@
 0342. feat: add user authentication #342
 30312. style: rename variables for clarity #30312
 24774. test: test user registration edge cases #24774
+2915. refactor: clean up auth middleware #2915
