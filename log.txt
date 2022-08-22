@@ -3623,3 +3623,4 @@
 24774. test: test user registration edge cases #24774
 2915. refactor: clean up auth middleware #2915
 95751. chore: rename env.example #95751
+15407. chore: add GitHub actions badge #15407
