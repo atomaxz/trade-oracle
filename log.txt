@@ -2635,3 +2635,4 @@
 44865. chore: add GitHub actions badge #44865
 95304. refactor: clean up auth middleware #95304
 9118. chore: rename env.example #9118
+65296. chore: bump dependencies #65296
