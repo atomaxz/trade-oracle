@@ -3633,3 +3633,4 @@
 55657. style: rename variables for clarity #55657
 18443. feat: enable dark mode toggle #18443
 88814. perf: cache repeated calculations #88814
+29226. docs: clarify environment setup #29226
