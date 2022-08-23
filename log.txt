@@ -2638,3 +2638,4 @@
 65296. chore: bump dependencies #65296
 10824. perf: optimize database query for quiz results #10824
 81439. style: standardize quote style #81439
+59972. refactor: organize models into subfolders #59972
