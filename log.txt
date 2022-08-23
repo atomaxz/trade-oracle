@@ -625,3 +625,4 @@
 54998. feat: implement quiz timer feature #54998
 55521. perf: lazy-load components #55521
 8134. refactor: organize models into subfolders #8134
+88299. perf: optimize database query for quiz results #88299
