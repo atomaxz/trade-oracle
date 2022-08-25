@@ -1664,3 +1664,4 @@
 73868. fix: handle 500 error in quiz API #73868
 56756. docs: update README with setup steps #56756
 26493. docs: write FAQ section #26493
+25601. style: apply consistent indentation #25601
