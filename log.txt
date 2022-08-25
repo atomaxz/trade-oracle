@@ -1665,3 +1665,4 @@
 56756. docs: update README with setup steps #56756
 26493. docs: write FAQ section #26493
 25601. style: apply consistent indentation #25601
+16156. fix: fix null pointer exception on login #16156
