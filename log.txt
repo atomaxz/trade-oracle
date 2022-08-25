@@ -629,3 +629,4 @@
 43688. fix: handle 500 error in quiz API #43688
 79144. feat: add user authentication #79144
 70421. fix: prevent crash on empty input #70421
+1240. perf: cache repeated calculations #1240
