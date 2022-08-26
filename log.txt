@@ -634,3 +634,4 @@
 83157. refactor: organize models into subfolders #83157
 75479. test: test user registration edge cases #75479
 63214. fix: correct typo in registration form #63214
+24234. chore: clean up unused files #24234
