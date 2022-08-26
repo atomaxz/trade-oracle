@@ -633,3 +633,4 @@
 48969. fix: prevent crash on empty input #48969
 83157. refactor: organize models into subfolders #83157
 75479. test: test user registration edge cases #75479
+63214. fix: correct typo in registration form #63214
