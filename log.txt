@@ -1670,3 +1670,4 @@
 80211. feat: add user authentication #80211
 65164. docs: write FAQ section #65164
 64054. perf: reduce image load time #64054
+54472. chore: clean up unused files #54472
