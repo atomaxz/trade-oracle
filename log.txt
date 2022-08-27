@@ -2651,3 +2651,4 @@
 40573. fix: resolve issue with date parsing #40573
 32434. fix: fix null pointer exception on login #32434
 99825. refactor: refactor quiz grading logic #99825
+49873. test: mock database connection in test suite #49873
