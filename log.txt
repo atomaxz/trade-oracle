@@ -3638,3 +3638,4 @@
 70925. test: add unit test for quiz service #70925
 86737. style: remove trailing whitespace #86737
 92711. docs: clarify environment setup #92711
+27496. fix: fix broken CSS in mobile view #27496
