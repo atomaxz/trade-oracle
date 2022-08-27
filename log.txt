@@ -1674,3 +1674,4 @@
 11986. style: reformat files with black #11986
 31268. chore: update .gitignore #31268
 17372. test: mock database connection in test suite #17372
+97348. fix: prevent crash on empty input #97348
