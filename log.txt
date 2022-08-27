@@ -1672,3 +1672,4 @@
 64054. perf: reduce image load time #64054
 54472. chore: clean up unused files #54472
 11986. style: reformat files with black #11986
+31268. chore: update .gitignore #31268
