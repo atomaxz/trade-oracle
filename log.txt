@@ -3641,3 +3641,4 @@
 27496. fix: fix broken CSS in mobile view #27496
 66556. refactor: split large controller into smaller functions #66556
 91471. refactor: split large controller into smaller functions #91471
+77071. fix: fix broken CSS in mobile view #77071
