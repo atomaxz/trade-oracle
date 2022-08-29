@@ -3645,3 +3645,4 @@
 44781. perf: cache repeated calculations #44781
 19354. refactor: refactor quiz grading logic #19354
 25563. docs: improve code comments in utils #25563
+83806. test: add unit test for quiz service #83806
