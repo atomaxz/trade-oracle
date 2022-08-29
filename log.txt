@@ -1679,3 +1679,4 @@
 55867. feat: implement quiz timer feature #55867
 22667. feat: add export to CSV option #22667
 76036. style: reformat files with black #76036
+9738. chore: update .gitignore #9738
