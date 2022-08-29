@@ -1681,3 +1681,4 @@
 76036. style: reformat files with black #76036
 9738. chore: update .gitignore #9738
 46438. chore: add GitHub actions badge #46438
+29272. docs: update README with setup steps #29272
