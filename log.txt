@@ -2656,3 +2656,4 @@
 64540. refactor: refactor quiz grading logic #64540
 26306. perf: cache repeated calculations #26306
 43024. fix: resolve issue with date parsing #43024
+98509. refactor: clean up auth middleware #98509
