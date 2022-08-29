@@ -641,3 +641,4 @@
 75106. test: add unit test for quiz service #75106
 62855. test: add integration test for /submit endpoint #62855
 77619. style: standardize quote style #77619
+43156. test: test user registration edge cases #43156
