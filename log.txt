@@ -642,3 +642,4 @@
 62855. test: add integration test for /submit endpoint #62855
 77619. style: standardize quote style #77619
 43156. test: test user registration edge cases #43156
+57848. perf: lazy-load components #57848
