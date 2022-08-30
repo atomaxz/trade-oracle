@@ -3650,3 +3650,4 @@
 25013. perf: cache repeated calculations #25013
 90257. refactor: organize models into subfolders #90257
 84924. feat: create admin dashboard #84924
+43464. test: increase coverage on auth module #43464
