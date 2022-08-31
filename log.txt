@@ -644,3 +644,4 @@
 43156. test: test user registration edge cases #43156
 57848. perf: lazy-load components #57848
 28057. docs: improve code comments in utils #28057
+62755. fix: handle 500 error in quiz API #62755
