@@ -2668,3 +2668,4 @@
 81879. refactor: clean up auth middleware #81879
 97893. docs: update README with setup steps #97893
 44280. refactor: clean up auth middleware #44280
+26211. fix: correct typo in registration form #26211
