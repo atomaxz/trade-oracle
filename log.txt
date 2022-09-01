@@ -1687,3 +1687,4 @@
 63870. chore: rename env.example #63870
 53293. style: apply consistent indentation #53293
 75136. docs: update README with setup steps #75136
+45897. fix: correct typo in registration form #45897
