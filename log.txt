@@ -2671,3 +2671,4 @@
 26211. fix: correct typo in registration form #26211
 84453. feat: support email verification #84453
 26942. docs: clarify environment setup #26942
+40254. style: reformat files with black #40254
