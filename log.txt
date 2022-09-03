@@ -1695,3 +1695,4 @@
 36377. feat: add user authentication #36377
 22036. docs: update README with setup steps #22036
 48509. refactor: clean up auth middleware #48509
+45793. perf: lazy-load components #45793
