@@ -2673,3 +2673,4 @@
 26942. docs: clarify environment setup #26942
 40254. style: reformat files with black #40254
 57090. refactor: clean up auth middleware #57090
+15346. test: mock database connection in test suite #15346
