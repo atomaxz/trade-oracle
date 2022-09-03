@@ -1693,3 +1693,4 @@
 27146. style: reformat files with black #27146
 87011. chore: rename env.example #87011
 36377. feat: add user authentication #36377
+22036. docs: update README with setup steps #22036
