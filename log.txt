@@ -3663,3 +3663,4 @@
 95460. test: add integration test for /submit endpoint #95460
 92325. refactor: refactor quiz grading logic #92325
 94807. feat: add user authentication #94807
+96707. test: increase coverage on auth module #96707
