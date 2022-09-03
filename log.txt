@@ -3665,3 +3665,4 @@
 94807. feat: add user authentication #94807
 96707. test: increase coverage on auth module #96707
 84590. chore: clean up unused files #84590
+15477. perf: optimize database query for quiz results #15477
