@@ -2675,3 +2675,4 @@
 57090. refactor: clean up auth middleware #57090
 15346. test: mock database connection in test suite #15346
 61894. refactor: organize models into subfolders #61894
+34983. fix: prevent crash on empty input #34983
