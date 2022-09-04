@@ -657,3 +657,4 @@
 34320. perf: lazy-load components #34320
 32816. refactor: split large controller into smaller functions #32816
 65815. chore: update .gitignore #65815
+36668. style: remove trailing whitespace #36668
