@@ -3672,3 +3672,4 @@
 86609. perf: cache repeated calculations #86609
 10518. fix: fix broken CSS in mobile view #10518
 5194. test: add unit test for quiz service #5194
+19014. fix: fix null pointer exception on login #19014
