@@ -3670,3 +3670,4 @@
 24842. perf: reduce image load time #24842
 70638. perf: optimize database query for quiz results #70638
 86609. perf: cache repeated calculations #86609
+10518. fix: fix broken CSS in mobile view #10518
