@@ -2684,3 +2684,4 @@
 84597. feat: add user authentication #84597
 87623. test: mock database connection in test suite #87623
 38384. style: standardize quote style #38384
+82343. chore: add GitHub actions badge #82343
