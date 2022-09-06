@@ -1703,3 +1703,4 @@
 25617. docs: update README with setup steps #25617
 27623. feat: enable dark mode toggle #27623
 50759. test: add unit test for quiz service #50759
+16303. fix: fix broken CSS in mobile view #16303
