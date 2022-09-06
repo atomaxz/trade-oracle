@@ -3673,3 +3673,4 @@
 10518. fix: fix broken CSS in mobile view #10518
 5194. test: add unit test for quiz service #5194
 19014. fix: fix null pointer exception on login #19014
+80801. fix: correct typo in registration form #80801
