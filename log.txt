@@ -3676,3 +3676,4 @@
 80801. fix: correct typo in registration form #80801
 28231. fix: correct typo in registration form #28231
 92591. feat: create admin dashboard #92591
+50672. refactor: clean up auth middleware #50672
