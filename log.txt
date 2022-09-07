@@ -2686,3 +2686,4 @@
 38384. style: standardize quote style #38384
 82343. chore: add GitHub actions badge #82343
 83141. docs: update README with setup steps #83141
+3750. chore: add GitHub actions badge #3750
