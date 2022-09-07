@@ -2689,3 +2689,4 @@
 3750. chore: add GitHub actions badge #3750
 76849. perf: cache repeated calculations #76849
 62773. chore: update .gitignore #62773
+35893. fix: handle 500 error in quiz API #35893
