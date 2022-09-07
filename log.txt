@@ -1708,3 +1708,4 @@
 41523. fix: prevent crash on empty input #41523
 93296. perf: cache repeated calculations #93296
 50007. perf: reduce image load time #50007
+40381. docs: document token refresh logic #40381
