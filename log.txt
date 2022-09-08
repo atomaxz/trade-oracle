@@ -3684,3 +3684,4 @@
 58269. docs: document token refresh logic #58269
 13319. feat: support email verification #13319
 97802. perf: cache repeated calculations #97802
+78985. refactor: clean up auth middleware #78985
