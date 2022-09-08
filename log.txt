@@ -3682,3 +3682,4 @@
 47456. docs: clarify environment setup #47456
 95372. perf: cache repeated calculations #95372
 58269. docs: document token refresh logic #58269
+13319. feat: support email verification #13319
