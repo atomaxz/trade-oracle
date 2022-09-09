@@ -3686,3 +3686,4 @@
 97802. perf: cache repeated calculations #97802
 78985. refactor: clean up auth middleware #78985
 62085. test: increase coverage on auth module #62085
+85289. feat: create admin dashboard #85289
