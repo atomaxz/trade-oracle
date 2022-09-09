@@ -667,3 +667,4 @@
 43269. refactor: refactor quiz grading logic #43269
 23187. fix: correct typo in registration form #23187
 39940. perf: lazy-load components #39940
+40778. fix: handle 500 error in quiz API #40778
