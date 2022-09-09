@@ -666,3 +666,4 @@
 68831. refactor: split large controller into smaller functions #68831
 43269. refactor: refactor quiz grading logic #43269
 23187. fix: correct typo in registration form #23187
+39940. perf: lazy-load components #39940
