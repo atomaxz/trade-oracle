@@ -668,3 +668,4 @@
 23187. fix: correct typo in registration form #23187
 39940. perf: lazy-load components #39940
 40778. fix: handle 500 error in quiz API #40778
+73548. docs: write FAQ section #73548
