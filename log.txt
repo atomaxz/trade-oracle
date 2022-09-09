@@ -669,3 +669,4 @@
 39940. perf: lazy-load components #39940
 40778. fix: handle 500 error in quiz API #40778
 73548. docs: write FAQ section #73548
+22433. chore: update .gitignore #22433
