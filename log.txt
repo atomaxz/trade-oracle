@@ -3688,3 +3688,4 @@
 62085. test: increase coverage on auth module #62085
 85289. feat: create admin dashboard #85289
 23635. feat: add export to CSV option #23635
+96318. docs: write FAQ section #96318
