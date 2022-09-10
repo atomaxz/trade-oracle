@@ -2698,3 +2698,4 @@
 53130. style: standardize quote style #53130
 0007. feat: implement quiz timer feature #7
 69693. test: increase coverage on auth module #69693
+45530. chore: add GitHub actions badge #45530
