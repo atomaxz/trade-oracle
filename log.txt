@@ -3693,3 +3693,4 @@
 53695. fix: fix broken CSS in mobile view #53695
 46424. feat: implement quiz timer feature #46424
 86379. docs: clarify environment setup #86379
+71940. feat: support email verification #71940
