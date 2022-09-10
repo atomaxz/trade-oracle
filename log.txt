@@ -1715,3 +1715,4 @@
 1825. perf: lazy-load components #1825
 28713. style: remove trailing whitespace #28713
 56723. style: reformat files with black #56723
+49741. style: standardize quote style #49741
