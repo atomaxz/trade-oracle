@@ -672,3 +672,4 @@
 22433. chore: update .gitignore #22433
 58253. style: rename variables for clarity #58253
 24094. feat: add export to CSV option #24094
+24368. style: apply consistent indentation #24368
