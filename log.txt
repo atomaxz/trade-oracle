@@ -679,3 +679,4 @@
 39537. fix: resolve issue with date parsing #39537
 52065. chore: clean up unused files #52065
 59643. test: test user registration edge cases #59643
+62795. refactor: refactor quiz grading logic #62795
