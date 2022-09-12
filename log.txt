@@ -3702,3 +3702,4 @@
 88036. docs: add API usage examples #88036
 96224. feat: add export to CSV option #96224
 84690. fix: fix null pointer exception on login #84690
+69624. perf: lazy-load components #69624
