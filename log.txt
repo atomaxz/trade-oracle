@@ -681,3 +681,4 @@
 59643. test: test user registration edge cases #59643
 62795. refactor: refactor quiz grading logic #62795
 44863. refactor: split large controller into smaller functions #44863
+61757. test: test user registration edge cases #61757
