@@ -3706,3 +3706,4 @@
 47527. refactor: clean up auth middleware #47527
 24248. fix: fix broken CSS in mobile view #24248
 33745. feat: support email verification #33745
+5938. chore: add GitHub actions badge #5938
