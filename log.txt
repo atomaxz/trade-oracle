@@ -684,3 +684,4 @@
 61757. test: test user registration edge cases #61757
 20483. perf: optimize database query for quiz results #20483
 12587. feat: support email verification #12587
+90827. refactor: clean up auth middleware #90827
