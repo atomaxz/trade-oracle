@@ -3703,3 +3703,4 @@
 96224. feat: add export to CSV option #96224
 84690. fix: fix null pointer exception on login #84690
 69624. perf: lazy-load components #69624
+47527. refactor: clean up auth middleware #47527
