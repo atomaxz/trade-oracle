@@ -3704,3 +3704,4 @@
 84690. fix: fix null pointer exception on login #84690
 69624. perf: lazy-load components #69624
 47527. refactor: clean up auth middleware #47527
+24248. fix: fix broken CSS in mobile view #24248
