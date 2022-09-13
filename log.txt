@@ -682,3 +682,4 @@
 62795. refactor: refactor quiz grading logic #62795
 44863. refactor: split large controller into smaller functions #44863
 61757. test: test user registration edge cases #61757
+20483. perf: optimize database query for quiz results #20483
