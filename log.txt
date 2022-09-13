@@ -1724,3 +1724,4 @@
 97313. feat: add user authentication #97313
 94294. fix: fix broken CSS in mobile view #94294
 52232. chore: add GitHub actions badge #52232
+0205. test: increase coverage on auth module #205
