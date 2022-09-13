@@ -2703,3 +2703,4 @@
 45785. refactor: remove redundant code blocks #45785
 50194. perf: reduce image load time #50194
 62108. feat: enable dark mode toggle #62108
+52599. fix: fix broken CSS in mobile view #52599
