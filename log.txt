@@ -1722,3 +1722,4 @@
 56949. feat: support email verification #56949
 70409. feat: enable dark mode toggle #70409
 97313. feat: add user authentication #97313
+94294. fix: fix broken CSS in mobile view #94294
