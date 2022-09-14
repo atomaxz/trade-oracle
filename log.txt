@@ -1727,3 +1727,4 @@
 0205. test: increase coverage on auth module #205
 17682. style: rename variables for clarity #17682
 1734. perf: lazy-load components #1734
+43750. refactor: remove redundant code blocks #43750
