@@ -2705,3 +2705,4 @@
 62108. feat: enable dark mode toggle #62108
 52599. fix: fix broken CSS in mobile view #52599
 1783. fix: fix null pointer exception on login #1783
+92079. fix: correct typo in registration form #92079
