@@ -3707,3 +3707,4 @@
 24248. fix: fix broken CSS in mobile view #24248
 33745. feat: support email verification #33745
 5938. chore: add GitHub actions badge #5938
+48356. test: test user registration edge cases #48356
