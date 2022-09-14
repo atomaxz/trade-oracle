@@ -686,3 +686,4 @@
 12587. feat: support email verification #12587
 90827. refactor: clean up auth middleware #90827
 85767. feat: enable dark mode toggle #85767
+61904. test: add integration test for /submit endpoint #61904
