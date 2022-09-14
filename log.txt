@@ -3709,3 +3709,4 @@
 5938. chore: add GitHub actions badge #5938
 48356. test: test user registration edge cases #48356
 82682. test: add integration test for /submit endpoint #82682
+44592. feat: add user authentication #44592
