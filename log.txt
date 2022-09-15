@@ -3716,3 +3716,4 @@
 55870. refactor: remove redundant code blocks #55870
 35115. feat: support email verification #35115
 39326. refactor: organize models into subfolders #39326
+64816. test: increase coverage on auth module #64816
