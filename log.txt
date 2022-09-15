@@ -690,3 +690,4 @@
 24070. test: add integration test for /submit endpoint #24070
 90393. style: rename variables for clarity #90393
 58625. docs: add API usage examples #58625
+76621. feat: support email verification #76621
