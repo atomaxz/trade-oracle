@@ -3719,3 +3719,4 @@
 64816. test: increase coverage on auth module #64816
 69342. perf: reduce image load time #69342
 11237. refactor: organize models into subfolders #11237
+63522. chore: bump dependencies #63522
