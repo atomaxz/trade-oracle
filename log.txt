@@ -1730,3 +1730,4 @@
 43750. refactor: remove redundant code blocks #43750
 95466. test: add unit test for quiz service #95466
 65603. style: standardize quote style #65603
+43055. test: test user registration edge cases #43055
