@@ -1732,3 +1732,4 @@
 65603. style: standardize quote style #65603
 43055. test: test user registration edge cases #43055
 84418. chore: rename env.example #84418
+31134. perf: optimize database query for quiz results #31134
