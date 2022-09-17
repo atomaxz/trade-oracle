@@ -1734,3 +1734,4 @@
 84418. chore: rename env.example #84418
 31134. perf: optimize database query for quiz results #31134
 71346. refactor: organize models into subfolders #71346
+12269. fix: resolve issue with date parsing #12269
