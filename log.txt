@@ -2710,3 +2710,4 @@
 1223. feat: add export to CSV option #1223
 58732. refactor: refactor quiz grading logic #58732
 15598. perf: reduce image load time #15598
+4420. chore: update .gitignore #4420
