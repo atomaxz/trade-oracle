@@ -697,3 +697,4 @@
 38887. docs: clarify environment setup #38887
 27141. test: increase coverage on auth module #27141
 6217. style: reformat files with black #6217
+31416. chore: update .gitignore #31416
