@@ -693,3 +693,4 @@
 76621. feat: support email verification #76621
 79171. refactor: organize models into subfolders #79171
 35438. perf: cache repeated calculations #35438
+29162. chore: add GitHub actions badge #29162
