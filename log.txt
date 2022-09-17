@@ -2709,3 +2709,4 @@
 11483. fix: fix broken CSS in mobile view #11483
 1223. feat: add export to CSV option #1223
 58732. refactor: refactor quiz grading logic #58732
+15598. perf: reduce image load time #15598
