@@ -699,3 +699,4 @@
 6217. style: reformat files with black #6217
 31416. chore: update .gitignore #31416
 75178. style: reformat files with black #75178
+96558. chore: add GitHub actions badge #96558
