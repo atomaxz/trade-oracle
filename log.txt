@@ -700,3 +700,4 @@
 31416. chore: update .gitignore #31416
 75178. style: reformat files with black #75178
 96558. chore: add GitHub actions badge #96558
+31059. fix: prevent crash on empty input #31059
