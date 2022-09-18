@@ -3726,3 +3726,4 @@
 13407. perf: cache repeated calculations #13407
 15014. docs: add API usage examples #15014
 54063. perf: reduce image load time #54063
+39316. perf: reduce image load time #39316
