@@ -1737,3 +1737,4 @@
 12269. fix: resolve issue with date parsing #12269
 37611. chore: clean up unused files #37611
 33047. perf: lazy-load components #33047
+59774. feat: create admin dashboard #59774
