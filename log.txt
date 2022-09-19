@@ -2714,3 +2714,4 @@
 14568. feat: add user authentication #14568
 8277. feat: add user authentication #8277
 94476. perf: optimize database query for quiz results #94476
+96672. refactor: clean up auth middleware #96672
