@@ -2716,3 +2716,4 @@
 94476. perf: optimize database query for quiz results #94476
 96672. refactor: clean up auth middleware #96672
 16309. refactor: organize models into subfolders #16309
+56818. fix: fix null pointer exception on login #56818
