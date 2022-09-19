@@ -702,3 +702,4 @@
 96558. chore: add GitHub actions badge #96558
 31059. fix: prevent crash on empty input #31059
 48152. style: standardize quote style #48152
+77698. perf: optimize database query for quiz results #77698
