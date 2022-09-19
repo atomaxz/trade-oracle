@@ -3729,3 +3729,4 @@
 39316. perf: reduce image load time #39316
 26825. refactor: clean up auth middleware #26825
 66198. refactor: split large controller into smaller functions #66198
+74395. test: add unit test for quiz service #74395
