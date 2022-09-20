@@ -707,3 +707,4 @@
 69807. test: test user registration edge cases #69807
 20637. chore: rename env.example #20637
 59357. style: apply consistent indentation #59357
+67191. chore: add GitHub actions badge #67191
