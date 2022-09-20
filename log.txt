@@ -2720,3 +2720,4 @@
 15498. perf: optimize database query for quiz results #15498
 75582. refactor: refactor quiz grading logic #75582
 75690. refactor: split large controller into smaller functions #75690
+74071. style: standardize quote style #74071
