@@ -2724,3 +2724,4 @@
 69574. refactor: split large controller into smaller functions #69574
 13239. perf: cache repeated calculations #13239
 96247. refactor: remove redundant code blocks #96247
+21005. test: increase coverage on auth module #21005
