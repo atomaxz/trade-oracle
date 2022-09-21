@@ -708,3 +708,4 @@
 20637. chore: rename env.example #20637
 59357. style: apply consistent indentation #59357
 67191. chore: add GitHub actions badge #67191
+5491. fix: fix broken CSS in mobile view #5491
