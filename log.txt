@@ -710,3 +710,4 @@
 67191. chore: add GitHub actions badge #67191
 5491. fix: fix broken CSS in mobile view #5491
 68135. docs: add API usage examples #68135
+14896. feat: create admin dashboard #14896
