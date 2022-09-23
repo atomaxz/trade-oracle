@@ -3736,3 +3736,4 @@
 46044. perf: lazy-load components #46044
 34093. fix: fix broken CSS in mobile view #34093
 58168. chore: clean up unused files #58168
+44468. refactor: clean up auth middleware #44468
