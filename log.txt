@@ -2729,3 +2729,4 @@
 31568. perf: optimize database query for quiz results #31568
 96341. fix: fix null pointer exception on login #96341
 99597. chore: rename env.example #99597
+6066. chore: add GitHub actions badge #6066
