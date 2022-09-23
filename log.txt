@@ -1745,3 +1745,4 @@
 35106. feat: implement quiz timer feature #35106
 39352. perf: cache repeated calculations #39352
 90296. docs: improve code comments in utils #90296
+52196. feat: add export to CSV option #52196
