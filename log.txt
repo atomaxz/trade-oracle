@@ -713,3 +713,4 @@
 14896. feat: create admin dashboard #14896
 21549. fix: correct typo in registration form #21549
 59726. test: test user registration edge cases #59726
+35136. refactor: remove redundant code blocks #35136
