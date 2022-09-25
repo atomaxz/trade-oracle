@@ -3738,3 +3738,4 @@
 58168. chore: clean up unused files #58168
 44468. refactor: clean up auth middleware #44468
 17705. chore: update .gitignore #17705
+1675. docs: clarify environment setup #1675
