@@ -719,3 +719,4 @@
 21446. docs: add API usage examples #21446
 19354. refactor: refactor quiz grading logic #19354
 16827. docs: write FAQ section #16827
+97169. perf: cache repeated calculations #97169
