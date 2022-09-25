@@ -2734,3 +2734,4 @@
 98389. refactor: organize models into subfolders #98389
 14430. chore: rename env.example #14430
 66928. feat: add export to CSV option #66928
+5050. chore: add GitHub actions badge #5050
