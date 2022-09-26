@@ -724,3 +724,4 @@
 7966. test: add unit test for quiz service #7966
 1961. feat: implement quiz timer feature #1961
 89217. refactor: organize models into subfolders #89217
+17165. test: test user registration edge cases #17165
