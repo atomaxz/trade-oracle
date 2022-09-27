@@ -2739,3 +2739,4 @@
 6189. refactor: organize models into subfolders #6189
 76548. fix: fix null pointer exception on login #76548
 57388. test: test user registration edge cases #57388
+59682. fix: prevent crash on empty input #59682
