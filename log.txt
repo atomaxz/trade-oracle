@@ -728,3 +728,4 @@
 96138. test: mock database connection in test suite #96138
 36980. refactor: remove redundant code blocks #36980
 97101. refactor: clean up auth middleware #97101
+87280. perf: optimize database query for quiz results #87280
