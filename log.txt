@@ -3746,3 +3746,4 @@
 16098. fix: prevent crash on empty input #16098
 84353. perf: reduce image load time #84353
 57256. refactor: organize models into subfolders #57256
+21221. docs: update README with setup steps #21221
