@@ -3742,3 +3742,4 @@
 68080. refactor: clean up auth middleware #68080
 27681. style: standardize quote style #27681
 26200. docs: add API usage examples #26200
+20173. fix: fix broken CSS in mobile view #20173
