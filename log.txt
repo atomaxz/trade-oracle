@@ -2743,3 +2743,4 @@
 92859. feat: add user authentication #92859
 7617. perf: lazy-load components #7617
 15855. perf: cache repeated calculations #15855
+62354. docs: document token refresh logic #62354
