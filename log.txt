@@ -2749,3 +2749,4 @@
 75483. test: add integration test for /submit endpoint #75483
 74960. refactor: remove redundant code blocks #74960
 28680. docs: update README with setup steps #28680
+94826. test: test user registration edge cases #94826
