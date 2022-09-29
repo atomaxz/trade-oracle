@@ -3755,3 +3755,4 @@
 81314. docs: write FAQ section #81314
 23529. fix: handle 500 error in quiz API #23529
 17467. docs: improve code comments in utils #17467
+7303. perf: lazy-load components #7303
