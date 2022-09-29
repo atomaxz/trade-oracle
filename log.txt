@@ -730,3 +730,4 @@
 97101. refactor: clean up auth middleware #97101
 87280. perf: optimize database query for quiz results #87280
 34022. test: add integration test for /submit endpoint #34022
+87303. test: test user registration edge cases #87303
