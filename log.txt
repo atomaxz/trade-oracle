@@ -3753,3 +3753,4 @@
 5202. chore: rename env.example #5202
 71748. style: rename variables for clarity #71748
 81314. docs: write FAQ section #81314
+23529. fix: handle 500 error in quiz API #23529
