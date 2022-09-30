@@ -1757,3 +1757,4 @@
 25948. feat: add export to CSV option #25948
 74039. fix: correct typo in registration form #74039
 98407. docs: write FAQ section #98407
+6994. perf: cache repeated calculations #6994
