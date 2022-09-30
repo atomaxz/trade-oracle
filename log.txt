@@ -1759,3 +1759,4 @@
 98407. docs: write FAQ section #98407
 6994. perf: cache repeated calculations #6994
 86719. perf: optimize database query for quiz results #86719
+21417. fix: resolve issue with date parsing #21417
