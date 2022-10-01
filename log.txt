@@ -2760,3 +2760,4 @@
 48475. test: mock database connection in test suite #48475
 56575. refactor: organize models into subfolders #56575
 80841. refactor: split large controller into smaller functions #80841
+71860. style: standardize quote style #71860
