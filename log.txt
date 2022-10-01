@@ -735,3 +735,4 @@
 74251. feat: add export to CSV option #74251
 48224. feat: create admin dashboard #48224
 40712. fix: fix null pointer exception on login #40712
+81739. test: mock database connection in test suite #81739
