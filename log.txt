@@ -2761,3 +2761,4 @@
 56575. refactor: organize models into subfolders #56575
 80841. refactor: split large controller into smaller functions #80841
 71860. style: standardize quote style #71860
+25802. refactor: clean up auth middleware #25802
