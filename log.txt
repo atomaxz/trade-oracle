@@ -3763,3 +3763,4 @@
 6483. refactor: refactor quiz grading logic #6483
 78953. test: mock database connection in test suite #78953
 43605. docs: improve code comments in utils #43605
+47545. feat: support email verification #47545
