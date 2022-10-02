@@ -3761,3 +3761,4 @@
 25656. refactor: remove redundant code blocks #25656
 9000. perf: reduce image load time #9000
 6483. refactor: refactor quiz grading logic #6483
+78953. test: mock database connection in test suite #78953
