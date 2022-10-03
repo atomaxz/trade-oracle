@@ -2767,3 +2767,4 @@
 5639. style: reformat files with black #5639
 96328. refactor: organize models into subfolders #96328
 46186. test: mock database connection in test suite #46186
+57768. fix: prevent crash on empty input #57768
