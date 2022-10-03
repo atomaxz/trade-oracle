@@ -2765,3 +2765,4 @@
 68028. test: increase coverage on auth module #68028
 15678. test: increase coverage on auth module #15678
 5639. style: reformat files with black #5639
+96328. refactor: organize models into subfolders #96328
