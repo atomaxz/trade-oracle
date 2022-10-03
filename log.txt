@@ -2762,3 +2762,4 @@
 80841. refactor: split large controller into smaller functions #80841
 71860. style: standardize quote style #71860
 25802. refactor: clean up auth middleware #25802
+68028. test: increase coverage on auth module #68028
