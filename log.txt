@@ -3769,3 +3769,4 @@
 84723. feat: add user authentication #84723
 76161. perf: reduce image load time #76161
 63979. feat: add user authentication #63979
+81899. feat: enable dark mode toggle #81899
