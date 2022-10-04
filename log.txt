@@ -1766,3 +1766,4 @@
 33432. test: increase coverage on auth module #33432
 44047. docs: clarify environment setup #44047
 6479. fix: correct typo in registration form #6479
+46090. refactor: clean up auth middleware #46090
