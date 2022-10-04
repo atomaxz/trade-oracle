@@ -2772,3 +2772,4 @@
 54371. refactor: clean up auth middleware #54371
 41296. feat: add user authentication #41296
 24182. refactor: organize models into subfolders #24182
+6721. feat: enable dark mode toggle #6721
