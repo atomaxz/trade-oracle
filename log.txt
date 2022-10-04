@@ -747,3 +747,4 @@
 19844. fix: fix broken CSS in mobile view #19844
 75604. feat: support email verification #75604
 42950. test: add integration test for /submit endpoint #42950
+21287. docs: update README with setup steps #21287
