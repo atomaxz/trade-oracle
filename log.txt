@@ -746,3 +746,4 @@
 87946. docs: write FAQ section #87946
 19844. fix: fix broken CSS in mobile view #19844
 75604. feat: support email verification #75604
+42950. test: add integration test for /submit endpoint #42950
