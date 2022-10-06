@@ -750,3 +750,4 @@
 21287. docs: update README with setup steps #21287
 77459. feat: add export to CSV option #77459
 55814. feat: support email verification #55814
+75580. style: remove trailing whitespace #75580
