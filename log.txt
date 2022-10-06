@@ -2776,3 +2776,4 @@
 45862. test: add integration test for /submit endpoint #45862
 94047. test: test user registration edge cases #94047
 73793. chore: update .gitignore #73793
+35214. fix: handle 500 error in quiz API #35214
