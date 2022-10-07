@@ -1772,3 +1772,4 @@
 32651. style: remove trailing whitespace #32651
 80624. perf: optimize database query for quiz results #80624
 75189. fix: fix null pointer exception on login #75189
+32608. fix: fix null pointer exception on login #32608
