@@ -756,3 +756,4 @@
 85809. refactor: remove redundant code blocks #85809
 85876. docs: improve code comments in utils #85876
 19825. refactor: clean up auth middleware #19825
+66405. feat: enable dark mode toggle #66405
