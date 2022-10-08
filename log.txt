@@ -757,3 +757,4 @@
 85876. docs: improve code comments in utils #85876
 19825. refactor: clean up auth middleware #19825
 66405. feat: enable dark mode toggle #66405
+2295. fix: prevent crash on empty input #2295
