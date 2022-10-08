@@ -2781,3 +2781,4 @@
 62211. feat: support email verification #62211
 77629. test: add integration test for /submit endpoint #77629
 12012. docs: clarify environment setup #12012
+79004. docs: document token refresh logic #79004
