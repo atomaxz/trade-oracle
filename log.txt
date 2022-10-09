@@ -3780,3 +3780,4 @@
 44108. chore: update .gitignore #44108
 22124. test: add unit test for quiz service #22124
 39182. fix: fix broken CSS in mobile view #39182
+49816. docs: write FAQ section #49816
