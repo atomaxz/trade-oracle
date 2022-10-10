@@ -3784,3 +3784,4 @@
 8258. test: add unit test for quiz service #8258
 29107. refactor: remove redundant code blocks #29107
 32979. style: reformat files with black #32979
+72260. chore: update .gitignore #72260
