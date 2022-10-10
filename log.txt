@@ -1783,3 +1783,4 @@
 19612. test: test user registration edge cases #19612
 41340. fix: fix null pointer exception on login #41340
 51169. style: reformat files with black #51169
+55149. style: remove trailing whitespace #55149
