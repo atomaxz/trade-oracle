@@ -1785,3 +1785,4 @@
 51169. style: reformat files with black #51169
 55149. style: remove trailing whitespace #55149
 48906. perf: lazy-load components #48906
+93779. fix: fix null pointer exception on login #93779
