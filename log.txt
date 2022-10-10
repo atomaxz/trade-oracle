@@ -766,3 +766,4 @@
 99222. chore: clean up unused files #99222
 0564. style: apply consistent indentation #564
 62491. refactor: refactor quiz grading logic #62491
+7521. perf: optimize database query for quiz results #7521
