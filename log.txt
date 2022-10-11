@@ -3785,3 +3785,4 @@
 29107. refactor: remove redundant code blocks #29107
 32979. style: reformat files with black #32979
 72260. chore: update .gitignore #72260
+13494. refactor: clean up auth middleware #13494
