@@ -1791,3 +1791,4 @@
 7904. docs: clarify environment setup #7904
 51981. style: rename variables for clarity #51981
 2631. test: test user registration edge cases #2631
+0057. feat: support email verification #57
