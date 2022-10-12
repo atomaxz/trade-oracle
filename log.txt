@@ -3789,3 +3789,4 @@
 77902. style: reformat files with black #77902
 20001. style: remove trailing whitespace #20001
 76464. fix: correct typo in registration form #76464
+11738. feat: support email verification #11738
