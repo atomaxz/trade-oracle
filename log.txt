@@ -770,3 +770,4 @@
 10533. feat: add export to CSV option #10533
 66320. perf: reduce image load time #66320
 86298. fix: fix broken CSS in mobile view #86298
+87053. chore: add GitHub actions badge #87053
