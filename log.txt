@@ -768,3 +768,4 @@
 62491. refactor: refactor quiz grading logic #62491
 7521. perf: optimize database query for quiz results #7521
 10533. feat: add export to CSV option #10533
+66320. perf: reduce image load time #66320
