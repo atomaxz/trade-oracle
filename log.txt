@@ -1794,3 +1794,4 @@
 0057. feat: support email verification #57
 73487. feat: enable dark mode toggle #73487
 80580. docs: document token refresh logic #80580
+89405. test: add integration test for /submit endpoint #89405
