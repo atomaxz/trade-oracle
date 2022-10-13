@@ -771,3 +771,4 @@
 66320. perf: reduce image load time #66320
 86298. fix: fix broken CSS in mobile view #86298
 87053. chore: add GitHub actions badge #87053
+0335. refactor: remove redundant code blocks #335
