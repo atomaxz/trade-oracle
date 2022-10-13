@@ -2790,3 +2790,4 @@
 19072. chore: rename env.example #19072
 98207. refactor: remove redundant code blocks #98207
 44570. test: add integration test for /submit endpoint #44570
+57620. feat: support email verification #57620
