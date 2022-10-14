@@ -1797,3 +1797,4 @@
 89405. test: add integration test for /submit endpoint #89405
 99362. fix: fix broken CSS in mobile view #99362
 2543. fix: correct typo in registration form #2543
+41436. chore: rename env.example #41436
