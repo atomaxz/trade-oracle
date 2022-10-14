@@ -3792,3 +3792,4 @@
 11738. feat: support email verification #11738
 61627. refactor: refactor quiz grading logic #61627
 80698. chore: clean up unused files #80698
+5965. chore: update .gitignore #5965
