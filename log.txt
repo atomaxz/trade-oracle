@@ -2795,3 +2795,4 @@
 1136. chore: bump dependencies #1136
 4753. fix: prevent crash on empty input #4753
 0235. docs: update README with setup steps #235
+1644. fix: fix null pointer exception on login #1644
