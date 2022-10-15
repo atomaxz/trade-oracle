@@ -2799,3 +2799,4 @@
 73230. style: reformat files with black #73230
 95959. perf: cache repeated calculations #95959
 50929. feat: support email verification #50929
+21638. test: add unit test for quiz service #21638
