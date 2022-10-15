@@ -776,3 +776,4 @@
 12777. chore: clean up unused files #12777
 30298. test: add integration test for /submit endpoint #30298
 9081. test: mock database connection in test suite #9081
+35823. fix: prevent crash on empty input #35823
