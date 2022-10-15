@@ -1799,3 +1799,4 @@
 2543. fix: correct typo in registration form #2543
 41436. chore: rename env.example #41436
 1003. fix: correct typo in registration form #1003
+84116. docs: document token refresh logic #84116
