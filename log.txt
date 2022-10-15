@@ -775,3 +775,4 @@
 59931. fix: handle 500 error in quiz API #59931
 12777. chore: clean up unused files #12777
 30298. test: add integration test for /submit endpoint #30298
+9081. test: mock database connection in test suite #9081
