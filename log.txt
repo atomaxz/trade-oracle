@@ -773,3 +773,4 @@
 87053. chore: add GitHub actions badge #87053
 0335. refactor: remove redundant code blocks #335
 59931. fix: handle 500 error in quiz API #59931
+12777. chore: clean up unused files #12777
