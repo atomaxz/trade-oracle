@@ -3799,3 +3799,4 @@
 87899. feat: add export to CSV option #87899
 35971. perf: cache repeated calculations #35971
 88443. docs: add API usage examples #88443
+54013. feat: enable dark mode toggle #54013
