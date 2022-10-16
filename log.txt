@@ -1804,3 +1804,4 @@
 1742. feat: add export to CSV option #1742
 83731. refactor: remove redundant code blocks #83731
 11921. chore: update .gitignore #11921
+66056. chore: rename env.example #66056
