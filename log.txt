@@ -3801,3 +3801,4 @@
 88443. docs: add API usage examples #88443
 54013. feat: enable dark mode toggle #54013
 82827. perf: lazy-load components #82827
+41967. chore: update .gitignore #41967
