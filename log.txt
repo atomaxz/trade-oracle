@@ -3800,3 +3800,4 @@
 35971. perf: cache repeated calculations #35971
 88443. docs: add API usage examples #88443
 54013. feat: enable dark mode toggle #54013
+82827. perf: lazy-load components #82827
