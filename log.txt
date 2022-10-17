@@ -2801,3 +2801,4 @@
 50929. feat: support email verification #50929
 21638. test: add unit test for quiz service #21638
 94679. style: apply consistent indentation #94679
+11424. fix: prevent crash on empty input #11424
