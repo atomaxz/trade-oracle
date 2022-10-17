@@ -3803,3 +3803,4 @@
 82827. perf: lazy-load components #82827
 41967. chore: update .gitignore #41967
 52505. docs: add API usage examples #52505
+70644. perf: optimize database query for quiz results #70644
