@@ -781,3 +781,4 @@
 11677. style: apply consistent indentation #11677
 6749. style: apply consistent indentation #6749
 47128. docs: clarify environment setup #47128
+18602. test: increase coverage on auth module #18602
