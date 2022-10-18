@@ -1807,3 +1807,4 @@
 66056. chore: rename env.example #66056
 86139. docs: clarify environment setup #86139
 1743. docs: clarify environment setup #1743
+24374. fix: correct typo in registration form #24374
