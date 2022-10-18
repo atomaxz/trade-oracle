@@ -1808,3 +1808,4 @@
 86139. docs: clarify environment setup #86139
 1743. docs: clarify environment setup #1743
 24374. fix: correct typo in registration form #24374
+84915. refactor: clean up auth middleware #84915
