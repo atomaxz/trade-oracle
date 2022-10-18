@@ -788,3 +788,4 @@
 41289. fix: fix broken CSS in mobile view #41289
 77182. chore: clean up unused files #77182
 10531. perf: reduce image load time #10531
+80726. fix: fix broken CSS in mobile view #80726
