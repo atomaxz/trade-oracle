@@ -787,3 +787,4 @@
 71395. docs: write FAQ section #71395
 41289. fix: fix broken CSS in mobile view #41289
 77182. chore: clean up unused files #77182
+10531. perf: reduce image load time #10531
