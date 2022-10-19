@@ -3810,3 +3810,4 @@
 65474. fix: fix null pointer exception on login #65474
 35245. docs: add API usage examples #35245
 76890. fix: resolve issue with date parsing #76890
+35767. fix: prevent crash on empty input #35767
