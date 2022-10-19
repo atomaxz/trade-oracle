@@ -2803,3 +2803,4 @@
 94679. style: apply consistent indentation #94679
 11424. fix: prevent crash on empty input #11424
 27553. style: apply consistent indentation #27553
+30083. test: test user registration edge cases #30083
