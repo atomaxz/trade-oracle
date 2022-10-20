@@ -1811,3 +1811,4 @@
 84915. refactor: clean up auth middleware #84915
 9794. docs: add API usage examples #9794
 56973. docs: clarify environment setup #56973
+98621. fix: handle 500 error in quiz API #98621
