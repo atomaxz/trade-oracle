@@ -799,3 +799,4 @@
 60232. perf: optimize database query for quiz results #60232
 52313. perf: cache repeated calculations #52313
 36293. test: increase coverage on auth module #36293
+35779. fix: fix broken CSS in mobile view #35779
