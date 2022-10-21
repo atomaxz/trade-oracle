@@ -1814,3 +1814,4 @@
 98621. fix: handle 500 error in quiz API #98621
 35863. refactor: refactor quiz grading logic #35863
 96157. feat: add user authentication #96157
+18597. chore: bump dependencies #18597
