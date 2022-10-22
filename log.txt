@@ -801,3 +801,4 @@
 36293. test: increase coverage on auth module #36293
 35779. fix: fix broken CSS in mobile view #35779
 8883. chore: update .gitignore #8883
+23278. chore: clean up unused files #23278
