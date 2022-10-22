@@ -3818,3 +3818,4 @@
 46617. perf: reduce image load time #46617
 10070. perf: reduce image load time #10070
 36400. refactor: organize models into subfolders #36400
+90312. perf: optimize database query for quiz results #90312
