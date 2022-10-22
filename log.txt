@@ -1816,3 +1816,4 @@
 96157. feat: add user authentication #96157
 18597. chore: bump dependencies #18597
 23929. chore: rename env.example #23929
+25683. style: rename variables for clarity #25683
