@@ -2813,3 +2813,4 @@
 79696. test: increase coverage on auth module #79696
 51442. test: increase coverage on auth module #51442
 82288. fix: handle 500 error in quiz API #82288
+53453. perf: lazy-load components #53453
