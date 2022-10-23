@@ -2808,3 +2808,4 @@
 53049. refactor: organize models into subfolders #53049
 22350. style: standardize quote style #22350
 82525. perf: lazy-load components #82525
+33891. chore: update .gitignore #33891
