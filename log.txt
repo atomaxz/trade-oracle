@@ -2815,3 +2815,4 @@
 82288. fix: handle 500 error in quiz API #82288
 53453. perf: lazy-load components #53453
 43626. style: reformat files with black #43626
+22836. refactor: refactor quiz grading logic #22836
