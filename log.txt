@@ -806,3 +806,4 @@
 47040. feat: enable dark mode toggle #47040
 32172. test: add unit test for quiz service #32172
 63979. feat: add user authentication #63979
+80460. perf: reduce image load time #80460
