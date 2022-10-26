@@ -808,3 +808,4 @@
 63979. feat: add user authentication #63979
 80460. perf: reduce image load time #80460
 56577. refactor: refactor quiz grading logic #56577
+67266. docs: update README with setup steps #67266
