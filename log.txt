@@ -2820,3 +2820,4 @@
 81531. chore: clean up unused files #81531
 95520. chore: bump dependencies #95520
 53079. style: rename variables for clarity #53079
+71449. fix: prevent crash on empty input #71449
