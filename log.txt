@@ -1823,3 +1823,4 @@
 41532. chore: update .gitignore #41532
 35504. refactor: organize models into subfolders #35504
 77809. chore: rename env.example #77809
+96331. docs: clarify environment setup #96331
