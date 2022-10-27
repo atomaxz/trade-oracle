@@ -1825,3 +1825,4 @@
 77809. chore: rename env.example #77809
 96331. docs: clarify environment setup #96331
 51025. docs: clarify environment setup #51025
+40773. refactor: organize models into subfolders #40773
