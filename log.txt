@@ -3828,3 +3828,4 @@
 99439. refactor: refactor quiz grading logic #99439
 40158. style: apply consistent indentation #40158
 30385. fix: prevent crash on empty input #30385
+41405. docs: add API usage examples #41405
