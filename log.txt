@@ -811,3 +811,4 @@
 67266. docs: update README with setup steps #67266
 71689. style: standardize quote style #71689
 96406. test: mock database connection in test suite #96406
+1345. chore: add GitHub actions badge #1345
