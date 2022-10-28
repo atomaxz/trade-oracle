@@ -1829,3 +1829,4 @@
 70070. feat: add user authentication #70070
 98671. test: add integration test for /submit endpoint #98671
 44672. test: increase coverage on auth module #44672
+54021. perf: reduce image load time #54021
