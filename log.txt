@@ -2829,3 +2829,4 @@
 1744. refactor: clean up auth middleware #1744
 56723. style: reformat files with black #56723
 61701. test: add unit test for quiz service #61701
+65825. test: add integration test for /submit endpoint #65825
