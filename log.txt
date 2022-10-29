@@ -815,3 +815,4 @@
 43608. test: add unit test for quiz service #43608
 33991. chore: bump dependencies #33991
 96576. feat: add export to CSV option #96576
+68125. fix: prevent crash on empty input #68125
