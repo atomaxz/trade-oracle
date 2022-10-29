@@ -816,3 +816,4 @@
 33991. chore: bump dependencies #33991
 96576. feat: add export to CSV option #96576
 68125. fix: prevent crash on empty input #68125
+12450. perf: lazy-load components #12450
