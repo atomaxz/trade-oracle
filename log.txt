@@ -2832,3 +2832,4 @@
 65825. test: add integration test for /submit endpoint #65825
 42370. style: rename variables for clarity #42370
 3259. feat: create admin dashboard #3259
+79878. feat: support email verification #79878
