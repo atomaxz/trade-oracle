@@ -820,3 +820,4 @@
 0780. refactor: refactor quiz grading logic #780
 4708. feat: support email verification #4708
 38402. feat: implement quiz timer feature #38402
+12239. feat: add export to CSV option #12239
