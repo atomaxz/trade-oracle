@@ -3838,3 +3838,4 @@
 96542. test: increase coverage on auth module #96542
 21149. perf: reduce image load time #21149
 97382. perf: cache repeated calculations #97382
+46441. test: add unit test for quiz service #46441
