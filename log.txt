@@ -1834,3 +1834,4 @@
 86714. docs: clarify environment setup #86714
 67405. fix: handle 500 error in quiz API #67405
 9652. chore: bump dependencies #9652
+15109. chore: rename env.example #15109
