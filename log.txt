@@ -823,3 +823,4 @@
 12239. feat: add export to CSV option #12239
 95863. fix: fix broken CSS in mobile view #95863
 47598. feat: support email verification #47598
+14995. test: test user registration edge cases #14995
