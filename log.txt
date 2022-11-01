@@ -1839,3 +1839,4 @@
 49392. feat: add export to CSV option #49392
 92314. docs: improve code comments in utils #92314
 52580. chore: clean up unused files #52580
+40699. fix: fix broken CSS in mobile view #40699
