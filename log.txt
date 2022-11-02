@@ -1844,3 +1844,4 @@
 24025. chore: bump dependencies #24025
 86337. fix: prevent crash on empty input #86337
 60903. style: standardize quote style #60903
+43543. test: increase coverage on auth module #43543
