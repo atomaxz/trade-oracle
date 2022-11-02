@@ -1841,3 +1841,4 @@
 52580. chore: clean up unused files #52580
 40699. fix: fix broken CSS in mobile view #40699
 6976. chore: bump dependencies #6976
+24025. chore: bump dependencies #24025
