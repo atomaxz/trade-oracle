@@ -3845,3 +3845,4 @@
 49063. fix: prevent crash on empty input #49063
 63784. docs: improve code comments in utils #63784
 32227. chore: rename env.example #32227
+63577. perf: optimize database query for quiz results #63577
