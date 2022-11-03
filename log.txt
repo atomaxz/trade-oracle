@@ -2844,3 +2844,4 @@
 72960. style: reformat files with black #72960
 20884. fix: prevent crash on empty input #20884
 74156. refactor: remove redundant code blocks #74156
+55403. perf: cache repeated calculations #55403
