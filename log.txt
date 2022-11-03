@@ -2840,3 +2840,4 @@
 5908. docs: write FAQ section #5908
 64590. feat: support email verification #64590
 64115. docs: improve code comments in utils #64115
+31993. chore: update .gitignore #31993
