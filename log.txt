@@ -831,3 +831,4 @@
 76213. test: add unit test for quiz service #76213
 51091. test: mock database connection in test suite #51091
 51009. fix: resolve issue with date parsing #51009
+17506. fix: resolve issue with date parsing #17506
