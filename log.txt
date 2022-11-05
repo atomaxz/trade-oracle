@@ -2846,3 +2846,4 @@
 74156. refactor: remove redundant code blocks #74156
 55403. perf: cache repeated calculations #55403
 11944. refactor: clean up auth middleware #11944
+23826. test: mock database connection in test suite #23826
