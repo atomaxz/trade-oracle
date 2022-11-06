@@ -2855,3 +2855,4 @@
 11594. chore: add GitHub actions badge #11594
 20146. docs: improve code comments in utils #20146
 63475. perf: optimize database query for quiz results #63475
+91939. chore: update .gitignore #91939
