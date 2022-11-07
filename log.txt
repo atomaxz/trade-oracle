@@ -3854,3 +3854,4 @@
 92029. chore: update .gitignore #92029
 80545. docs: add API usage examples #80545
 29053. chore: add GitHub actions badge #29053
+1944. perf: optimize database query for quiz results #1944
