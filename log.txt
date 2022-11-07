@@ -2857,3 +2857,4 @@
 63475. perf: optimize database query for quiz results #63475
 91939. chore: update .gitignore #91939
 93843. fix: fix broken CSS in mobile view #93843
+15412. style: apply consistent indentation #15412
