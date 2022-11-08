@@ -1854,3 +1854,4 @@
 70628. style: standardize quote style #70628
 1563. style: apply consistent indentation #1563
 42873. docs: document token refresh logic #42873
+20519. fix: prevent crash on empty input #20519
