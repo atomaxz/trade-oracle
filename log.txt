@@ -844,3 +844,4 @@
 69109. docs: write FAQ section #69109
 96169. feat: add user authentication #96169
 21078. style: rename variables for clarity #21078
+86215. feat: support email verification #86215
