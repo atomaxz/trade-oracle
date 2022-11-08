@@ -1855,3 +1855,4 @@
 1563. style: apply consistent indentation #1563
 42873. docs: document token refresh logic #42873
 20519. fix: prevent crash on empty input #20519
+2483. chore: add GitHub actions badge #2483
