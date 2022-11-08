@@ -3861,3 +3861,4 @@
 24120. fix: prevent crash on empty input #24120
 94330. docs: add API usage examples #94330
 64541. chore: rename env.example #64541
+64244. style: remove trailing whitespace #64244
