@@ -3862,3 +3862,4 @@
 94330. docs: add API usage examples #94330
 64541. chore: rename env.example #64541
 64244. style: remove trailing whitespace #64244
+37138. fix: handle 500 error in quiz API #37138
