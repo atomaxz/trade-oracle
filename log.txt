@@ -2858,3 +2858,4 @@
 91939. chore: update .gitignore #91939
 93843. fix: fix broken CSS in mobile view #93843
 15412. style: apply consistent indentation #15412
+67655. fix: fix null pointer exception on login #67655
