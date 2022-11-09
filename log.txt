@@ -849,3 +849,4 @@
 30127. fix: prevent crash on empty input #30127
 38371. style: apply consistent indentation #38371
 98997. refactor: organize models into subfolders #98997
+44826. fix: fix broken CSS in mobile view #44826
