@@ -2864,3 +2864,4 @@
 2781. chore: clean up unused files #2781
 91342. test: increase coverage on auth module #91342
 18450. refactor: split large controller into smaller functions #18450
+63681. perf: optimize database query for quiz results #63681
