@@ -1857,3 +1857,4 @@
 20519. fix: prevent crash on empty input #20519
 2483. chore: add GitHub actions badge #2483
 82937. perf: reduce image load time #82937
+76632. feat: support email verification #76632
