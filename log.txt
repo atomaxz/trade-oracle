@@ -3866,3 +3866,4 @@
 37420. feat: enable dark mode toggle #37420
 5176. perf: reduce image load time #5176
 44226. refactor: clean up auth middleware #44226
+68033. style: apply consistent indentation #68033
