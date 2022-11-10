@@ -2868,3 +2868,4 @@
 41687. feat: add export to CSV option #41687
 25882. perf: lazy-load components #25882
 98607. feat: add user authentication #98607
+98016. test: mock database connection in test suite #98016
