@@ -3868,3 +3868,4 @@
 44226. refactor: clean up auth middleware #44226
 68033. style: apply consistent indentation #68033
 38937. test: mock database connection in test suite #38937
+25314. feat: add user authentication #25314
