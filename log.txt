@@ -2873,3 +2873,4 @@
 55963. style: remove trailing whitespace #55963
 71691. perf: optimize database query for quiz results #71691
 91073. feat: enable dark mode toggle #91073
+98929. perf: lazy-load components #98929
