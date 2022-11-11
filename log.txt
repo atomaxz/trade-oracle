@@ -2872,3 +2872,4 @@
 53440. test: test user registration edge cases #53440
 55963. style: remove trailing whitespace #55963
 71691. perf: optimize database query for quiz results #71691
+91073. feat: enable dark mode toggle #91073
