@@ -2876,3 +2876,4 @@
 98929. perf: lazy-load components #98929
 29679. feat: implement quiz timer feature #29679
 22484. perf: optimize database query for quiz results #22484
+93838. refactor: split large controller into smaller functions #93838
