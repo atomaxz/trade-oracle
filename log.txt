@@ -859,3 +859,4 @@
 12527. test: test user registration edge cases #12527
 88808. style: remove trailing whitespace #88808
 58221. style: apply consistent indentation #58221
+7624. fix: prevent crash on empty input #7624
