@@ -1859,3 +1859,4 @@
 82937. perf: reduce image load time #82937
 76632. feat: support email verification #76632
 79159. fix: handle 500 error in quiz API #79159
+69819. test: add unit test for quiz service #69819
