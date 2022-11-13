@@ -2878,3 +2878,4 @@
 22484. perf: optimize database query for quiz results #22484
 93838. refactor: split large controller into smaller functions #93838
 13056. refactor: clean up auth middleware #13056
+86551. chore: add GitHub actions badge #86551
