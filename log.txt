@@ -866,3 +866,4 @@
 95536. refactor: remove redundant code blocks #95536
 24864. fix: fix null pointer exception on login #24864
 89107. refactor: split large controller into smaller functions #89107
+99737. chore: update .gitignore #99737
