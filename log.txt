@@ -1872,3 +1872,4 @@
 64803. perf: lazy-load components #64803
 37315. docs: update README with setup steps #37315
 36302. style: remove trailing whitespace #36302
+99017. docs: add API usage examples #99017
