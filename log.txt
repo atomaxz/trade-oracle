@@ -3878,3 +3878,4 @@
 50399. style: standardize quote style #50399
 34410. feat: support email verification #34410
 34684. perf: cache repeated calculations #34684
+36241. refactor: refactor quiz grading logic #36241
