@@ -1871,3 +1871,4 @@
 25073. refactor: refactor quiz grading logic #25073
 64803. perf: lazy-load components #64803
 37315. docs: update README with setup steps #37315
+36302. style: remove trailing whitespace #36302
