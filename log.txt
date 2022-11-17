@@ -880,3 +880,4 @@
 33753. feat: add export to CSV option #33753
 88828. test: mock database connection in test suite #88828
 74061. feat: add export to CSV option #74061
+59332. refactor: organize models into subfolders #59332
