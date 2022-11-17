@@ -2886,3 +2886,4 @@
 62700. chore: update .gitignore #62700
 44778. style: apply consistent indentation #44778
 9825. fix: handle 500 error in quiz API #9825
+24654. test: add unit test for quiz service #24654
