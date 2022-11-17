@@ -876,3 +876,4 @@
 42563. perf: optimize database query for quiz results #42563
 76482. perf: reduce image load time #76482
 39799. perf: cache repeated calculations #39799
+57521. feat: support email verification #57521
