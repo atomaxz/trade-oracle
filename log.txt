@@ -2887,3 +2887,4 @@
 44778. style: apply consistent indentation #44778
 9825. fix: handle 500 error in quiz API #9825
 24654. test: add unit test for quiz service #24654
+12746. fix: resolve issue with date parsing #12746
