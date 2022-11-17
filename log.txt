@@ -877,3 +877,4 @@
 76482. perf: reduce image load time #76482
 39799. perf: cache repeated calculations #39799
 57521. feat: support email verification #57521
+33753. feat: add export to CSV option #33753
