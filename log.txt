@@ -1878,3 +1878,4 @@
 62714. docs: document token refresh logic #62714
 34605. style: apply consistent indentation #34605
 59498. chore: add GitHub actions badge #59498
+62800. perf: reduce image load time #62800
