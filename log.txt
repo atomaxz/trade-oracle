@@ -3885,3 +3885,4 @@
 76549. feat: add user authentication #76549
 39925. chore: rename env.example #39925
 76305. fix: resolve issue with date parsing #76305
+22038. feat: add export to CSV option #22038
