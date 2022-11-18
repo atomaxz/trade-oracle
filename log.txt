@@ -2893,3 +2893,4 @@
 92717. refactor: refactor quiz grading logic #92717
 96091. style: standardize quote style #96091
 74273. style: remove trailing whitespace #74273
+73450. refactor: clean up auth middleware #73450
