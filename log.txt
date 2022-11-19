@@ -3886,3 +3886,4 @@
 39925. chore: rename env.example #39925
 76305. fix: resolve issue with date parsing #76305
 22038. feat: add export to CSV option #22038
+68298. perf: cache repeated calculations #68298
