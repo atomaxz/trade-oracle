@@ -3888,3 +3888,4 @@
 22038. feat: add export to CSV option #22038
 68298. perf: cache repeated calculations #68298
 95240. docs: document token refresh logic #95240
+31314. fix: handle 500 error in quiz API #31314
