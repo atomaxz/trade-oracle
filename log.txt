@@ -1889,3 +1889,4 @@
 4563. fix: correct typo in registration form #4563
 64614. perf: reduce image load time #64614
 10306. refactor: refactor quiz grading logic #10306
+51536. chore: clean up unused files #51536
