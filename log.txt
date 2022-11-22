@@ -1891,3 +1891,4 @@
 10306. refactor: refactor quiz grading logic #10306
 51536. chore: clean up unused files #51536
 40079. test: add integration test for /submit endpoint #40079
+65812. refactor: remove redundant code blocks #65812
