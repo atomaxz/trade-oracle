@@ -3894,3 +3894,4 @@
 56724. perf: cache repeated calculations #56724
 72912. style: apply consistent indentation #72912
 45811. refactor: split large controller into smaller functions #45811
+58133. docs: add API usage examples #58133
