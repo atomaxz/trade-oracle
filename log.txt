@@ -897,3 +897,4 @@
 73006. fix: fix broken CSS in mobile view #73006
 53180. test: test user registration edge cases #53180
 31206. docs: clarify environment setup #31206
+59862. refactor: organize models into subfolders #59862
