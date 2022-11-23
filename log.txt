@@ -898,3 +898,4 @@
 53180. test: test user registration edge cases #53180
 31206. docs: clarify environment setup #31206
 59862. refactor: organize models into subfolders #59862
+54602. refactor: clean up auth middleware #54602
