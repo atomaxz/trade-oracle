@@ -2904,3 +2904,4 @@
 93993. refactor: clean up auth middleware #93993
 35171. perf: reduce image load time #35171
 11088. feat: support email verification #11088
+57054. test: mock database connection in test suite #57054
