@@ -903,3 +903,4 @@
 79898. perf: cache repeated calculations #79898
 5240. test: add unit test for quiz service #5240
 18836. fix: handle 500 error in quiz API #18836
+86178. fix: handle 500 error in quiz API #86178
