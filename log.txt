@@ -3899,3 +3899,4 @@
 86398. test: add unit test for quiz service #86398
 52958. docs: write FAQ section #52958
 48280. chore: add GitHub actions badge #48280
+93181. fix: prevent crash on empty input #93181
