@@ -3901,3 +3901,4 @@
 48280. chore: add GitHub actions badge #48280
 93181. fix: prevent crash on empty input #93181
 2835. refactor: organize models into subfolders #2835
+25876. test: mock database connection in test suite #25876
