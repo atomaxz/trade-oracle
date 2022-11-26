@@ -3905,3 +3905,4 @@
 73519. refactor: split large controller into smaller functions #73519
 69201. fix: resolve issue with date parsing #69201
 42415. perf: cache repeated calculations #42415
+84752. test: add integration test for /submit endpoint #84752
