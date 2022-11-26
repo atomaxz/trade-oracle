@@ -2909,3 +2909,4 @@
 80710. refactor: remove redundant code blocks #80710
 82481. docs: update README with setup steps #82481
 9917. fix: fix broken CSS in mobile view #9917
+9181. feat: add export to CSV option #9181
