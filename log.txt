@@ -1903,3 +1903,4 @@
 8982. refactor: refactor quiz grading logic #8982
 14662. feat: implement quiz timer feature #14662
 0707. style: apply consistent indentation #707
+0114. fix: fix broken CSS in mobile view #114
