@@ -2917,3 +2917,4 @@
 57907. chore: clean up unused files #57907
 57632. test: mock database connection in test suite #57632
 42932. docs: improve code comments in utils #42932
+48905. feat: support email verification #48905
