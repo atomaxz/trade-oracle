@@ -1905,3 +1905,4 @@
 0707. style: apply consistent indentation #707
 0114. fix: fix broken CSS in mobile view #114
 22622. feat: create admin dashboard #22622
+25056. refactor: split large controller into smaller functions #25056
