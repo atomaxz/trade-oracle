@@ -2915,3 +2915,4 @@
 61710. chore: rename env.example #61710
 92411. docs: update README with setup steps #92411
 57907. chore: clean up unused files #57907
+57632. test: mock database connection in test suite #57632
