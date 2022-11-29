@@ -2919,3 +2919,4 @@
 42932. docs: improve code comments in utils #42932
 48905. feat: support email verification #48905
 50245. feat: implement quiz timer feature #50245
+29292. fix: prevent crash on empty input #29292
