@@ -921,3 +921,4 @@
 18558. chore: clean up unused files #18558
 19611. test: mock database connection in test suite #19611
 42398. test: add integration test for /submit endpoint #42398
+82053. feat: support email verification #82053
