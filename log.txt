@@ -3915,3 +3915,4 @@
 89994. style: apply consistent indentation #89994
 48725. docs: clarify environment setup #48725
 22869. style: apply consistent indentation #22869
+40585. feat: support email verification #40585
