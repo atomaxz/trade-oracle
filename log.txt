@@ -919,3 +919,4 @@
 6546. fix: fix null pointer exception on login #6546
 78043. style: standardize quote style #78043
 18558. chore: clean up unused files #18558
+19611. test: mock database connection in test suite #19611
