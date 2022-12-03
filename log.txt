@@ -1918,3 +1918,4 @@
 25296. fix: correct typo in registration form #25296
 25101. feat: enable dark mode toggle #25101
 39383. perf: optimize database query for quiz results #39383
+23108. perf: lazy-load components #23108
