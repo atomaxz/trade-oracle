@@ -1917,3 +1917,4 @@
 1541. style: rename variables for clarity #1541
 25296. fix: correct typo in registration form #25296
 25101. feat: enable dark mode toggle #25101
+39383. perf: optimize database query for quiz results #39383
