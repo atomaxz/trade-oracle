@@ -924,3 +924,4 @@
 82053. feat: support email verification #82053
 57842. docs: improve code comments in utils #57842
 95573. test: increase coverage on auth module #95573
+79401. feat: support email verification #79401
