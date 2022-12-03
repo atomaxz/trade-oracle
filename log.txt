@@ -925,3 +925,4 @@
 57842. docs: improve code comments in utils #57842
 95573. test: increase coverage on auth module #95573
 79401. feat: support email verification #79401
+37582. perf: cache repeated calculations #37582
