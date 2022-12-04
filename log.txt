@@ -2929,3 +2929,4 @@
 57655. fix: fix null pointer exception on login #57655
 80883. refactor: refactor quiz grading logic #80883
 83382. feat: add user authentication #83382
+88427. fix: fix null pointer exception on login #88427
