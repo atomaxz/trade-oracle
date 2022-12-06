@@ -1926,3 +1926,4 @@
 94502. feat: create admin dashboard #94502
 57171. refactor: remove redundant code blocks #57171
 4392. style: apply consistent indentation #4392
+75907. fix: handle 500 error in quiz API #75907
