@@ -931,3 +931,4 @@
 45001. feat: create admin dashboard #45001
 64039. chore: rename env.example #64039
 18090. test: add unit test for quiz service #18090
+63137. fix: handle 500 error in quiz API #63137
