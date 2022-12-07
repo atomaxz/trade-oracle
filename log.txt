@@ -1928,3 +1928,4 @@
 4392. style: apply consistent indentation #4392
 75907. fix: handle 500 error in quiz API #75907
 70440. feat: support email verification #70440
+60742. feat: enable dark mode toggle #60742
