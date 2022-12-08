@@ -939,3 +939,4 @@
 58180. test: increase coverage on auth module #58180
 28050. refactor: split large controller into smaller functions #28050
 84507. feat: implement quiz timer feature #84507
+13237. perf: lazy-load components #13237
