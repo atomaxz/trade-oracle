@@ -2937,3 +2937,4 @@
 30909. fix: fix null pointer exception on login #30909
 63792. refactor: refactor quiz grading logic #63792
 93727. feat: create admin dashboard #93727
+68767. test: mock database connection in test suite #68767
