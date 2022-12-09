@@ -1934,3 +1934,4 @@
 0172. refactor: refactor quiz grading logic #172
 63368. test: increase coverage on auth module #63368
 80063. docs: improve code comments in utils #80063
+72518. docs: update README with setup steps #72518
