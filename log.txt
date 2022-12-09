@@ -1936,3 +1936,4 @@
 80063. docs: improve code comments in utils #80063
 72518. docs: update README with setup steps #72518
 56569. test: increase coverage on auth module #56569
+9510. test: test user registration edge cases #9510
