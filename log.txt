@@ -2941,3 +2941,4 @@
 17809. fix: correct typo in registration form #17809
 20330. refactor: clean up auth middleware #20330
 81606. feat: enable dark mode toggle #81606
+66785. chore: bump dependencies #66785
