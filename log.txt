@@ -3938,3 +3938,4 @@
 58214. perf: optimize database query for quiz results #58214
 45866. test: increase coverage on auth module #45866
 24806. refactor: refactor quiz grading logic #24806
+88181. test: test user registration edge cases #88181
