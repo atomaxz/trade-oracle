@@ -2946,3 +2946,4 @@
 77851. docs: write FAQ section #77851
 96254. style: rename variables for clarity #96254
 71895. docs: add API usage examples #71895
+50875. chore: bump dependencies #50875
