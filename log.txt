@@ -2944,3 +2944,4 @@
 66785. chore: bump dependencies #66785
 93460. perf: cache repeated calculations #93460
 77851. docs: write FAQ section #77851
+96254. style: rename variables for clarity #96254
