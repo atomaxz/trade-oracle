@@ -3942,3 +3942,4 @@
 61612. refactor: clean up auth middleware #61612
 2198. chore: update .gitignore #2198
 96127. refactor: refactor quiz grading logic #96127
+11383. perf: lazy-load components #11383
