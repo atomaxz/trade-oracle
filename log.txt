@@ -3948,3 +3948,4 @@
 27303. docs: improve code comments in utils #27303
 94307. docs: improve code comments in utils #94307
 7699. style: apply consistent indentation #7699
+1356. fix: handle 500 error in quiz API #1356
