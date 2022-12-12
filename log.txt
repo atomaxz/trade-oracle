@@ -1945,3 +1945,4 @@
 16924. test: mock database connection in test suite #16924
 0480. test: increase coverage on auth module #480
 95144. style: apply consistent indentation #95144
+70921. style: apply consistent indentation #70921
