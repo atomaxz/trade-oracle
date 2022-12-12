@@ -1946,3 +1946,4 @@
 0480. test: increase coverage on auth module #480
 95144. style: apply consistent indentation #95144
 70921. style: apply consistent indentation #70921
+82085. chore: add GitHub actions badge #82085
