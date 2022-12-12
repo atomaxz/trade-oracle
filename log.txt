@@ -3949,3 +3949,4 @@
 94307. docs: improve code comments in utils #94307
 7699. style: apply consistent indentation #7699
 1356. fix: handle 500 error in quiz API #1356
+82589. fix: prevent crash on empty input #82589
