@@ -2948,3 +2948,4 @@
 71895. docs: add API usage examples #71895
 50875. chore: bump dependencies #50875
 11072. chore: clean up unused files #11072
+97842. fix: fix null pointer exception on login #97842
