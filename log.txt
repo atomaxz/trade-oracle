@@ -1947,3 +1947,4 @@
 95144. style: apply consistent indentation #95144
 70921. style: apply consistent indentation #70921
 82085. chore: add GitHub actions badge #82085
+54141. fix: fix broken CSS in mobile view #54141
