@@ -951,3 +951,4 @@
 8208. style: standardize quote style #8208
 6097. test: test user registration edge cases #6097
 9505. test: test user registration edge cases #9505
+0649. chore: update .gitignore #649
