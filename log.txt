@@ -2955,3 +2955,4 @@
 77207. test: add unit test for quiz service #77207
 15132. style: apply consistent indentation #15132
 49406. chore: update .gitignore #49406
+63049. test: increase coverage on auth module #63049
