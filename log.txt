@@ -958,3 +958,4 @@
 21005. test: increase coverage on auth module #21005
 91205. perf: cache repeated calculations #91205
 99136. perf: optimize database query for quiz results #99136
+64554. test: add integration test for /submit endpoint #64554
