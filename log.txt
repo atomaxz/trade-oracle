@@ -1956,3 +1956,4 @@
 55314. docs: write FAQ section #55314
 85756. style: rename variables for clarity #85756
 28715. refactor: remove redundant code blocks #28715
+55942. perf: lazy-load components #55942
