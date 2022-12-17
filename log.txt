@@ -965,3 +965,4 @@
 36971. feat: enable dark mode toggle #36971
 74337. feat: enable dark mode toggle #74337
 62799. style: standardize quote style #62799
+34391. fix: prevent crash on empty input #34391
