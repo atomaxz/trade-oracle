@@ -966,3 +966,4 @@
 74337. feat: enable dark mode toggle #74337
 62799. style: standardize quote style #62799
 34391. fix: prevent crash on empty input #34391
+2307. test: add integration test for /submit endpoint #2307
