@@ -3963,3 +3963,4 @@
 4742. perf: cache repeated calculations #4742
 74037. style: standardize quote style #74037
 33255. style: rename variables for clarity #33255
+50750. fix: prevent crash on empty input #50750
