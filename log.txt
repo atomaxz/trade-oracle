@@ -1960,3 +1960,4 @@
 98672. chore: rename env.example #98672
 32475. style: rename variables for clarity #32475
 4667. fix: resolve issue with date parsing #4667
+65691. docs: write FAQ section #65691
