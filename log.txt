@@ -3967,3 +3967,4 @@
 36136. chore: add GitHub actions badge #36136
 86538. docs: clarify environment setup #86538
 45137. refactor: clean up auth middleware #45137
+25444. feat: create admin dashboard #25444
