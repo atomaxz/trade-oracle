@@ -2966,3 +2966,4 @@
 30356. fix: handle 500 error in quiz API #30356
 37020. refactor: clean up auth middleware #37020
 28988. refactor: split large controller into smaller functions #28988
+98099. test: increase coverage on auth module #98099
