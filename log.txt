@@ -1965,3 +1965,4 @@
 30230. style: standardize quote style #30230
 90677. style: apply consistent indentation #90677
 24361. test: test user registration edge cases #24361
+48427. feat: enable dark mode toggle #48427
