@@ -971,3 +971,4 @@
 17837. docs: add API usage examples #17837
 97058. refactor: refactor quiz grading logic #97058
 51970. refactor: clean up auth middleware #51970
+73855. test: mock database connection in test suite #73855
