@@ -2964,3 +2964,4 @@
 25649. perf: lazy-load components #25649
 59124. style: standardize quote style #59124
 30356. fix: handle 500 error in quiz API #30356
+37020. refactor: clean up auth middleware #37020
