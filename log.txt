@@ -1967,3 +1967,4 @@
 24361. test: test user registration edge cases #24361
 48427. feat: enable dark mode toggle #48427
 60625. test: mock database connection in test suite #60625
+32002. chore: rename env.example #32002
