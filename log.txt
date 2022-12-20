@@ -972,3 +972,4 @@
 97058. refactor: refactor quiz grading logic #97058
 51970. refactor: clean up auth middleware #51970
 73855. test: mock database connection in test suite #73855
+4457. test: test user registration edge cases #4457
