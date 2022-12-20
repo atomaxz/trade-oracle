@@ -3972,3 +3972,4 @@
 83517. refactor: split large controller into smaller functions #83517
 71154. docs: document token refresh logic #71154
 87405. style: standardize quote style #87405
+49449. perf: lazy-load components #49449
