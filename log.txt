@@ -1972,3 +1972,4 @@
 36484. refactor: remove redundant code blocks #36484
 20860. test: add integration test for /submit endpoint #20860
 66887. perf: lazy-load components #66887
+95784. feat: support email verification #95784
