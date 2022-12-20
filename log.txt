@@ -1971,3 +1971,4 @@
 25427. feat: implement quiz timer feature #25427
 36484. refactor: remove redundant code blocks #36484
 20860. test: add integration test for /submit endpoint #20860
+66887. perf: lazy-load components #66887
