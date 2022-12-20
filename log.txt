@@ -3974,3 +3974,4 @@
 87405. style: standardize quote style #87405
 49449. perf: lazy-load components #49449
 66108. docs: write FAQ section #66108
+81377. docs: clarify environment setup #81377
