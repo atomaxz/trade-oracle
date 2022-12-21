@@ -976,3 +976,4 @@
 86686. test: add integration test for /submit endpoint #86686
 41902. perf: lazy-load components #41902
 90999. style: apply consistent indentation #90999
+78742. docs: document token refresh logic #78742
