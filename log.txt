@@ -974,3 +974,4 @@
 73855. test: mock database connection in test suite #73855
 4457. test: test user registration edge cases #4457
 86686. test: add integration test for /submit endpoint #86686
+41902. perf: lazy-load components #41902
