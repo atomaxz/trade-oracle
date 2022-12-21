@@ -1973,3 +1973,4 @@
 20860. test: add integration test for /submit endpoint #20860
 66887. perf: lazy-load components #66887
 95784. feat: support email verification #95784
+51113. style: reformat files with black #51113
