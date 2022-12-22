@@ -2976,3 +2976,4 @@
 27136. fix: fix null pointer exception on login #27136
 28386. docs: document token refresh logic #28386
 30771. style: reformat files with black #30771
+35646. perf: optimize database query for quiz results #35646
