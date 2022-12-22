@@ -1975,3 +1975,4 @@
 95784. feat: support email verification #95784
 51113. style: reformat files with black #51113
 45676. chore: add GitHub actions badge #45676
+35668. fix: prevent crash on empty input #35668
