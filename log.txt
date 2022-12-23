@@ -3976,3 +3976,4 @@
 66108. docs: write FAQ section #66108
 81377. docs: clarify environment setup #81377
 10132. style: rename variables for clarity #10132
+25105. style: remove trailing whitespace #25105
