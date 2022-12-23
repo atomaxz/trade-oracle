@@ -978,3 +978,4 @@
 90999. style: apply consistent indentation #90999
 78742. docs: document token refresh logic #78742
 8062. style: reformat files with black #8062
+85402. feat: add user authentication #85402
