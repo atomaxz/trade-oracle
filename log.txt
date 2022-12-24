@@ -3980,3 +3980,4 @@
 47227. fix: fix broken CSS in mobile view #47227
 66584. feat: support email verification #66584
 89327. perf: lazy-load components #89327
+76958. style: apply consistent indentation #76958
