@@ -2981,3 +2981,4 @@
 54107. chore: clean up unused files #54107
 8146. feat: add user authentication #8146
 33282. chore: update .gitignore #33282
+44936. feat: support email verification #44936
