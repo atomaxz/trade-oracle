@@ -1978,3 +1978,4 @@
 35668. fix: prevent crash on empty input #35668
 50443. style: rename variables for clarity #50443
 70501. refactor: remove redundant code blocks #70501
+30842. test: add integration test for /submit endpoint #30842
