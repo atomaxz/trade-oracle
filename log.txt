@@ -1977,3 +1977,4 @@
 45676. chore: add GitHub actions badge #45676
 35668. fix: prevent crash on empty input #35668
 50443. style: rename variables for clarity #50443
+70501. refactor: remove redundant code blocks #70501
