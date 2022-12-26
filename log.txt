@@ -2985,3 +2985,4 @@
 83035. docs: document token refresh logic #83035
 57834. feat: add user authentication #57834
 79747. perf: reduce image load time #79747
+10123. fix: fix broken CSS in mobile view #10123
