@@ -3984,3 +3984,4 @@
 82917. feat: create admin dashboard #82917
 78741. style: rename variables for clarity #78741
 43496. style: rename variables for clarity #43496
+35721. fix: fix broken CSS in mobile view #35721
