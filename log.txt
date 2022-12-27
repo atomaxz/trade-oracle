@@ -988,3 +988,4 @@
 7413. fix: handle 500 error in quiz API #7413
 67492. perf: cache repeated calculations #67492
 21967. test: increase coverage on auth module #21967
+95910. refactor: remove redundant code blocks #95910
