@@ -2987,3 +2987,4 @@
 79747. perf: reduce image load time #79747
 10123. fix: fix broken CSS in mobile view #10123
 38996. chore: rename env.example #38996
+29204. feat: enable dark mode toggle #29204
