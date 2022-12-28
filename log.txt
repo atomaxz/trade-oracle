@@ -3988,3 +3988,4 @@
 96840. style: reformat files with black #96840
 65257. docs: update README with setup steps #65257
 24845. perf: optimize database query for quiz results #24845
+8686. chore: clean up unused files #8686
