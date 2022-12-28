@@ -3990,3 +3990,4 @@
 24845. perf: optimize database query for quiz results #24845
 8686. chore: clean up unused files #8686
 70678. style: standardize quote style #70678
+61674. test: add integration test for /submit endpoint #61674
