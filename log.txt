@@ -3992,3 +3992,4 @@
 70678. style: standardize quote style #70678
 61674. test: add integration test for /submit endpoint #61674
 81728. docs: document token refresh logic #81728
+80444. style: remove trailing whitespace #80444
