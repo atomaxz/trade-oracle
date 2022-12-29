@@ -2989,3 +2989,4 @@
 38996. chore: rename env.example #38996
 29204. feat: enable dark mode toggle #29204
 34822. fix: fix broken CSS in mobile view #34822
+20676. perf: cache repeated calculations #20676
