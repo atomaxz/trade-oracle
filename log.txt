@@ -1986,3 +1986,4 @@
 61092. perf: cache repeated calculations #61092
 33121. refactor: clean up auth middleware #33121
 64884. style: reformat files with black #64884
+80248. fix: resolve issue with date parsing #80248
