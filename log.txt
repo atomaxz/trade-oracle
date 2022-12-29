@@ -995,3 +995,4 @@
 51646. style: rename variables for clarity #51646
 39751. test: add integration test for /submit endpoint #39751
 49134. style: reformat files with black #49134
+15232. test: mock database connection in test suite #15232
