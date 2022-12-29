@@ -990,3 +990,4 @@
 21967. test: increase coverage on auth module #21967
 95910. refactor: remove redundant code blocks #95910
 56952. chore: add GitHub actions badge #56952
+7894. feat: add export to CSV option #7894
