@@ -2990,3 +2990,4 @@
 29204. feat: enable dark mode toggle #29204
 34822. fix: fix broken CSS in mobile view #34822
 20676. perf: cache repeated calculations #20676
+41124. test: mock database connection in test suite #41124
