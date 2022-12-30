@@ -1989,3 +1989,4 @@
 80248. fix: resolve issue with date parsing #80248
 59005. refactor: organize models into subfolders #59005
 6480. perf: optimize database query for quiz results #6480
+15148. perf: lazy-load components #15148
