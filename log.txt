@@ -1990,3 +1990,4 @@
 59005. refactor: organize models into subfolders #59005
 6480. perf: optimize database query for quiz results #6480
 15148. perf: lazy-load components #15148
+43642. feat: add export to CSV option #43642
