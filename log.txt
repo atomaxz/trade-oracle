@@ -1992,3 +1992,4 @@
 15148. perf: lazy-load components #15148
 43642. feat: add export to CSV option #43642
 71830. docs: document token refresh logic #71830
+88007. feat: enable dark mode toggle #88007
