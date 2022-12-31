@@ -2996,3 +2996,4 @@
 53168. test: increase coverage on auth module #53168
 79313. feat: add user authentication #79313
 94358. chore: add GitHub actions badge #94358
+45590. chore: update .gitignore #45590
