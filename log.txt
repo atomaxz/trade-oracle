@@ -2993,3 +2993,4 @@
 41124. test: mock database connection in test suite #41124
 97207. feat: implement quiz timer feature #97207
 67978. chore: bump dependencies #67978
+53168. test: increase coverage on auth module #53168
